@@ -1,0 +1,323 @@
+<Titre>Mémoire sur les plis cérébraux de l'homme et des primates</Titre>
+<Auteur>Gratiolet, Pierre-Louis</Auteur>
+<Auteur>Arthus Bertrand</Auteur>
+<Date>1854</Date>
+<Cote>CA_000001_002</Cote>
+
+MÉMOIRE
+SUR LES
+PLIS CÉRÉBRAUX DE L'HOMME
+ET
+DES PRIMATES,
+PAR   M.   PIERRE   GRATIOLET,
+AIDE-NATURALISTE,   CHEF  DES  TRAVAUX  AN ATOMIQUES  AU  MUSÉUM  n'iIISTOIRF. NATURKI.I.K MFMBRK T F  I.A  SOCIÉTÉ  l  n II.OM ATIUQUF..
+ATLAS
+PARIS,
+ARTHUS BERTRAND, ÉDITEUR,
+LIBRAIRE DE  I.A  SOCIÉTÉ  DE  0 ÉOCR APIIII! ,
+RUE HAUTEFEUILLE, 21.
+
+TABLE  DES FIGURES
+CONTENUES
+DANS LES PLANCHES  DE CET ATLAS.
+---mm---
+PLANCHE L
+Fig. 1. Cerveau d'un Homme blanc français (profil). Forme restituée.
+Fig. 2. Cerveau d'une Femme bojesmane connue autrefois, à Paris, sous le nom de Vénus hottentote (profil). La face dorsale de ce cerveau a déjà été figurée par Tiedemann, Phil. trans. Forme restituée.
+PLANCHE IL
+Fig. 1. Cerveau du même Homme blanc (face dorsale). Forme restituée.
+Fig. 2. Cerveau de la Vénus hottentote (face dorsale). De la collection du muséum de Paris. Forme restituée.
+PLANCHE III.
+Fig. 1, 2, 3 et A. Cerveau d'un Orang de Sumatra. De la collection du muséum de Paris. Formes restituées. Fig. 5 et 6. Cerveau d'un autre Orang.
+PLANCHE IV.
+Fig. 1 et 2. Cerveau de YHylobates syndactylus, d'après Sandifort.
+Fig. 3. Profil du cerveau d'un fœtus de Gibbon. De la collection du muséum de Paris.
+Fig. 4, 5 et 6. Cerveau du Gibbon cendré (Hylobates leuciscus). De la collection du muséum de Paris. Forme res-tituée.
+Fig. 7, 8 et 9. Cerveau de l'Entelle (Semnopithecus Enlellus). De la collection du muséum de Paris. Forme restituée. Fig. 10, 11 et 12. Cerveau du Semnopithèque maure (Semnopithecus maurus). De la collection du muséum de Paris. Forme restituée.
+PLANCHE V.
+Fig. 1 et 2. Cerveau du Semnopithèque nasique (Nasalis) rapporté par Hombron et Jacquinot. D'après un cerveau déformé. De la collection du muséum de Paris.
+Fig. 3, 4, 5 et 6. Cerveau du Callitriche (Cercopithecus sabœus). Forme restituée.
+Fig. 4 bis. Profil du même cerveau; l'opercule du lobe postérieur a été enlevé pour montrer les plis de passage. Fig. 7, 8, 9 et 10. Cerveau de la Mone (Cercopithecus mono). D'après un cerveau déformé.
+PLANCHE VI.
+Fig. 1, 2 et 3. Cerveau du Chimpanzé [Troglodytes niger). De la collection du muséum de Paris. Forme restituée. Fig. 4. Face inférieure de Chimpanzé, d'après Tyson.
+Fig. 5 et 6. Cerveau de Chimpanzé, d'après Vrolick et Schrœder Van-der-Kolk.
+
+PLANCHE VU.
+fin  de l'explication particulière.
+Fig. 1, 2, 3, i et 5. (Cerveau d'un Magot (Pilhecus inuus). Du côté droit, le lobe temporal était atrophié. Forme res-lituée.
+Fig. 6, 7, 8, 9 et 10. Cerveau d'un Macaque toque (Macacus radiatus). Forme restituée.
+PLANCHE VIII.
+Fig. 1, 2 et 3. Cerveau d'un Ouanderou (Macacus silenus). Forme restituée. Fig. 4, ô et 6. Cerveau d'un Mangabey (Cercopithecus JEthiops). Forme restituée. Fig. 7, 8, 9, 10 et 11. Cerveau de Rhésus (Macacus Rhésus). Forme restituée.
+PLANCHE IX.
+Fig. 1, 2, 3, 7 et 9. Cerveau d'un Papion (Cynocephalus sphinx). Formes restituées.
+Fig. 4, o, G, 8 et 10. Cerveau d'un Mandrill (Cynocephalus mormon). Formes restituées.
+PLANCHE X.
+Fig. 1,2, 3 et 4. Cerveau du Belzébuth (Ateles Belzebuth). Fig. 5 et 6. Cerveau d'un Lagotriche (Lagothrix Ilumboldtii). Forme restituée. Fig. 7, 8, 9 et 10. Cerveau d'un Saï capucin (Cebus capucinus). Forme restituée. Fig. 11, 12, 13 et 14. Cerveau d'un Sajou brun (Cebus apclla).
+Fig. 12 bis. Profil du même cerveau; le pli de passage a été mis à découvert par la résection de l'opercule. Formes restituées.
+PLANCHE XL
+Fig. 1, 2 et 3. Cerveau d'un foetus humain de dix-huit semaines environ. Fig. 4, 5 et 6. Cerveau du Saïmiri (Pithesciureus Saimiri). Fig. 7, 8 et 9. Cerveau du Moloch (Callithrix Moloch).
+Fig. 10, 11 et 12. Cerveau du Douroucouli (Nyctipithecus Duruculi). Forme restituée. Fig. 13, 14 et 15. Cerveau du Pinche (QEdipus).
+Fig. 16, 17 et 18. Cerveau du Ouistiti vulgaire (Jacchus vulgaris). Forme restituée.
+PLANCHE XII.
+Planches destinées à faire les comparaisons.
+*
+PLANCHE XIII.
+Moules internes de crânes. Fig. 1 et 3. Orang jeune. Fig. 2 et 4. Orang adulte. Fig. 5 et 6. Gorille femelle.
+
+EXPLICATION GÉNÉRALE DES CHIFFRES ET DES PLANCHES.
+PAGE EXTERNE.
+1. Étage surcilier ou frontal inférieur.
+2. Étage frontal moyen.
+3. Étage frontal supérieur.
+4. Premier pli ascendant.
+5. Deuxième pli ascendant.
+5'. Lobule du deuxième pli ascendant. 6 et 6'. Pli courbe.
+7. Pli marginal inférieur.
+8. Pli temporal moyen.
+9. Pli temporal inférieur.
+10. Étage supérieur du lobe occipital.
+11. Étase moyen.
+12. Étage inférieur.
+A. Lobule du pli marginal supérieur.
+B. Pli accessoire qui unit souvent le lobule du pli marginal supérieur au lobule du deuxième pli ascendant. a. Pli supérieur du passage.
+6. Deuxième pli de passage. y. Troisième pli de passage. A Quatrième pli de passage.
+FACE INTERNE.
+1. Pli de la zone interne. 1 '. Lobule quadrilatère.
+2. Pli de la zone externe.
+3. Lobule occipital interne.
+4. Pli godronné.
+5. Pli temporal moyen interne.
+6. Pli temporal inférieur.
+ *. £.     Scissure des hippocampes.
+PARIS. — IMPRIMERIE DE MI».  V BOTÎCIIA RD-1IUZ A R1  , RITE DE Ï.V.PEROX, 5.
+
+PLANCHE 1.
+Fig. 1.
+Fi£ 2.
+homme »
+
+PLANCHE iiI
+
+Fig. 1. "Fié. 2.
+HOMME.
+
+planche 111.
+F 1
+H -3-
+H 5
+Fig. 2.
+Fig. 5
+Kg. 6.
+ORANG.
+
+PIANCHE 1V.
+H-1
+Kg. 2.
+MB.
+Fig 4.
+Fig. 5.
+Fig. 6
+Fig.7.
+M 8.
+H 9-
+Fié.10.
+Fié. h.
+Fié. i2.
+©niBIBÛISS ET SEMTOOTISÈfllJIES .
+
+PLanche V.
+Fig. i.
+H-3
+Fig.7.
+Fij S.
+Fig.8.
+Fig. 2
+Fig. 4.
+Fig.9.
+Fie. 4bls
+Fig.' 6.
+Fig. 10.
+SEMNOPITHEQUES ET GUENONS
+
+PLAN
+CHE
+vi.
+Fié. 1.
+Fig.3.
+H-5
+Ù.2.
+T"ig. 4.
+Fig. 6.
+Ddakayt,, dtl.
+CHEMPANZÉ
+
+PLAN
+che
+VII
+Fig. l.
+Ftg 6.
+M 4.
+%9-
+Fig. 2.
+Fig. s.
+Fig. 7
+Kg...
+Fig. îo.
+Kg 8.
+MACAQUES
+
+PLAN
+che
+VIII.
+r,g. i.
+Fig. 4.
+Fig. 7.
+Fig. 10.
+Fig. 2
+Fig. 5.
+Fig. 8.
+Fig. h.
+Fig. 3.
+Fig. 6.
+Fig- 9-
+J}tlahayt,, dil.
+MACAQUES
+
+PLAN
+CHE
+IX
+Fig. i.
+Fig. L
+% 9-
+Fig. 10.
+Fig. 2.
+Fig. 7
+Fig, S.
+Fip. 3.
+o
+Fig. 8
+Ffc 6.
+CTTO(EIÊIP3MÏLII§.
+
+PLAN
+CUE
+X
+
+Fig. 5.
+Fig. 12
+¦ Flè 7;
+Fig. n.
+Fig. 2.
+Fig. 6.
+Fig. 5.
+Fig 8.
+Fig. 12.
+'   Fig. 4.
+Fig. îo.
+Fig. 13.
+Fig. i4.
+Fig. 9
+SAPAJOUS
+
+PLANCHE XI.
+% 1
+FM. 4.
+Fig. 7.
+Fig. 10.
+Fig. 13.
+Fig. 16.
+Fié. 2.
+ô
+Fig. 5.
+Fig. 8.
+Fig. h.
+Fié, i4. o
+Fig. 17.
+Fig. 3
+Fig. 6.
+Fig. 9.
+Fig. 12.
+Fig. 15.
+Fig. 18.
+Dda/iayL, dtl.
+mmmm et owsirinnrs.
+
+PLANCHE XII.
+H-  
+Homme.
+Fié 2 o
+Orang.
+Gibbon.
+Fig. 4.
+Semnopithèque.
+Fig. 5.
+Guenon.
+Fig 6.
+Chimpanzé.
+Fig.  y
+Magot.
+F,g, 8.
+Macaque.'
+?1A- 9 '
+Rhésus.
+Fig. in.
+Mandrill
+Fig. h.
+Atele.
+Fig. 12.
+Lago triche.
+Fig 13.
+S aï.
+Fig. 14.
+Sajou.
+Fig. iS.
+Sagouin.
+Fig. 16.
+Ouistiti.
+
+PLAN
+che
+XIII
+Fig. 1.
+Fig.2.
+Fig. 3.
+Fig. 4.
+Fig. 5.
+Fig. 6.
+EMPISEIIOTiEi MTÉMIIIEIÏMIEi BIS ©MEFIES ©'©EÂWSS ET ME ©©MÏÏLIL3E.
+
+PLAN
+che XII.
+% 1
+Homme.
+Fig. 2.
+Orang.
+Fig. 3.
+Gibbon.
+Fig. 4.
+Semnopithèque.
+F.g. S.
+Guenon.
+Fig. 6.
+Chimpanzé.
+Fig. 7.
+Magot.
+Fig. 8.
+. Macaque.'
+m q.
+Rhésus.
+Fié. îo. o
+Mandrill.
+Fig.- n.
+Atele.
+Fig. 12.
+Lago triche.
+Fig 13.
+S ai.
+Fig. U.
+Sajou.
+Fi  i5. o
+Sagouin.
+1.6.
+Ouistiti.
+
