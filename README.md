@@ -39,15 +39,15 @@ Cet atelier présente deux librairies Python, `keybert` et `keyphrase-vectorizer
 
 ### Programme
 
-* `keybert`
-* `keyphrase-vectorizers`
+* présentation des librairies `keybert` et `keyphrase-vectorizers` 
+* mise en pratique des librairies citées
+* retour d'expérience sur l'utilisation des librairies citées
 
 ---
 
 ### Prérequis
 
 * ordinateurs avec une bonne connexion wifi
-
 * accès à Google Colab
 * connaissance du langage de programmation Python
 
