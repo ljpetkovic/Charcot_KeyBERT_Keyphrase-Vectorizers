@@ -1,0 +1,29 @@
+\begin{frame}{Définition de la tâche}
+Angl. \textit{keyphrases} : \og{}phrases-clés\fg{}
+\begin{itemize}
+\item séquences de plusieurs mots (ex. \textit{sclérose latérale amyotrophique})
+\item reflètent plus précisément le contexte sémantique du texte \\\small{$\neq$ mots-clés, ex. \textit{sclérose}}
+\end{itemize}
+\bigskip
+\begin{table}[h!]
+\justifying
+\begin{tabular}{ll}
+Extraction &
+  Prédiction \\
+  \small
+\begin{tabular}[l]{@{}l@{}}
+ Processus de \underline{sélection} d'un ensemble\\ de phrases les plus pertinentes à partir \\d'un texte donné \citep{schopf2022}.\end{tabular} &
+ \small
+  \begin{tabular}[l]{@{}l@{}}
+  Processus de \underline{génération} des phra-\\ses-clés qui résument parfaitement\\ un document donné \citep{xie2023}.\end{tabular}
+\end{tabular}
+\end{table}
+%Extraction de phrases-clés
+%
+%Processus de \underline{sélection} automatique d'un petit ensemble de phrases les plus pertinentes à partir d'un texte donné \citep{schopf2022}.
+%
+%\begin{block}{Prédiction de phrases-clés}
+%\justifying
+%Processus de \underline{génération} des phrases-clés qui résument parfaitement un document donné \citep{xie2023}.
+%\end{block} 
+\end{frame}

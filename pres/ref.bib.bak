@@ -1,0 +1,133 @@
+@conference{schopf2022,
+author={T. Schopf and S. Klimek and F. Matthes},
+title={\href{https://doi.org/10.5220/0011546600003335}{PatternRank: Leveraging Pretrained Language Models and Part of Speech for Unsupervised Keyphrase Extraction}},
+booktitle={Proceedings of the 14th International Joint Conference on Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K 2022) -- KDIR},
+year={2022},
+pages={243-248},
+publisher={SciTePress},
+organization={INSTICC}
+}
+
+@article{xie2023,
+title = {\href{https://doi.org/10.1016/j.ipm.2023.103382}{From Statistical Methods to Deep Learning, Automatic Keyphrase
+Prediction: A Survey}},
+journal = {Information Processing \& Management},
+volume = {60},
+number = {4},
+pages = {103382},
+year = {2023},
+author = {B. Xie and J. Song and L. Shao and S. Wu and X. Wei and B. Yang and H. Lin and J. Xie and J. Su}
+}
+
+@misc{grootendorst2020keybert,
+  author       = {M. Grootendorst},
+  title        = {\href{https://doi.org/10.5281/zenodo.4461265}{KeyBERT: Minimal keyword extraction with BERT.}},
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v0.3.0}
+}
+ 
+@article{CAMPOS2020257,
+title = {\href{https://doi.org/10.1016/j.ins.2019.09.013}{YAKE! Keyword extraction from single documents using multiple local features}},
+journal = {Information Sciences},
+volume = {509},
+pages = {257-289},
+year = {2020},
+author = {Ricardo Campos and Vítor Mangaravite and Arian Pasquali and Alípio Jorge and Célia Nunes and Adam Jatowt},
+keywords = {Keyword extraction, Information extraction, Unsupervised Algorithm}
+}
+
+
+@inproceedings{wan2008,
+    title = "\href{https://aclanthology.org/C08-1122}{{C}ollab{R}ank: Towards a Collaborative Approach to Single-Document Keyphrase Extraction}",
+    author = "Wan, Xiaojun  and
+      Xiao, Jianguo",
+    editor = "Scott, Donia  and
+      Uszkoreit, Hans",
+    booktitle = "Proceedings of the 22nd International Conference on Computational Linguistics (Coling 2008)",
+    month = aug,
+    year = "2008",
+    address = "Manchester, UK",
+    publisher = "Coling 2008 Organizing Committee",
+    pages = "969--976",
+}
+
+@article{sparck1972statistical,
+  title={\href{https://doi.org/10.1108/eb026526}{A {S}tatistical {I}nterpretation of {T}erm {S}pecificity and its {A}pplication in {R}etrieval}},
+  author={Sparck Jones, Karen},
+  journal={Journal of documentation},
+  volume={28},
+  number={1},
+  pages={11--21},
+  year={1972},
+  publisher={MCB UP Ltd}
+}
+
+@article{rose2010automatic,
+  title={\href{https://doi.org/10.1002/9780470689646.ch1}{Automatic {K}eyword {E}xtraction from {I}ndividual {D}ocuments}},
+  author={Rose, Stuart and Engel, Dave and Cramer, Nick and Cowley, Wendy},
+  journal={Text {M}ining: {A}pplications and {T}heory},
+  pages={1--20},
+  year={2010},
+  publisher={Wiley Online Library}
+}
+
+@inproceedings{bougouin2013topicrank,
+  title={\href{https://hal.science/hal-00917969}{TopicRank: Graph-Based Topic Ranking for Keyphrase Extraction}},
+  author={Bougouin, Adrien and Boudin, Florian and Daille, B{\'e}atrice},
+  booktitle={International Joint Conference on Natural Language Processing (IJCNLP)},
+  pages={543--551},
+  year={2013}
+}
+
+@inproceedings{mihalcea2004,
+    title = "\href{https://aclanthology.org/W04-3252}{{T}ext{R}ank: Bringing Order into Text}",
+    author = "Mihalcea, Rada  and
+      Tarau, Paul",
+    editor = "Lin, Dekang  and
+      Wu, Dekai",
+    booktitle = "Proceedings of the 2004 Conference on Empirical Methods in Natural Language Processing",
+    year = "2004",
+    address = "Barcelona, Spain",
+    publisher = "Association for Computational Linguistics",
+    pages = "404--411",
+}
+
+@online{garaudclassiques,
+  author       = {Daniel Garaud},
+  title        = {\href{https://fr.oncrawl.com/seo-technique/extraire-automatiquement-concepts-mots-cles-texte-methodes-classiques/}{Extraire automatiquement les concepts et mots-clés d’un texte (Part I : Les méthodes dites classiques)}},
+  date =  {2022-02-22},
+  urldate         = {2024-04-09},
+  note    = {Oncrawl}
+}
+
+@online{garaudsemantiques,
+  author       = {Daniel Garaud},
+  title        = {\href{https://fr.oncrawl.com/seo-technique/extraire-automatiquement-concepts-mots-cles-texte-part-ii-approche-semantique/}{Extraire automatiquement les concepts et mots-clés d’un texte (Part II : approche sémantique)}},
+  date =  {2022-02-22},
+  urldate         = {2024-04-09},
+  note    = {Oncrawl}
+}
+
+@article{mikolov2013efficient,
+  title={\href{https://arxiv.org/abs/1301.3781}{Efficient Estimation of Word Representations in Vector Space}},
+  author={Mikolov, Tomas and Chen, Kai and Corrado, Greg and Dean, Jeffrey},
+  journal={arXiv preprint arXiv:1301.3781},
+  year={2013}
+}
+
+@article{vaswani2017attention,
+  title={\href{https://arxiv.org/abs/1706.03762}{Attention Is All You Need}},
+  author={Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L}ukasz and Polosukhin, Illia},
+  journal={Advances in Neural Information Processing Systems},
+  volume={30},
+  year={2017}
+}
+
+@inproceedings{mahata2018key2vec,
+  title={\href{https://doi.org/10.18653/v1/N18-2100}{Key2Vec: Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase Embeddings}},
+  author={Mahata, Debanjan and Kuriakose, John and Shah, Rajiv and Zimmermann, Roger},
+  booktitle={Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers)},
+  pages={634--639},
+  year={2018}
+}

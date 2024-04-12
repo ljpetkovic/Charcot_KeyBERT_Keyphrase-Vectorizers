@@ -1,0 +1,4 @@
+\babel@toc {french}{}\relax 
+\beamer@sectionintoc {1}{Contexte de recherche}{3}{0}{1}
+\beamer@sectionintoc {2}{État de l'art}{5}{0}{2}
+\beamer@sectionintoc {3}{\textit {PatternRank} en pratique}{11}{0}{3}

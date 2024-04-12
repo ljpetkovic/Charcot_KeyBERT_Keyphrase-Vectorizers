@@ -1,0 +1,14 @@
+\begin{frame}{Extraction des phrases-clés avec \texttt{keybert} et \texttt{keyphrase-vectorizers}}
+Ressources en ligne :
+\begin{itemize}
+\item \href{https://colab.research.google.com/drive/1sBJP-lJcKZPgIqWzFRNfrBn3domuy1tP?usp=sharing}{Lien Google Colab}\\
+pré-requis :
+\begin{itemize}
+\item bonne connexion réseau
+\item mémoire RAM suffisante
+\end{itemize}
+\item \href{https://github.com/ljpetkovic/Charcot\_KeyBERT\_Keyphrase-Vectorizers?tab=readme-ov-file}{Dépôt GitHub}
+\end{itemize}
+
+\end{frame}
+

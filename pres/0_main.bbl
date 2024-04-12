@@ -1,0 +1,542 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{bougouin2013topicrank}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=BA}{%
+         family={Bougouin},
+         familyi={B\bibinitperiod},
+         given={Adrien},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Boudin},
+         familyi={B\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Daille},
+         familyi={D\bibinitperiod},
+         given={B{\'e}atrice},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA+1}
+    \strng{fullhash}{BABFDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{booktitle}{International Joint Conference on Natural Language
+  Processing (IJCNLP)}
+    \field{pages}{543\bibrangedash 551}
+    \field{title}{\href{https://hal.science/hal-00917969}{TopicRank:
+  Graph-Based Topic Ranking for Keyphrase Extraction}}
+    \field{year}{2013}
+  \endentry
+
+  \entry{CAMPOS2020257}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CR}{%
+         family={Campos},
+         familyi={C\bibinitperiod},
+         given={Ricardo},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=MV}{%
+         family={Mangaravite},
+         familyi={M\bibinitperiod},
+         given={Vítor},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Pasquali},
+         familyi={P\bibinitperiod},
+         given={Arian},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jorge},
+         familyi={J\bibinitperiod},
+         given={Alípio},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=NC}{%
+         family={Nunes},
+         familyi={N\bibinitperiod},
+         given={Célia},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jatowt},
+         familyi={J\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Keyword extraction, Information extraction, Unsupervised Algorithm}
+    \strng{namehash}{CR+1}
+    \strng{fullhash}{CRMVPAJANCJA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{257\bibrangedash 289}
+    \field{title}{\href{https://doi.org/10.1016/j.ins.2019.09.013}{YAKE!
+  Keyword extraction from single documents using multiple local features}}
+    \field{volume}{509}
+    \field{journaltitle}{Information Sciences}
+    \field{year}{2020}
+  \endentry
+
+  \entry{garaudclassiques}{online}{}
+    \name{author}{1}{}{%
+      {{hash=GD}{%
+         family={Garaud},
+         familyi={G\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GD1}
+    \strng{fullhash}{GD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{Oncrawl}
+  \field{title}{\href{https://fr.oncrawl.com/seo-technique/extraire-automatiquement-concepts-mots-cles-texte-methodes-classiques/}{Extraire
+  automatiquement les concepts et mots-clés d’un texte (Part I : Les
+  méthodes dites classiques)}}
+    \field{day}{22}
+    \field{month}{02}
+    \field{year}{2022}
+    \field{urlday}{09}
+    \field{urlmonth}{04}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{garaudsemantiques}{online}{}
+    \name{author}{1}{}{%
+      {{hash=GD}{%
+         family={Garaud},
+         familyi={G\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GD1}
+    \strng{fullhash}{GD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{note}{Oncrawl}
+  \field{title}{\href{https://fr.oncrawl.com/seo-technique/extraire-automatiquement-concepts-mots-cles-texte-part-ii-approche-semantique/}{Extraire
+  automatiquement les concepts et mots-clés d’un texte (Part II : approche
+  sémantique)}}
+    \field{day}{22}
+    \field{month}{02}
+    \field{year}{2022}
+    \field{urlday}{09}
+    \field{urlmonth}{04}
+    \field{urlyear}{2024}
+  \endentry
+
+  \entry{grootendorst2020keybert}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=GM}{%
+         family={Grootendorst},
+         familyi={G\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Zenodo}%
+    }
+    \strng{namehash}{GM1}
+    \strng{fullhash}{GM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{\href{https://doi.org/10.5281/zenodo.4461265}{KeyBERT:
+  Minimal keyword extraction with BERT.}}
+    \field{version}{v0.3.0}
+    \field{year}{2020}
+  \endentry
+
+  \entry{mahata2018key2vec}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=MD}{%
+         family={Mahata},
+         familyi={M\bibinitperiod},
+         given={Debanjan},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=KJ}{%
+         family={Kuriakose},
+         familyi={K\bibinitperiod},
+         given={John},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Shah},
+         familyi={S\bibinitperiod},
+         given={Rajiv},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zimmermann},
+         familyi={Z\bibinitperiod},
+         given={Roger},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MD+1}
+    \strng{fullhash}{MDKJSRZR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Proceedings of the 2018 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies, Volume 2 (Short Papers)}
+    \field{pages}{634\bibrangedash 639}
+    \field{title}{\href{https://doi.org/10.18653/v1/N18-2100}{Key2Vec:
+  Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase
+  Embeddings}}
+    \field{year}{2018}
+  \endentry
+
+  \entry{mihalcea2004}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=MR}{%
+         family={Mihalcea},
+         familyi={M\bibinitperiod},
+         given={Rada},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=TP}{%
+         family={Tarau},
+         familyi={T\bibinitperiod},
+         given={Paul},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=LD}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Dekang},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=WD}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Dekai},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computational Linguistics}%
+    }
+    \strng{namehash}{MRTP1}
+    \strng{fullhash}{MRTP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2004}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{Proceedings of the 2004 Conference on Empirical Methods
+  in Natural Language Processing}
+    \field{pages}{404\bibrangedash 411}
+    \field{title}{\href{https://aclanthology.org/W04-3252}{{T}ext{R}ank:
+  Bringing Order into Text}}
+    \list{location}{1}{%
+      {Barcelona, Spain}%
+    }
+    \field{year}{2004}
+  \endentry
+
+  \entry{rose2010automatic}{article}{}
+    \name{author}{4}{}{%
+      {{hash=RS}{%
+         family={Rose},
+         familyi={R\bibinitperiod},
+         given={Stuart},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=ED}{%
+         family={Engel},
+         familyi={E\bibinitperiod},
+         given={Dave},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CN}{%
+         family={Cramer},
+         familyi={C\bibinitperiod},
+         given={Nick},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Cowley},
+         familyi={C\bibinitperiod},
+         given={Wendy},
+         giveni={W\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Wiley Online Library}%
+    }
+    \strng{namehash}{RS+1}
+    \strng{fullhash}{RSEDCNCW1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{pages}{1\bibrangedash 20}
+    \field{title}{\href{https://doi.org/10.1002/9780470689646.ch1}{Automatic
+  {K}eyword {E}xtraction from {I}ndividual {D}ocuments}}
+    \field{journaltitle}{Text {M}ining: {A}pplications and {T}heory}
+    \field{year}{2010}
+  \endentry
+
+  \entry{schopf2022}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=ST}{%
+         family={Schopf},
+         familyi={S\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Klimek},
+         familyi={K\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Matthes},
+         familyi={M\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {INSTICC}%
+    }
+    \list{publisher}{1}{%
+      {SciTePress}%
+    }
+    \strng{namehash}{ST+1}
+    \strng{fullhash}{STKSMF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{Proceedings of the 14th International Joint Conference on
+  Knowledge Discovery, Knowledge Engineering and Knowledge Management (IC3K
+  2022) -- KDIR}
+    \field{pages}{243\bibrangedash 248}
+    \field{title}{\href{https://doi.org/10.5220/0011546600003335}{PatternRank:
+  Leveraging Pretrained Language Models and Part of Speech for Unsupervised
+  Keyphrase Extraction}}
+    \field{year}{2022}
+  \endentry
+
+  \entry{sparck1972statistical}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SJK}{%
+         family={Sparck\bibnamedelima Jones},
+         familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+         given={Karen},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {MCB UP Ltd}%
+    }
+    \strng{namehash}{SJK1}
+    \strng{fullhash}{SJK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{1972}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{number}{1}
+    \field{pages}{11\bibrangedash 21}
+    \field{title}{\href{https://doi.org/10.1108/eb026526}{A {S}tatistical
+  {I}nterpretation of {T}erm {S}pecificity and its {A}pplication in
+  {R}etrieval}}
+    \field{volume}{28}
+    \field{journaltitle}{Journal of documentation}
+    \field{year}{1972}
+  \endentry
+
+  \entry{wan2008}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=WX}{%
+         family={Wan},
+         familyi={W\bibinitperiod},
+         given={Xiaojun},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xiao},
+         familyi={X\bibinitperiod},
+         given={Jianguo},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=SD}{%
+         family={Scott},
+         familyi={S\bibinitperiod},
+         given={Donia},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=UH}{%
+         family={Uszkoreit},
+         familyi={U\bibinitperiod},
+         given={Hans},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Coling 2008 Organizing Committee}%
+    }
+    \strng{namehash}{WXXJ1}
+    \strng{fullhash}{WXXJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2008}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{Proceedings of the 22nd International Conference on
+  Computational Linguistics (Coling 2008)}
+    \field{pages}{969\bibrangedash 976}
+    \field{title}{\href{https://aclanthology.org/C08-1122}{{C}ollab{R}ank:
+  Towards a Collaborative Approach to Single-Document Keyphrase Extraction}}
+    \list{location}{1}{%
+      {Manchester, UK}%
+    }
+    \field{month}{08}
+    \field{year}{2008}
+  \endentry
+
+  \entry{xie2023}{article}{}
+    \name{author}{9}{}{%
+      {{hash=XB}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Shao},
+         familyi={S\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WS}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=YB}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xie},
+         familyi={X\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{XB+1}
+    \strng{fullhash}{XBSJSLWSWXYBLHXJSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{labeldatesource}{}
+    \field{sortinit}{X}
+    \field{sortinithash}{X}
+    \field{number}{4}
+    \field{pages}{103382}
+    \field{title}{\href{https://doi.org/10.1016/j.ipm.2023.103382}{From
+  Statistical Methods to Deep Learning, Automatic Keyphrase Prediction: A
+  Survey}}
+    \field{volume}{60}
+    \field{journaltitle}{Information Processing \& Management}
+    \field{year}{2023}
+  \endentry
+\enddatalist
+\endinput

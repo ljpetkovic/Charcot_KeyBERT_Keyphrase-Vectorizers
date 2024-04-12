@@ -1,0 +1,257 @@
+\documentclass[xcolor={table,usenames,dvipsnames}]{beamer}
+\usepackage{eso-pic} 
+\usepackage[absolute,overlay]{textpos}
+\usepackage{colortbl}
+\usepackage{fourier}
+\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+
+\usepackage{tabularx}
+\setbeamertemplate{blocks}[rounded][shadow=true]
+%\let\olditem\item
+%\renewcommand{\item}{%
+%\olditem\vspace{0pt}}   
+  
+\usepackage{ragged2e}
+
+%\usepackage[round]{natbib} % incompatible avec biblatex
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=.,
+    filecolor=deepblue,      
+    urlcolor=deepblue,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen,
+    citecolor=deepblue
+    }
+\definecolor{LightCyan}{rgb}{0.88,1,1}   
+\usepackage[justification=centering]{caption}
+\captionsetup{font=scriptsize}
+\captionsetup[figure]{name=Fig.}
+\setbeamertemplate{caption}[numbered]
+\usepackage[T1]{fontenc}
+\usepackage{ctex}
+\UseRawInputEncoding
+%\usepackage[backend=bibtex, style=authoryear, natbib=true, sorting=nty, backref=true]{biblatex}
+\usepackage[style=authoryear, maxbibnames=99, mincitenames=1, maxcitenames=2, backref=true, hyperref=true, dashed=false, firstinits=true, backend=bibtex, bibencoding=utf8, uniquename=false, uniquelist=false, natbib=true]{biblatex}
+\renewcommand*{\bibfont}{\footnotesize}
+
+% Remove quotation marks from titles
+\DeclareFieldFormat[article,incollection,inproceedings,conference]{title}{#1} 
+\addbibresource{ref.bib}
+
+%\usepackage[backend=bibtex,
+%style=authoryear,
+%natbib=true,
+%sorting=nty,
+%backref=true
+%]{biblatex}
+
+\let\oldnocite\nocite
+\makeatletter
+\renewcommand*{\nocite}[1]{\oldnocite{#1}\Hy@backout{#1}}
+\makeatother
+
+\renewcommand*{\bibfont}{\footnotesize}
+
+\DeclareCiteCommand{\cite}
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \printtext[bibhyperref]{\usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand*{\cite}
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \printtext[bibhyperref]{\usebibmacro{citeyear}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\parencite}[\mkbibparens]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+    \printtext[bibhyperref]{\usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand*{\parencite}[\mkbibparens]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+    \printtext[bibhyperref]{\usebibmacro{citeyear}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\footcite}[\mkbibfootnote]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+  \printtext[bibhyperref]{ \usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+\DeclareCiteCommand{\footcitetext}[\mkbibfootnotetext]
+  {\usebibmacro{prenote}}
+  {\usebibmacro{citeindex}%
+   \printtext[bibhyperref]{\usebibmacro{cite}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
+
+%\DeclareCiteCommand{\textcite}
+%  {\boolfalse{cbx:parens}}
+%  {\usebibmacro{citeindex}%
+%   \printtext[bibhyperref]{\usebibmacro{textcite}}}
+%  {\ifbool{cbx:parens}
+%     {\bibcloseparen\global\boolfalse{cbx:parens}}
+%     {}%
+%   \multicitedelim}
+%  {\usebibmacro{textcite:postnote}}
+
+        \DeclareCiteCommand{\textcite}
+        {\usebibmacro{cite:init}%
+            \usebibmacro{prenote}}
+        {\usebibmacro{citeindex}%
+            \printtext[bibhyperref]{\usebibmacro{textcite}}}
+        {}
+        {\printtext[bibhyperref]{\usebibmacro{textcite:postnote}}%
+            \usebibmacro{cite:post}}
+
+\addbibresource{ref.bib}
+
+% Cannot enable in Xelatex
+\usepackage{pgfpages}
+% \setbeameroption{hide notes} % Only slides
+% \setbeameroption{show only notes} % Only notes
+% \setbeameroption{show notes on second screen}
+
+% other packages
+\usepackage{latexsym,amsmath,multicol,booktabs,calligra}
+\usepackage{graphicx,listings,stackengine}
+\usepackage[greek,french]{babel}
+\usepackage[LGR,T1]{fontenc}
+\usepackage{fontspec}
+
+%\usepackage[sfdefault,light,scaled=.85]{merriweather} %% Option 'black' gives heavier bold face 
+
+
+\usepackage[sfdefault]{AlegreyaSans} %% Option 'black' gives heavier bold face
+%% The 'sfdefault' option to make the base font sans serif
+\renewcommand*\oldstylenums[1]{{\AlegreyaSansOsF #1}}
+
+
+
+% Define a command for text in Greek. Replace 'Gentium Plus' with a font of your choice if necessary.
+\newfontfamily\greekfont{Gentium Plus}
+\newcommand{\textgreek}[1]{{\greekfont #1}}
+
+\DefineBibliographyStrings{french}{%
+  backrefpage = {voir p\adddot},%
+  backrefpages = {voir pp\adddot}%
+}
+\DeclareFieldFormat{pagerefformat}{\mkbibparens{{\color{red}\mkbibemph{#1}}}}
+\renewbibmacro*{pageref}{%
+  \iflistundef{pageref}
+    {}
+    {\printtext[pagerefformat]{%
+       \ifnumgreater{\value{pageref}}{1}
+         {\bibstring{backrefpages}\ppspace}
+         {\bibstring{backrefpage}\ppspace}%
+       \printlist[pageref][-\value{listtotal}]{pageref}}}}
+\usepackage{wasysym}
+% Enable only in Xelatex
+ \usepackage{pstricks}
+
+\author[Ljudmila PETKOVIC]{\small \textbf{Ljudmila PETKOVIC}\textsuperscript{1,2,3}\\\medskip{\footnotesize\texttt{prenom.nom@sorbonne-universite.fr}}}
+\title[Extraction des concepts-clés à partir du fonds Charcot]{\fontsize{13pt}{13pt}\selectfont Extraction des concepts-clés à partir du fonds Charcot}
+\subtitle{Approche \textit{PatternRank}}
+\institute [JE \og{}Humanités numériques\fg{}] {\tiny \textsuperscript{1} Sorbonne Université, Faculté des Lettres, \textsc{UFR} Littératures françaises et comparée, ED 3\\\textsuperscript{2} Centre d'étude de la langue et des littératures françaises (\textsc{CELLF}), \textsc{UMR 8599}\\\textsuperscript{3} Observatoire des textes, des idées et des corpus (\textsc{ObTIC})}
+\date[DataLab, le 24 avril 2024]{\scriptsize  Atelier \textsc{ObTIC}\\DataLab, \textsc{BnF}\\Paris, le 24 avril 2024}
+\usepackage{YTU}
+
+% defs
+\def\cmd#1{\texttt{\color{red}\footnotesize $\backslash$#1}}
+\def\env#1{\texttt{\color{blue}\footnotesize #1}}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+\definecolor{halfgray}{gray}{0.55}
+\definecolor{warmblack}{rgb}{0.0, 0.26, 0.26}
+
+\lstset{
+    basicstyle=\ttfamily\small,
+    keywordstyle=\bfseries\color{deepblue},
+    emphstyle=\ttfamily\color{deepred},    % Custom highlighting style
+    stringstyle=\color{deepgreen},
+    numbers=left,
+    numberstyle=\small\color{halfgray},
+    rulesepcolor=\color{red!20!green!20!blue!20},
+    frame=shadowbox,
+}
+% \logo{%
+%     \includegraphics[width=1cm,height=1cm,keepaspectratio]{pic/obtic.jpg}~%
+%     \includegraphics[width=1cm,height=1cm,keepaspectratio]{pic/Lettres_su_logo.png}~%
+% }
+\usepackage{enumerate}
+\setbeamertemplate{section in toc}{\hspace*{1em}\inserttocsectionnumber.~\inserttocsection\par}
+\setbeamertemplate{subsection in toc}{\hspace*{2em}\inserttocsectionnumber.\inserttocsubsectionnumber.~\inserttocsubsection\par}
+\renewcommand*{\bibfont}{\scriptsize}
+
+
+
+\let\oldfootnotesize\footnotesize
+\renewcommand*{\footnotesize}{\oldfootnotesize\scriptsize}
+
+%\setbeamertemplate{itemize/enumerate body begin}{\small}
+\setbeamertemplate{itemize/enumerate subbody begin}{\small}
+%
+%\newcommand{\leftquote}{{\fontfamily{lmr}\selectfont\textquotedblleft}}
+%\newcommand{\rightquote}{{\fontfamily{lmr}\selectfont\textquotedblright}}
+%\newcommand{\leftguillemet}{{\fontfamily{lmr}\selectfont\guillemotleft}}
+%\newcommand{\rightguillemet}{{\fontfamily{lmr}\selectfont\guillemotright}}
+
+
+
+
+
+\begin{document}
+
+\begin{frame}
+    \titlepage
+\begin{figure}
+    \centering
+    
+    \includegraphics[width=2cm,height=1cm,keepaspectratio]{pic/Lettres_su_logo.png}~\hspace*{0.5cm}%\includegraphics{}
+    \includegraphics[width=2cm,height=1cm,keepaspectratio]{pic/cellf.png}~\hspace*{0.5cm}%
+    \includegraphics[width=3cm,height=1cm,keepaspectratio]{pic/obtic.jpg}~%
+
+\end{figure}
+    
+    \begin{note}
+        {Introduce your self}
+    \end{note}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Plan}
+    \tableofcontents[sectionstyle=show,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
+\end{frame}
+
+\section[Contexte]{Contexte de recherche}
+%\subsection{Rupture épistémologique}
+\input{contexte}
+\section[État de l'art]{État de l'art}
+\input{sota}
+\section[\textit{PatternRank}]{\textit{PatternRank} en pratique}
+\input{patternrank}
+
+
+
+% \appendix
+
+\begin{frame}[allowframebreaks]{Références}
+\printbibliography
+
+\end{frame}
+
+\end{document}
