@@ -2,7 +2,7 @@
 Angl. \textit{keyphrases} : \og{}phrases-clés\fg{}
 \begin{itemize}
 \item séquences de plusieurs mots (ex. \textit{sclérose latérale amyotrophique})
-\item reflètent plus précisément le contexte sémantique du texte \\\small{$\neq$ mots-clés, ex. \textit{sclérose}}
+\item reflètent plus précisément le contexte sémantique du texte \\\small{$\neq$ mots-clés : unigrammes de mot, ex. \textit{sclérose}}
 \end{itemize}
 \bigskip
 \begin{table}[h!]

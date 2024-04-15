@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  12 APR 2024 16:45
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  15 APR 2024 17:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2240,31 +2240,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> ^^"hN^^Þ^^_
+ -> LC^^B^^Ñ^^ÛX
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> ^^Ã&&^^<^^E
+ -> <^^Î^^!^^É^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^ü&&^^<^^E
+ -> ;^^Î^^!^^É^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^&&^^<^^E
+ -> ^^Ñ^^Î^^!^^É^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^&&^^<^^E
+ -> ^^Ñ^^Î^^!^^É^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^W'&^^<^^E
+ -> ^^^^Î^^!^^É^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> 7'&^^<^^E
+ -> ^^/^^Î^^!^^É^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^'&^^<^^E
+ -> ^^V^^Ï^^!^^É^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ~'&^^<^^E
+ -> 6^^Ï^^!^^É^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^P+^^^Þ^^_
+ -> x^^E^^R^^Ñ^^ÛX
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^å'&^^<^^E
+ -> ]^^Ï^^!^^É^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> X^^ã\^^Þ^^_
+ -> ^^ ^^Í^^W^^Ñ^^ÛX
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^è'&^^<^^E
+ -> `^^Ï^^!^^É^^E
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
@@ -3016,7 +3016,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 ] (./sota.tex
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 27.
+(Font)              scaled to size 12.0pt on input line 26.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;+smcp;mapping=tex-text;" at 12.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
@@ -3036,6 +3036,8 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [6
 
 ]
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 1 ("31) in font nullfont!
 Requested font "[lmmono10-regular]:" at 10.0pt
  -> /usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf
 Requested font "cmss8" at 8.0pt
@@ -3051,11 +3053,11 @@ Requested font "futsy" at 8.0pt
 Requested font "futsy" at 6.8pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 50.
+(Font)              scaled to size 7.35999pt on input line 78.
 Requested font "fourier-mex" at 7.35999pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.25598pt on input line 50.
+(Font)              scaled to size 6.25598pt on input line 78.
 Requested font "fourier-mex" at 6.25598pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 Requested font "msam10" at 8.0pt
@@ -3071,11 +3073,11 @@ Requested font "futmi" at 8.0pt
 Requested font "futmi" at 6.8pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 50.
+(Font)              scaled to size 7.35999pt on input line 78.
 Requested font "fourier-bb" at 7.35999pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.25598pt on input line 50.
+(Font)              scaled to size 6.25598pt on input line 78.
 Requested font "fourier-bb" at 6.25598pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 Requested font "lasy8" at 8.0pt
@@ -3085,30 +3087,25 @@ Requested font "lasy6" at 6.8pt
 Requested font "wasy7" at 7.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy7.tfm
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 6.8pt on input line 50.
+(Font)              scaled to size 6.8pt on input line 78.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 6.8pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 50.
+(Font)              scaled to size 8.0pt on input line 78.
 Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
 num;mapping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
 talic.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 6.8pt on input line 50.
+(Font)              scaled to size 6.8pt on input line 78.
 Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
 num;mapping=tex-text;" at 6.8pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
 talic.otf
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 50.
-Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
-lnum;+smcp;mapping=tex-text;" at 10.95pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
-egular.otf
-
+Missing character: There is no 2 ("32) in font nullfont!
+Missing character: There is no 6 ("36) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3125,10 +3122,6 @@ Requested font "[lmmono12-regular]:" at 12.0pt
  -> /usr/share/texmf/fonts/opentype/public/lm/lmmono12-regular.otf
 
 Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \vbox (6.30394pt too high) detected at line 67
- []
-
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -3138,8 +3131,14 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [8
 
 ]
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 113.
+Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
+lnum;+smcp;mapping=tex-text;" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
+egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/it' will be
-(Font)              scaled to size 10.95pt on input line 83.
+(Font)              scaled to size 10.95pt on input line 113.
 Requested font "[AlegreyaSans-BoldItalic.otf]/OT:script=latn;language=dflt;+pnu
 m;+lnum;mapping=tex-text;" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
@@ -3147,7 +3146,7 @@ oldItalic.otf
 File: pic/sota_lm_adapte.png Graphic file (type bmp)
 <pic/sota_lm_adapte.png>
 
-Overfull \hbox (5.69173pt too wide) in paragraph at lines 83--83
+Overfull \hbox (5.69173pt too wide) in paragraph at lines 113--113
  [] 
  []
 
@@ -3158,8 +3157,8 @@ See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 \end{frame}
-                
+l.113 \end{frame}
+                 
 Use '\newbibmacro' to define this macro.
 
 
@@ -3169,8 +3168,8 @@ See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 \end{frame}
-                
+l.113 \end{frame}
+                 
 Use '\newbibmacro' to define this macro.
 
 
@@ -3180,8 +3179,8 @@ See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 \end{frame}
-                
+l.113 \end{frame}
+                 
 Use '\newbibmacro' to define this macro.
 
 
@@ -3191,12 +3190,12 @@ See the biblatex package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.83 \end{frame}
-                
+l.113 \end{frame}
+                 
 Use '\newbibmacro' to define this macro.
 
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 83.
+(Font)              scaled to size 12.0pt on input line 113.
 Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
 num;mapping=tex-text;" at 12.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
@@ -3214,7 +3213,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 File: pic/patternrank_workflow.png Graphic file (type bmp)
 <pic/patternrank_workflow.png>
 
-Overfull \hbox (5.68658pt too wide) in paragraph at lines 104--104
+Overfull \hbox (5.68658pt too wide) in paragraph at lines 134--134
  [] 
  []
 
@@ -3317,12 +3316,12 @@ Package logreq Info: Writing requests to '0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44622 strings out of 476191
- 935752 string characters out of 5812072
+ 44633 strings out of 476191
+ 936288 string characters out of 5812072
  1645134 words of memory out of 5000000
- 64417 multiletter control sequences out of 15000+600000
+ 64428 multiletter control sequences out of 15000+600000
  502382 words of font info for 180 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,21n,122p,1859b,5729s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,21n,122p,1859b,5711s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on 0_main.pdf (14 pages).
