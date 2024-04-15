@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  15 APR 2024 17:30
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  15 APR 2024 17:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2240,31 +2240,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> LC^^B^^Ñ^^ÛX
+ -> '^^^^M^^ßNb
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> <^^Î^^!^^É^^E
+ -> c^^ø^^Ë$^^F
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> ;^^Î^^!^^É^^E
+ -> ^^Þ^^ø^^Ë$^^F
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^Ñ^^Î^^!^^É^^E
+ -> ^^ü^^ø^^Ë$^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^Ñ^^Î^^!^^É^^E
+ -> ^^ü^^ø^^Ë$^^F
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^^^Î^^!^^É^^E
+ -> ^^9^^ø^^Ë$^^F
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^/^^Î^^!^^É^^E
+ -> ^^Z^^ù^^Ë$^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^V^^Ï^^!^^É^^E
+ -> @^^ù^^Ë$^^F
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> 6^^Ï^^!^^É^^E
+ -> `^^ù^^Ë$^^F
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> x^^E^^R^^Ñ^^ÛX
+ -> ^^^^Ê^^]^^ßNb
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ]^^Ï^^!^^É^^E
+ -> ^^È^^ù^^Ë$^^F
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^ ^^Í^^W^^Ñ^^ÛX
+ -> ^^Ú^^U^^S^^ßNb
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> `^^Ï^^!^^É^^E
+ -> ^^Ê^^ù^^Ë$^^F
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
