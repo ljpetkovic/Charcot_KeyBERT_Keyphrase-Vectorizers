@@ -1,6 +1,6 @@
 # Extraction de concepts clés à partir de textes
 
-Cet atelier présente deux librairies Python, [<tt>keybert</tt>](https://maartengr.github.io/KeyBERT/) et [<tt>keyphrase-vectorizers</tt>](https://pypi.org/project/keyphrase-vectorizers/), pour la tâche d'extraction de concepts clés à partir de textes, en s'appuyant sur l'approche PatternRank ([Schopf *et al.*, 2022](https://arxiv.org/abs/2210.05245)). 
+Cet atelier présente deux librairies Python, [<tt>keybert</tt>](https://maartengr.github.io/KeyBERT/) et [<tt>keyphrase-vectorizers</tt>](https://pypi.org/project/keyphrase-vectorizers/), pour la tâche d'extraction de concepts clés à partir de textes, en s'appuyant sur l'approche *PatternRank* ([Schopf *et al.*, 2022](https://arxiv.org/abs/2210.05245)). 
 
 Notre objectif est d'extraire les mots-clés à partir du corpus des textes médicaux écrits par Jean-Martin Charcot (fondateur de la neurologie moderne et française au XIX<sup>e</sup> s.) d'une part, et d'autre part à partir des textes écrits par ses élèves et collègues. 
 
