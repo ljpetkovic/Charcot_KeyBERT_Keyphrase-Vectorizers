@@ -22,12 +22,12 @@ Cet atelier présente deux librairies Python, [keybert](https://maartengr.github
         <td align="left">24/04/2024</td>
     </tr>
     <tr>
-        <td align="left"><b>Salle</b></td>
-        <td align="left">TBA</td>
+        <td align="left"><b>Lieu</b></td>
+        <td align="left">DataLab, Bibliothèque nationale de France (Site François-Mitterrand)</td>
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Horaire</b></td>
-        <td align="left">TBA</td>
+        <td align="left">10h-12h</td>
     </tr>
     <tr>
         <td align="left"><b>Langue</b></td>
