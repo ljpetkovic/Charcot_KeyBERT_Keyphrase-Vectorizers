@@ -19,7 +19,7 @@ Cet atelier présente deux librairies Python, [keybert](https://maartengr.github
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Date</b></td>
-        <td align="left">24/04/2024</td>
+        <td align="left">30/04/2024</td>
     </tr>
     <tr>
         <td align="left"><b>Lieu</b></td>
