@@ -165,7 +165,7 @@
 \title[Extraction des concepts-clés à partir du fonds Charcot]{\fontsize{13pt}{13pt}\selectfont Extraction des concepts-clés à partir du fonds Charcot}
 \subtitle{Approche \textit{PatternRank}}
 \institute [JE \og{}Humanités numériques\fg{}] {\tiny \textsuperscript{1} Sorbonne Université, Faculté des Lettres, \textsc{UFR} Littératures françaises et comparée, ED 3\\\textsuperscript{2} Centre d'étude de la langue et des littératures françaises (\textsc{CELLF}), \textsc{UMR 8599}\\\textsuperscript{3} Observatoire des textes, des idées et des corpus (\textsc{ObTIC})}
-\date[DataLab, le 30 avril 2024]{\scriptsize  Atelier \textsc{ObTIC}\\DataLab, \textsc{BnF}\\Paris, le 24 avril 2024}
+\date[DataLab, le 30 avril 2024]{\scriptsize  Atelier \textsc{ObTIC}\\DataLab, \textsc{BnF}\\Paris, le 30 avril 2024}
 \usepackage{YTU}
 
 % defs

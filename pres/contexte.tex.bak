@@ -5,7 +5,7 @@
 %\\{\scriptsize Portrait de\\Charcot (\href{https://fr.wikipedia.org/wiki/Jean-Martin_Charcot}{Wikipedia}).}
 \hbox{\hspace{10.3em} \includegraphics[scale=0.06]{pic/Jean-Martin_Charcot.jpg}}\\\hbox{\hspace{23.8em}{\tiny Source : \href{https://fr.wikipedia.org/wiki/Jean-Martin_Charcot}{Wikipedia}}.}
 \begin{itemize}
-\item père de la neurologie moderne et française au XIX\ieme{} s. 
+\item père de la neurologie moderne en France au XIX\ieme{} s. 
 \item leçons cliniques du mardi à l'hôpital de la Salpêtrière à Paris \\
 \hspace{165pt}
 \footnotesize\og{}Mecque de la neurologie\fg{}
@@ -56,10 +56,10 @@
     \begin{table}[!ht]
         \centering
         \small
-        \begin{tabular}{l r}
-           Sigmund \textsc{Freud} (1856-1939)  & théorie psychanalytique \\
-            Gilles \textsc{de la Tourette} (1857-1932) & syndrôme de Tourette \\
-            Joseph \textsc{Babinski} (1857-1904) & pithiatisme, signe de Babinski \\
+        \begin{tabular}{l c r}
+           Sigmund \textsc{Freud} & 1856-1939  & théorie psychanalytique \\
+            Gilles \textsc{de la Tourette} & 1857-1932 & syndrôme de Tourette \\
+            Joseph \textsc{Babinski} & 1857-1904 & pithiatisme, signe de Babinski \\
 %           Pierre \textsc{Janet} (1859-1947) & psychopathologie
 %            dissociation, sous-conscient 
         \end{tabular}
@@ -79,10 +79,10 @@
 \begin{table}[!ht]
     \centering
     \small
-    \begin{tabular}{l r}
-        Émile \textsc{Zola} (1840–1902)  & \textit{Lourdes} \\
-        Léon \textsc{Tolstoï} (1828–1910) & \textit{La Sonate à Kreutzer} \\
-        Luigi \textsc{Capuana} (1839–1915) & \textit{La Torture}
+    \begin{tabular}{l c r}
+        Émile \textsc{Zola} & 1840–1902  & \textit{Lourdes} \\
+        Léon \textsc{Tolstoï} & 1828–1910 & \textit{La Sonate à Kreutzer} \\
+        Luigi \textsc{Capuana} & 1839–1915 & \textit{La Torture}
 %        Bjørnstjerne \textsc{Bjørnson} (1832–1910) & \textit{Over Ævne}
     \end{tabular}
             \begin{flushright}

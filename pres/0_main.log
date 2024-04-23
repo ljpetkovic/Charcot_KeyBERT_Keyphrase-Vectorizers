@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  23 APR 2024 18:40
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  23 APR 2024 18:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2240,31 +2240,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> X$G^^÷^^\
+ -> 3^^^^ÓE^^Z
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> ^^D^^î^^ç^^^^E
+ -> ^^^^Ïn^^í^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> @^^î^^ç^^^^E
+ -> ^^K^^Ðn^^í^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> ]^^î^^ç^^^^E
+ -> (^^Ðn^^í^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> ]^^î^^ç^^^^E
+ -> (^^Ðn^^í^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^Û^^î^^ç^^^^E
+ -> f^^Ðn^^í^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^û^^î^^ç^^^^E
+ -> ^^Ç^^Ðn^^í^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^"^^î^^ç^^^^E
+ -> ^^í^^Ðn^^í^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^B^^ï^^ç^^^^E
+ -> ^^^^Ðn^^í^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^4^^%W^^÷^^\
+ -> ^^à^^ÓcD^^Z
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> )^^ï^^ç^^^^E
+ -> ^^5^^Ðn^^í^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> |lU^^÷^^\
+ -> '^^+aD^^Z
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ,^^ï^^ç^^^^E
+ -> ^^7^^Ðn^^í^^E
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
