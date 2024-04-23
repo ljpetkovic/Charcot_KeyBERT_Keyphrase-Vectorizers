@@ -2,7 +2,7 @@
 
 Cet atelier présente deux librairies Python, [<tt>keybert</tt>](https://maartengr.github.io/KeyBERT/) et [<tt>keyphrase-vectorizers</tt>](https://pypi.org/project/keyphrase-vectorizers/), pour la tâche d'extraction de concepts-clés à partir de textes, en s'appuyant sur l'approche *PatternRank* ([Schopf *et al.*, 2022](https://arxiv.org/abs/2210.05245)). 
 
-Notre objectif est d'extraire les « phrases-clés » à partir du corpus des textes médicaux écrits par Jean-Martin Charcot (fondateur de la neurologie moderne en France au XIX<sup>e</sup> s.) d'une part, et d'autre part à partir des textes écrits par ses élèves et collègues (Désiré Magloire Bourneville, Georges Gilles de la Tourette etc.). 
+Notre objectif est d'extraire les « phrases-clés » à partir d'un échantillon du corpus des textes médicaux écrits par Jean-Martin Charcot (fondateur de la neurologie moderne en France au XIX<sup>e</sup> s.) d'une part, et d'autre part à partir des textes écrits par ses élèves et collègues (Désiré Magloire Bourneville, Georges Gilles de la Tourette etc.). 
 
 Cette tâche s'inscrit dans le projet de [thèse](https://www.theses.fr/s382733) en cours axé sur le pistage de la circulation du discours médical de Jean-Martin Charcot.
 
@@ -44,7 +44,10 @@ Cette tâche s'inscrit dans le projet de [thèse](https://www.theses.fr/s382733)
 
 ### Programme
 
-Présentation des librairies `keybert` et `keyphrase-vectorizers`, et leur mise en pratique sur un échantillon du corpus Charcot.
+1. Contexte de recherche
+2. Extraction des phrases-clés : état de l'art
+3. Méthode `keybert`
+4. Méthode *PatternRank* (`keybert` + `keyphrase-vectorizers`)
 
 ---
 
