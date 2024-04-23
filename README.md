@@ -43,7 +43,7 @@ Cette tâche s'inscrit dans le projet de [thèse](https://www.theses.fr/s382733)
 
 ### Programme
 
-Présentation des librairies, mise en pratique et retour d'expérience sur l'utilisation des librairies citées.
+Présentation des librairies `keybert` et `keyphrase-vectorizers`, et leur mise en pratique sur un échantillon du corpus Charcot.
 
 ---
 
@@ -51,7 +51,7 @@ Présentation des librairies, mise en pratique et retour d'expérience sur l'uti
 
 * ordinateurs avec une bonne connexion internet
 * accès à Google Colab
-* connaissance du langage de programmation Python
+* une première expérience en programmation en langage Python serait un plus, mais les débutant·e·s sont les bienvenu·e·s
 
 ---
 
