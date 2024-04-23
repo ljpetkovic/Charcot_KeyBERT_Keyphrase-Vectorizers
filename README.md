@@ -4,7 +4,7 @@ Cet atelier présente deux librairies Python, [<tt>keybert</tt>](https://maarten
 
 Notre objectif est d'extraire les « phrases-clés » à partir du corpus des textes médicaux écrits par Jean-Martin Charcot (fondateur de la neurologie moderne en France au XIX<sup>e</sup> s.) d'une part, et d'autre part à partir des textes écrits par ses élèves et collègues (Désiré Magloire Bourneville, Georges Gilles de la Tourette etc.). 
 
-Cette tâche s'inscrit dans le projet de [thèse](https://www.theses.fr/s382733) en cours axé sur le pistage de circulation du discours médical de Jean-Martin Charcot.
+Cette tâche s'inscrit dans le projet de [thèse](https://www.theses.fr/s382733) en cours axé sur le pistage de la circulation du discours médical de Jean-Martin Charcot.
 
 ### Informations pratiques
 
