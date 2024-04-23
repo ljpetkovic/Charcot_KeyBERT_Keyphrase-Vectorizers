@@ -1,6 +1,6 @@
-# Extraction de concepts clés à partir de textes
+# Extraction de concepts-clés à partir de textes
 
-Cet atelier présente deux librairies Python, [<tt>keybert</tt>](https://maartengr.github.io/KeyBERT/) et [<tt>keyphrase-vectorizers</tt>](https://pypi.org/project/keyphrase-vectorizers/), pour la tâche d'extraction de concepts clés à partir de textes, en s'appuyant sur l'approche *PatternRank* ([Schopf *et al.*, 2022](https://arxiv.org/abs/2210.05245)). 
+Cet atelier présente deux librairies Python, [<tt>keybert</tt>](https://maartengr.github.io/KeyBERT/) et [<tt>keyphrase-vectorizers</tt>](https://pypi.org/project/keyphrase-vectorizers/), pour la tâche d'extraction de concepts-clés à partir de textes, en s'appuyant sur l'approche *PatternRank* ([Schopf *et al.*, 2022](https://arxiv.org/abs/2210.05245)). 
 
 Notre objectif est d'extraire les « phrases-clés » à partir du corpus des textes médicaux écrits par Jean-Martin Charcot (fondateur de la neurologie moderne et française au XIX<sup>e</sup> s.) d'une part, et d'autre part à partir des textes écrits par ses élèves et collègues. 
 
@@ -11,7 +11,7 @@ Cette tâche s'inscrit dans le projet de [thèse](https://www.theses.fr/s382733)
 <table align="center" style="font-size: 23px;">
     <tr>
         <td align="left"><b>Atelier</b></td>
-        <td align="left">Extraction des concepts clés à partir de textes</td>
+        <td align="left">Extraction des concepts-clés à partir de textes</td>
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Modalité</b></td>
@@ -39,6 +39,7 @@ Cette tâche s'inscrit dans le projet de [thèse](https://www.theses.fr/s382733)
     </tr>
 </table>
 
+
 ---
 
 ### Programme
@@ -57,7 +58,7 @@ Présentation des librairies `keybert` et `keyphrase-vectorizers`, et leur mise 
 
 ### Citer ce dépôt
 
-Ljudmila Petkovic, _Extraction des concepts clés à partir de textes_, Paris : université Sorbonne Université, 2024 https://github.com/ljpetkovic/Charcot_KeyBERT_Keyphrase-Vectorizers
+Ljudmila Petkovic, _Extraction des concepts-clés à partir de textes_, Paris : université Sorbonne Université, 2024 https://github.com/ljpetkovic/Charcot_KeyBERT_Keyphrase-Vectorizers
 
 ---
 
