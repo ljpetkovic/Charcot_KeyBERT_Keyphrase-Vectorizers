@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  23 APR 2024 18:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  23 APR 2024 18:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2240,32 +2240,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> ^^^3^^Ps-Y
+ -> X$G^^÷^^\
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> ^^.^^Y^^Î^^Ò^^E
+ -> ^^D^^î^^ç^^^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> %^^Z^^Î^^Ò^^E
+ -> @^^î^^ç^^^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> C^^Z^^Î^^Ò^^E
+ -> ]^^î^^ç^^^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> C^^Z^^Î^^Ò^^E
+ -> ]^^î^^ç^^^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^Á^^Z^^Î^^Ò^^E
+ -> ^^Û^^î^^ç^^^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^á^^Z^^Î^^Ò^^E
+ -> ^^û^^î^^ç^^^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^^^Z^^Î^^Ò^^E
+ -> ^^"^^î^^ç^^^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^'^^Z^^Î^^Ò^^E
+ -> ^^B^^ï^^ç^^^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> 
-^^ÿ s-Y
+ -> ^^4^^%W^^÷^^\
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^O^^[^^Î^^Ò^^E
+ -> )^^ï^^ç^^^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> Q^^E?s-Y
+ -> |lU^^÷^^\
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^Q^^[^^Î^^Ò^^E
+ -> ,^^ï^^ç^^^^E
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
