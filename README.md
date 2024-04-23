@@ -58,7 +58,7 @@ Présentation des librairies `keybert` et `keyphrase-vectorizers`, et leur mise 
 
 ### Citer ce dépôt
 
-Ljudmila Petkovic, _Extraction des concepts-clés à partir du fonds Charcot_, Paris : université Sorbonne Université, 2024 https://github.com/ljpetkovic/Charcot_KeyBERT_Keyphrase-Vectorizers
+Ljudmila Petkovic, _Extraction des concepts-clés à partir du fonds Charcot_, Paris : université Sorbonne Université, 2024 [`https://github.com/ljpetkovic/Charcot_KeyBERT_Keyphrase-Vectorizers`](https://github.com/ljpetkovic/Charcot_KeyBERT_Keyphrase-Vectorizers)
 
 ---
 
