@@ -1,4 +1,4 @@
-# Extraction de concepts-clés à partir de textes
+# Extraction de concepts-clés à partir du fonds Charcot
 
 Cet atelier présente deux librairies Python, [<tt>keybert</tt>](https://maartengr.github.io/KeyBERT/) et [<tt>keyphrase-vectorizers</tt>](https://pypi.org/project/keyphrase-vectorizers/), pour la tâche d'extraction de concepts-clés à partir de textes, en s'appuyant sur l'approche *PatternRank* ([Schopf *et al.*, 2022](https://arxiv.org/abs/2210.05245)). 
 
@@ -11,7 +11,7 @@ Cette tâche s'inscrit dans le projet de [thèse](https://www.theses.fr/s382733)
 <table align="center" style="font-size: 23px;">
     <tr>
         <td align="left"><b>Atelier</b></td>
-        <td align="left">Extraction des concepts-clés à partir de textes</td>
+        <td align="left">Extraction des concepts-clés à partir du fonds Charcot</td>
     </tr>
     <tr style="background-color: white;">
         <td align="left"><b>Modalité</b></td>
