@@ -1,3 +1,40 @@
+\begin{frame}{Définitions de la tâche}
+\centering
+Extraction de \og{}phrases-clés\fg{} (angl. \textit{keyphrases})
+\begin{itemize}
+\item séquences de plusieurs mots (ex. \textit{sclérose latérale amyotrophique})
+\item reflètent plus précisément le contexte sémantique du texte \\\small{$\neq$ mots-clés : unigrammes de mot, ex. \textit{sclérose}}
+\end{itemize}
+%\begin{block}{Extraction de phrases-clés}
+%\justifying
+%Processus de \underline{sélection} automatique d'un petit ensemble de phrases les plus pertinentes à partir d'un texte donné \citep{schopf2022}.
+%\end{block}
+%\begin{block}{Prédiction de phrases-clés}
+%\justifying
+%Processus de \underline{génération} des phrases-clés qui résument parfaitement un document donné \citep{xie2023}.
+\bigskip
+\begin{columns}[t,onlytextwidth]
+\column{.45\textwidth}
+\textcolor{violet}{Extraction}\hfill
+\justifying
+\small
+\underline{Sélection} \\
+d'un ensemble de phrases les plus pertinentes à partir d'un texte.
+\begin{flushright}
+\small{\citep{schopf2022}}
+\end{flushright} 
+\column{.45\textwidth}
+\textcolor{violet}{Prédiction}\hfill
+\justifying
+\small
+\underline{Génération} \\
+des phrases-clés qui résument parfaitement un document donné.
+\begin{flushright}
+\small{\citep{xie2023}}
+\end{flushright}
+\end{columns}
+\end{frame}
+
 \begin{frame}{Approches classiques\\ {\small(\hypersetup{citecolor=yellow}\cite{garaudclassiques})}}
 \setbeamercolor{block title}{use=structure,fg=red!50!black,bg=yellow!40}
 \setbeamercolor{block body}{use=structure,fg=black,bg=white!20!white}
@@ -81,54 +118,3 @@ Gèrent mieux des cas ambiguës (homographes).
 %\justifying
 %Librairie Python qui exploite les plongements \textsc{BERT} et la similarité cosinus pour générer les mots/phrases-clés les plus similaires à un document.
 %\end{frame}
-\begin{frame}{Fonctionnement de la librairie \texttt{keybert}}
-\begin{enumerate}
-\item entrée : un document
-\item tokénisation du document en mots/phrases-clés candidates
-\item génération des plongements du document et des mots/phrases-clés
-\item calcul de la similarité cosinus document : mots/phrases-clés
-\end{enumerate}
-\begin{figure}
-    \centering
-    \includegraphics[width=80mm,scale=0.5]{pic/keybert.png}
-    \caption{\textit{Pipeline} de la méthode \texttt{keybert} \citep{grootendorst2020keybert}.}
-    \label{fig:enter-label}
-\end{figure}
-\end{frame}
-
-
-\begin{frame}{\texttt{keybert} amélioré -- \textit{PatternRank}}
-Key\textsc{BERT} + Keyphrase-Vectorizers = \textit{\textbf{PatternRank}} \hfill \citep{schopf2022}
-\begin{itemize}
-\item extraction des phrases-clés les plus similaires à un document
-\item préservation de leur grammaticalité grâce aux motifs POS
-\end{itemize}
-\begin{figure}
-    \centering
-    \includegraphics[width=110mm,scale=0.5]{pic/sota_lm_adapte.png}
-    \caption{Extrait de l'état de l'art sur l'extraction des mots-clés, adapté de \citet{xie2023}}
-    \label{fig:enter-label}
-\end{figure}
-\notecite{schopf2022}
-\end{frame}
-
-\begin{frame}{Fonctionnement de la méthode \textit{PatternRank}}
-%\begin{itemize}
-%\item extraction des phrases-clés non-supervisée
-%\item exploite des modèles de langues pré-entraînés + parties du discours
-%\end{itemize}
-\begin{enumerate}
-\item entrée : un seul document texte tokenisé
-\item étiquetage des tokens avec les balises POS
-\item sélection des tokens correspondant au modèle POS défini comme phrases-clés candidates
-\item génération des plongements du document et des phrases-clés candidates par un modèle de langue
-\item calcul des similarités cosinus entre les plongements du document et des phrases-clés candidates + classement des phrases-clés
-\item extraction des \textit{N} phrases-clés les plus représentatives
-\end{enumerate}
-\begin{figure}
-    \centering
-    \includegraphics[width=110mm,scale=0.5]{pic/patternrank_workflow.png}
-    \caption{\textit{Workflow} de la méthode \textit{PatternRank}.}
-    \label{fig:enter-label}
-\end{figure}
-\end{frame}

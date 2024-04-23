@@ -54,6 +54,117 @@
     \field{year}{2013}
   \endentry
 
+  \entry{BROUSSOLLE2012301}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BE}{%
+         family={Broussolle},
+         familyi={B\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Poirier},
+         familyi={P\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CF}{%
+         family={Clarac},
+         familyi={C\bibinitperiod},
+         given={F.},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BJG}{%
+         family={Barbara},
+         familyi={B\bibinitperiod},
+         given={J.-G.},
+         giveni={J\bibinithyphendelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BE+1}
+    \strng{fullhash}{BEPJCFBJG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{number}{4}
+    \field{pages}{301\bibrangedash 320}
+    \field{title}{\href{https://doi.org/10.1016/j.neurol.2011.10.006}{Figures
+  and institutions of the neurological sciences in Paris from 1800 to 1950.
+  Part III: Neurology}}
+    \field{volume}{168}
+    \field{journaltitle}{Revue Neurologique}
+    \field{year}{2012}
+  \endentry
+
+  \entry{camargo2024jean}{article}{}
+    \name{author}{7}{}{%
+      {{hash=CCHF}{%
+         family={Camargo},
+         familyi={C\bibinitperiod},
+         given={C.\bibnamedelima H.\bibnamedelima F.},
+         giveni={C\bibinitperiod\bibinitdelim H\bibinitperiod\bibinitdelim
+  F\bibinitperiod},
+      }}%
+      {{hash=CL}{%
+         family={Coutinho},
+         familyi={C\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=CNY}{%
+         family={Correa\bibnamedelima Neto},
+         familyi={C\bibinitperiod\bibinitdelim N\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=EE}{%
+         family={Engelhardt},
+         familyi={E\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MFP}{%
+         family={Maranh{\~a}o\bibnamedelima Filho},
+         familyi={M\bibinitperiod\bibinitdelim F\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=WO}{%
+         family={Walusinski},
+         familyi={W\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=THAG}{%
+         family={Teive},
+         familyi={T\bibinitperiod},
+         given={H.\bibnamedelima A.\bibnamedelima G.},
+         giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim
+  G\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {SciELO Brasil}%
+    }
+    \strng{namehash}{CCHF+1}
+    \strng{fullhash}{CCHFCLCNYEEMFPWOTHAG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2024}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{1098\bibrangedash 1111}
+    \field{title}{\href{https://doi.org/10.1055\%2Fs-0043-1775984}{Jean-Martin
+  Charcot: the polymath}}
+    \field{volume}{81}
+    \field{journaltitle}{Arquivos de Neuro-psiquiatria}
+    \field{year}{2024}
+  \endentry
+
   \entry{CAMPOS2020257}{article}{}
     \name{author}{6}{}{%
       {{hash=CR}{%
@@ -196,6 +307,34 @@
     \field{year}{2020}
   \endentry
 
+  \entry{koehler2013charcot}{article}{}
+    \name{author}{1}{}{%
+      {{hash=KPJ}{%
+         family={Koehler},
+         familyi={K\bibinitperiod},
+         given={P.\bibnamedelima J.},
+         giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Elsevier}%
+    }
+    \strng{namehash}{KPJ1}
+    \strng{fullhash}{KPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{93\bibrangedash 122}
+  \field{title}{\href{https://doi.org/10.1016/B978-0-444-63364-4.00023-5}{Charcot,
+  La Salpêtrière, and Hysteria as Represented in European Literature}}
+    \field{volume}{206}
+    \field{journaltitle}{Progress in Brain Research}
+    \field{year}{2013}
+  \endentry
+
   \entry{mahata2018key2vec}{inproceedings}{}
     \name{author}{4}{}{%
       {{hash=MD}{%
@@ -239,6 +378,31 @@
   Automatic Ranked Keyphrase Extraction from Scientific Articles using Phrase
   Embeddings}}
     \field{year}{2018}
+  \endentry
+
+  \entry{marmion2015freud}{book}{}
+    \name{author}{1}{}{%
+      {{hash=MJF}{%
+         family={Marmion},
+         familyi={M\bibinitperiod},
+         given={J.-F.},
+         giveni={J\bibinithyphendelim F\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Sciences Humaines}%
+    }
+    \strng{namehash}{MJF1}
+    \strng{fullhash}{MJF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+  \field{title}{\href{https://www.cairn.info/freud-et-la-psychanalyse--9782361063542-page-22.htm}{Freud
+  et la psychanalyse}}
+    \field{year}{2015}
   \endentry
 
   \entry{mihalcea2004}{inproceedings}{}
