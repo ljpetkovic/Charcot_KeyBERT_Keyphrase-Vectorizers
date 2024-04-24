@@ -1,5 +1,5 @@
 \babel@toc {french}{}\relax 
 \beamer@sectionintoc {1}{Contexte de recherche}{3}{0}{1}
-\beamer@sectionintoc {2}{Extraction des phrases-clés : état de l'art}{7}{0}{2}
-\beamer@sectionintoc {3}{Méthode \texttt {keybert}}{11}{0}{3}
-\beamer@sectionintoc {4}{Méthode \textit {PatternRank}}{15}{0}{4}
+\beamer@sectionintoc {2}{Extraction des phrases-clés : état de l'art}{25}{0}{2}
+\beamer@sectionintoc {3}{Méthode \texttt {keybert}}{44}{0}{3}
+\beamer@sectionintoc {4}{Méthode \textit {PatternRank}}{50}{0}{4}

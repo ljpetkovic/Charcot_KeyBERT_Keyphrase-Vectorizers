@@ -1,5 +1,5 @@
 \begin{frame}{Fonctionnement de la librairie \texttt{keybert}}
-\begin{enumerate}
+\begin{enumerate}[<+->]
 \item entrée : un document
 \item tokénisation du document en mots/phrases-clés candidates
 \item génération des plongements du document et des mots/phrases-clés
@@ -13,39 +13,23 @@
 \end{figure}
 \end{frame}
 
-
-\begin{frame}{\texttt{keybert} amélioré -- \textit{PatternRank}}
-Key\textsc{BERT} + Keyphrase-Vectorizers = \textit{\textbf{PatternRank}} \hfill \citep{schopf2022}
-\begin{itemize}
-\item extraction des phrases-clés les plus similaires à un document
-\item préservation de leur grammaticalité grâce aux motifs POS
-\end{itemize}
-\begin{figure}
-    \centering
-    \includegraphics[width=110mm,scale=0.5]{pic/sota_lm_adapte.png}
-    \caption{Extrait de l'état de l'art sur l'extraction des mots-clés, adapté de \citet{xie2023}}
-    \label{fig:enter-label}
-\end{figure}
-\notecite{schopf2022}
+\begin{frame}{Liste des phrases-clés extraites avec \texttt{keybert}}
+\begin{table}
+\small
+\begin{tabular}{l|r}
+\textsc{\textbf{Phrase-clé}} & \textsc{\textbf{Score}} \\ \hline
+postérieure cordon postérieur & 0.5078 \\
+scientifique les planches &  0.4944 \\
+antérieure corne postérieure & 0.486 \\
+cervico dorsale & 0.465 \\
+cervicale la figure & 0.4311 \\
+faisceau postérieur tumeur & 0.4276 \\
+avoisinante cellule ganglionnaire & 0.3836 \\
+lcucocythcs substance granuleuse & 0.3474 \\
+moëlle épinière 45 & 0.3381 \\
+complètement détruite & 0.334 \\
+\end{tabular}
+\caption{Liste des dix phrases-clés les plus pertinentes selon \texttt{keybert}.}
+\end{table}
 \end{frame}
 
-\begin{frame}{Fonctionnement de la méthode \textit{PatternRank}}
-%\begin{itemize}
-%\item extraction des phrases-clés non-supervisée
-%\item exploite des modèles de langues pré-entraînés + parties du discours
-%\end{itemize}
-\begin{enumerate}
-\item entrée : un seul document texte tokenisé
-\item étiquetage des tokens avec les balises POS
-\item sélection des tokens correspondant au modèle POS défini comme phrases-clés candidates
-\item génération des plongements du document et des phrases-clés candidates par un modèle de langue
-\item calcul des similarités cosinus entre les plongements du document et des phrases-clés candidates + classement des phrases-clés
-\item extraction des \textit{N} phrases-clés les plus représentatives
-\end{enumerate}
-\begin{figure}
-    \centering
-    \includegraphics[width=110mm,scale=0.5]{pic/patternrank_workflow.png}
-    \caption{\textit{Workflow} de la méthode \textit{PatternRank}.}
-    \label{fig:enter-label}
-\end{figure}
-\end{frame}

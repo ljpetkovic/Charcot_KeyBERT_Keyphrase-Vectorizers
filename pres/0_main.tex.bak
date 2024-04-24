@@ -1,7 +1,9 @@
 \documentclass[xcolor={table,usenames,dvipsnames}]{beamer}
+\setbeamercovered{transparent}
 \usepackage{eso-pic} 
 \usepackage[absolute,overlay]{textpos}
 \usepackage{colortbl}
+\usepackage{array}
 \usepackage{fourier}
 \usepackage{booktabs}% http://ctan.org/pkg/booktabs
 \newcommand{\tabitem}{~~\llap{\textbullet}~~}
