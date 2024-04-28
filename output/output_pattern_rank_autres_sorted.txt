@@ -1,0 +1,55 @@
+trois lieues loing: 0.9369
+detfeins pernicieux: 0.9292
+21 mat: 0.9289
+attaques syncopales2: 0.9278
+accufoit: 0.9255
+diapason cataleptise: 0.9252
+membre faidt: 0.9245
+anes: 0.9242
+toutesfois: 0.9235
+demi culbute: 0.9217
+14 attaques1: 0.9207
+figures bizarres: 0.9201
+rectiligne: 0.9177
+cataleptisée: 0.9173
+attaque sgncopale: 0.9167
+estsortie: 0.9153
+repos momentané: 0.9132
+lapériode clonique: 0.9132
+asile: 0.9129
+évasion: 0.9127
+sommeil profond: 0.9122
+diplopie: 0.9122
+asile: 0.9121
+strabisme convergent: 0.9109
+animés: 0.9107
+être imaginaire: 0.9103
+orphelinat: 0.9096
+aifeuroit: 0.9095
+nombril: 0.909
+occiput: 0.9078
+décubitus latéral: 0.9076
+compliqué: 0.9075
+cataleptisée: 0.9055
+teur primitif: 0.905
+hemiancsthésie: 0.9048
+10 clou hystérique: 0.9045
+décubitus: 0.9043
+moius incomplètes: 0.9016
+insomnies prolongées: 0.9016
+10 miuutes: 0.9014
+recognoiftre: 0.9011
+profane: 0.9002
+emportoit: 0.9
+épilep: 0.8997
+toires: 0.8997
+liures imprimez: 0.8996
+magnétiseur célèbre: 0.8996
+faits bizarres: 0.898
+amaurose: 0.8977
+efprits: 0.897
+planche xi: 0.8889
+planche xii: 0.8791
+éthyle: 0.8764
+morphinisme: 0.875
+catalepsie: 0.8715
