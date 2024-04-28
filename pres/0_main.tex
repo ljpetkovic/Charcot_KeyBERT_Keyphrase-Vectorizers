@@ -1,6 +1,12 @@
 \documentclass[xcolor={table,usenames,dvipsnames}]{beamer}
 \setbeamercovered{transparent}
+\usepackage{stackengine}
+\usepackage{scalerel}
 \usepackage{eso-pic} 
+\newcommand\dangersign[1][2ex]{%
+  \renewcommand\stacktype{L}%
+  \scaleto{\stackon[1.3pt]{\color{red}$\triangle$}{\tiny !}}{#1}%
+}
 \usepackage[absolute,overlay]{textpos}
 \usepackage{colortbl}
 \usepackage{array}
@@ -28,7 +34,8 @@
     citecolor=deepblue
     }
 \definecolor{LightCyan}{rgb}{0.88,1,1}   
-\usepackage[justification=centering]{caption}
+\usepackage[justification=centering,size=scriptsize]{caption}
+\usepackage[size=footnotesize]{subcaption}
 \captionsetup{font=scriptsize}
 \captionsetup[figure]{name=Fig.}
 \setbeamertemplate{caption}[numbered]
@@ -239,14 +246,14 @@
     \tableofcontents[sectionstyle=show,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
 \end{frame}
 
-\section[Contexte]{Contexte de recherche}
+%\section[Contexte]{Contexte de recherche}
 %\subsection{Rupture épistémologique}
-\input{contexte}
-\section[État de l'art]{Extraction des phrases-clés : état de l'art}
-\input{sota}
-\section[\texttt{keybert}]{Méthode \texttt{keybert}}
+%\input{contexte}
+%\section[État de l'art]{Extraction des phrases-clés : état de l'art}
+%\input{sota}
+%\section[\texttt{keybert}]{Méthode \texttt{keybert}}
 \input{keybert}
-\section[\textit{PatternRank}]{Méthode \textit{PatternRank}}
+%\section[\textit{PatternRank}]{Méthode \textit{PatternRank}}
 \input{patternrank}
 
 

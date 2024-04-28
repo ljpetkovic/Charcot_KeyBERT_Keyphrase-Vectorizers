@@ -1,4 +1,5 @@
 \begin{frame}{Définitions de la tâche}
+\pause
 \centering
 Extraction de \og{}\textbf{phrases-clés}\fg{} (angl. \textit{keyphrases})  \pause
 \begin{itemize}[<+->]
@@ -106,7 +107,7 @@ Gèrent mieux des cas ambiguës (homographes).
 \pause
 \begin{itemize}[<+->]
 \item \small{Key2Vec \hfill \citep{mahata2018key2vec}
-\item Key\textsc{BERT} \hfill \small{\citep{grootendorst2020keybert}}}
+\item \small{Key\textsc{BERT}} \hfill \small{\citep{grootendorst2020keybert}}}
 \end{itemize}
 %\colorbox{yellow!40}{\color{red!50!black}{Plongements contextuels}}
 %\begin{itemize}

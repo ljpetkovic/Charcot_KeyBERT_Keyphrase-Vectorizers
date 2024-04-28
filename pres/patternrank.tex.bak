@@ -1,5 +1,6 @@
 \begin{frame}{\texttt{keybert} amélioré -- \textit{PatternRank}}
-\onslide<+->{Key\textsc{BERT} + Keyphrase-Vectorizers = \textit{\textbf{PatternRank}} \hfill {\small\citep{schopf2022}}}
+\pause Key\textsc{BERT} + Keyphrase-Vectorizers = \textit{\textbf{PatternRank}} \hfill {\small\citep{schopf2022}}
+\pause
 \begin{itemize}[<+->]
 \item extraction des phrases-clés les plus similaires à un document
 \item préservation de leur grammaticalité grâce aux motifs POS
@@ -35,22 +36,49 @@
 \end{frame}
 
 \begin{frame}{Liste des phrases-clés avec \texttt{keyphrase-vectorizers}}
-\begin{table}
-\begin{tabular}{l|r}
-\small
-\textsc{\textbf{Phrase-clé}} & \textsc{\textbf{Score}} \\ \hline
-paroi épaissie & 0.9276 \\
-histologie fine & 0.9193 \\
-tissu gingival & 0.9179 \\
-21c leçon & 0.9162 \\
-travaux récents & 0.9152 \\
-entrecroisement dos pyramides & 0.9145 \\
-érysipèle périodique annuel & 0.9135 \\
-cicatriciel & 0.9118 \\
-fibromes & 0.9109 \\
-affeclions & 0.9091
-\end{tabular}
-\caption{Liste des dix phrases-clés les plus pertinentes selon \texttt{keyphrase-vectorizers}.}
+%\begin{table}
+%\begin{tabular}{l|r}
+%\small
+%\rowcolor[HTML]{FFCCC9} 
+%\textsc{\textbf{Phrase-clé}} & \cellcolor[HTML]{DAE8FC}\textsc{\textbf{Score}} \\ \hline
+%paroi épaissie & 0.9276 \\
+%histologie fine & 0.9193 \\
+%tissu gingival & 0.9179 \\
+%21c leçon & 0.9162 \\
+%travaux récents & 0.9152 \\
+%entrecroisement dos pyramides & 0.9145 \\
+%érysipèle périodique annuel & 0.9135 \\
+%cicatriciel & 0.9118 \\
+%fibromes & 0.9109 \\
+%affeclions & 0.9091
+%\end{tabular}
+%\caption{Liste des dix phrases-clés les plus pertinentes selon \texttt{keyphrase-vectorizers}.}
+%\end{table}
+\begin{table}[!htb]
+\footnotesize
+    \begin{minipage}{.5\linewidth}
+      \centering
+        \begin{tabular}{l|r||}
+            paroi épaissie & 0.9276 \\
+			histologie fine & 0.9193 \\
+			tissu gingival & 0.9179 \\
+			21c leçon & 0.9162 \\
+			travaux récents & 0.9152 \\
+			entrecroisement dos pyramides & 0.9145 \\
+			érysipèle périodique annuel & 0.9135 \\
+			cicatriciel & 0.9118 \\
+			fibromes & 0.9109 \\
+			affeclions & 0.9091
+        \end{tabular}
+        \subcaption{Corpus \og{}Charcot\fg{}.}
+    \end{minipage}%
+    \begin{minipage}{.5\linewidth}
+      \centering
+        \caption{Liste des dix phrases-clés les plus pertinentes selon \texttt{keyphrase-vectorizers} dans les d}
+        \begin{tabular}{ll}
+            3 & 4
+        \end{tabular}
+    \end{minipage} 
 \end{table}
 \end{frame}
 
@@ -69,6 +97,7 @@ pré-requis :
 \end{frame}
 
 \begin{frame}{Passage à l'échelle}
+\pause
 Pour traiter de grands corpus, il existe la possibilité de demander l'accès à la plateforme technologique \href{https://sacado.sorbonne-universite.fr/}{\textsc{MeSU}}, hébergée par \textsc{SACADO} (Service d’Aide au Calcul et à l’Analyse de Données).\pause
 \bigskip
 

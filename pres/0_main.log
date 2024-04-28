@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  24 APR 2024 14:35
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2024.3.14)  28 APR 2024 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -677,26 +677,173 @@ Package: amsthm 2020/05/29 v2.20.6
 \beamer@dimb=\dimen283
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty)))
+(/usr/share/texlive/texmf-dist/tex/latex/stackengine/stackengine.sty
+Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient 
+ways
+
+(/usr/share/texlive/texmf-dist/tex/generic/listofitems/listofitems.sty
+(/usr/share/texlive/texmf-dist/tex/generic/listofitems/listofitems.tex
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 105 replaced by U+FFFD.
+\loi_cnt_foreach_nest=\count328
+Invalid UTF-8 byte or sequence at line 139 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 192 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 224 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 238 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 324 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 339 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
+\loi_nestcnt=\count329
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 378 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 409 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 414 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 442 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 451 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 475 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 492 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 519 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
+)
+Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
+sep char (CT)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count330
+\calc@Bcount=\count331
+\calc@Adimen=\dimen284
+\calc@Bdimen=\dimen285
+\calc@Askip=\skip64
+\calc@Bskip=\skip65
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count332
+\calc@Cskip=\skip66
+)
+\c@@stackindex=\count333
+\@boxshift=\skip67
+\stack@tmplength=\skip68
+\temp@stkl=\skip69
+\@stackedboxwidth=\skip70
+\@addedbox=\box76
+\@anchorbox=\box77
+\@insetbox=\box78
+\se@backgroundbox=\box79
+\stackedbox=\box80
+\@centerbox=\box81
+\c@ROWcellindex@=\count334
+)
+(/usr/share/texlive/texmf-dist/tex/latex/scalerel/scalerel.sty
+Package: scalerel 2016/12/29 v1.8 Routines for constrained scaling and stretchi
+ng of objects, relative to a reference object or in absolute terms
+\thesrwidth=\skip71
+\thesrheight=\skip72
+\srblobheight=\skip73
+\srblobdepth=\skip74
+\mnxsrwidth=\skip75
+\LMex=\skip76
+\LMpt=\skip77
+)
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen284
-\ESO@tempdimb=\dimen285
+\ESO@tempdima=\dimen286
+\ESO@tempdimb=\dimen287
 )
 (/usr/share/texlive/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2020/09/26 v1.10
 
 Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
 Package textpos Info: choosing support for LaTeX3 on input line 61.
-\TP@textbox=\box76
-\TP@holdbox=\box77
-\TPHorizModule=\dimen286
-\TPVertModule=\dimen287
-\TP@margin=\dimen288
-\TP@absmargin=\dimen289
+\TP@textbox=\box82
+\TP@holdbox=\box83
+\TPHorizModule=\dimen288
+\TPVertModule=\dimen289
+\TP@margin=\dimen290
+\TP@absmargin=\dimen291
 Grid set 16 x 16 = 22.7622pt x 17.07166pt
-\TPboxrulesize=\dimen290
-\TP@ox=\dimen291
-\TP@oy=\dimen292
+\TPboxrulesize=\dimen292
+\TP@ox=\dimen293
+\TP@oy=\dimen294
 \TP@tbargs=\toks45
 TextBlockOrigin set to 0pt x 0pt
 ) (/usr/share/texlive/texmf-dist/tex/latex/colortbl/colortbl.sty
@@ -704,16 +851,16 @@ Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
-\col@sep=\dimen293
-\ar@mcellbox=\box78
-\extrarowheight=\dimen294
+\col@sep=\dimen295
+\ar@mcellbox=\box84
+\extrarowheight=\dimen296
 \NC@list=\toks46
-\extratabsurround=\skip64
-\backup@length=\skip65
-\ar@cellbox=\box79
+\extratabsurround=\skip78
+\backup@length=\skip79
+\ar@cellbox=\box85
 )
 \everycr=\toks47
-\minrowclearance=\skip66
+\minrowclearance=\skip80
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fourier.sty
 Package: fourier 2020/03/03 2.2 fourier-GUTenberg package
@@ -867,76 +1014,81 @@ LaTeX Font Info:    Redeclaring math accent \mathring on input line 269.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen295
-\lightrulewidth=\dimen296
-\cmidrulewidth=\dimen297
-\belowrulesep=\dimen298
-\belowbottomsep=\dimen299
-\aboverulesep=\dimen300
-\abovetopsep=\dimen301
-\cmidrulesep=\dimen302
-\cmidrulekern=\dimen303
-\defaultaddspace=\dimen304
-\@cmidla=\count328
-\@cmidlb=\count329
-\@aboverulesep=\dimen305
-\@belowrulesep=\dimen306
-\@thisruleclass=\count330
-\@lastruleclass=\count331
-\@thisrulewidth=\dimen307
+\heavyrulewidth=\dimen297
+\lightrulewidth=\dimen298
+\cmidrulewidth=\dimen299
+\belowrulesep=\dimen300
+\belowbottomsep=\dimen301
+\aboverulesep=\dimen302
+\abovetopsep=\dimen303
+\cmidrulesep=\dimen304
+\cmidrulekern=\dimen305
+\defaultaddspace=\dimen306
+\@cmidla=\count335
+\@cmidlb=\count336
+\@aboverulesep=\dimen307
+\@belowrulesep=\dimen308
+\@thisruleclass=\count337
+\@lastruleclass=\count338
+\@thisrulewidth=\dimen309
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen308
-\TX@old@table=\dimen309
-\TX@old@col=\dimen310
-\TX@target=\dimen311
-\TX@delta=\dimen312
-\TX@cols=\count332
+\TX@col@width=\dimen310
+\TX@old@table=\dimen311
+\TX@old@col=\dimen312
+\TX@target=\dimen313
+\TX@delta=\dimen314
+\TX@cols=\count339
 \TX@ftn=\toks48
 )
 (/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2021/12/15 v3.1 ragged2e Package
-\CenteringLeftskip=\skip67
-\RaggedLeftLeftskip=\skip68
-\RaggedRightLeftskip=\skip69
-\CenteringRightskip=\skip70
-\RaggedLeftRightskip=\skip71
-\RaggedRightRightskip=\skip72
-\CenteringParfillskip=\skip73
-\RaggedLeftParfillskip=\skip74
-\RaggedRightParfillskip=\skip75
-\JustifyingParfillskip=\skip76
-\CenteringParindent=\skip77
-\RaggedLeftParindent=\skip78
-\RaggedRightParindent=\skip79
-\JustifyingParindent=\skip80
+\CenteringLeftskip=\skip81
+\RaggedLeftLeftskip=\skip82
+\RaggedRightLeftskip=\skip83
+\CenteringRightskip=\skip84
+\RaggedLeftRightskip=\skip85
+\RaggedRightRightskip=\skip86
+\CenteringParfillskip=\skip87
+\RaggedLeftParfillskip=\skip88
+\RaggedRightParfillskip=\skip89
+\JustifyingParfillskip=\skip90
+\CenteringParindent=\skip91
+\RaggedLeftParindent=\skip92
+\RaggedRightParindent=\skip93
+\JustifyingParindent=\skip94
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 29.
+Package hyperref Info: Option `colorlinks' set `true' on input line 35.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen313
-\captionmargin@=\dimen314
-\captionwidth=\dimen315
-\caption@tempdima=\dimen316
-\caption@indent=\dimen317
-\caption@parindent=\dimen318
-\caption@hangindent=\dimen319
+\captionmargin=\dimen315
+\captionmargin@=\dimen316
+\captionwidth=\dimen317
+\caption@tempdima=\dimen318
+\caption@indent=\dimen319
+\caption@parindent=\dimen320
+\caption@hangindent=\dimen321
 Package caption Info: beamer document class detected.
 
 (/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2020/08/22 v2.0 Adaption of the caption package to the
  beamer document classes (AR)
 ))
-\c@caption@flags=\count333
-\c@continuedfloat=\count334
+\c@caption@flags=\count340
+\c@continuedfloat=\count341
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count342
+\c@subtable=\count343
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -949,14 +1101,14 @@ Package: expl3 2022-01-21 L3 programming layer (loader)
 File: l3backend-xetex.def 2022-01-12 L3 backend support: XeTeX
 
 (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count335
-\l__color_backend_stack_int=\count336
-\g__color_backend_stack_int=\count337
-\g__graphics_track_int=\count338
-\l__pdf_internal_box=\box80
-\g__pdf_backend_object_int=\count339
-\g__pdf_backend_annotation_int=\count340
-\g__pdf_backend_link_int=\count341
+\c__kernel_sys_dvipdfmx_version_int=\count344
+\l__color_backend_stack_int=\count345
+\g__color_backend_stack_int=\count346
+\g__graphics_track_int=\count347
+\l__pdf_internal_box=\box86
+\g__pdf_backend_object_int=\count348
+\g__pdf_backend_annotation_int=\count349
+\g__pdf_backend_link_int=\count350
 ))
 Package: ctex 2021/12/12 v2.5.8 Chinese adapter in LaTeX (CTEX)
 
@@ -979,11 +1131,11 @@ Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-\l__ctex_tmp_int=\count342
-\l__ctex_tmp_box=\box81
-\l__ctex_tmp_dim=\dimen320
-\g__ctex_section_depth_int=\count343
-\g__ctex_font_size_int=\count344
+\l__ctex_tmp_int=\count351
+\l__ctex_tmp_box=\box87
+\l__ctex_tmp_dim=\dimen322
+\g__ctex_section_depth_int=\count352
+\g__ctex_font_size_int=\count353
 
 (/usr/share/texlive/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
 File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
@@ -996,18 +1148,18 @@ Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
 Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
-\l__xtemplate_tmp_dim=\dimen321
-\l__xtemplate_tmp_int=\count345
+\l__xtemplate_tmp_dim=\dimen323
+\l__xtemplate_tmp_int=\count354
 \l__xtemplate_tmp_muskip=\muskip18
-\l__xtemplate_tmp_skip=\skip81
+\l__xtemplate_tmp_skip=\skip95
 )
-\l__xeCJK_tmp_int=\count346
-\l__xeCJK_tmp_box=\box82
-\l__xeCJK_tmp_dim=\dimen322
-\l__xeCJK_tmp_skip=\skip82
-\g__xeCJK_space_factor_int=\count347
-\l__xeCJK_begin_int=\count348
-\l__xeCJK_end_int=\count349
+\l__xeCJK_tmp_int=\count355
+\l__xeCJK_tmp_box=\box88
+\l__xeCJK_tmp_dim=\dimen324
+\l__xeCJK_tmp_skip=\skip96
+\g__xeCJK_space_factor_int=\count356
+\l__xeCJK_begin_int=\count357
+\l__xeCJK_end_int=\count358
 \c__xeCJK_CJK_class_int=\XeTeXcharclass1
 \c__xeCJK_FullLeft_class_int=\XeTeXcharclass2
 \c__xeCJK_FullRight_class_int=\XeTeXcharclass3
@@ -1016,49 +1168,49 @@ Package: xtemplate 2022-01-12 L3 Experimental prototype document functions
 \c__xeCJK_NormalSpace_class_int=\XeTeXcharclass6
 \c__xeCJK_CM_class_int=\XeTeXcharclass7
 \c__xeCJK_HangulJamo_class_int=\XeTeXcharclass8
-\l__xeCJK_last_skip=\skip83
-\g__xeCJK_node_int=\count350
-\c__xeCJK_CJK_node_dim=\dimen323
-\c__xeCJK_CJK-space_node_dim=\dimen324
-\c__xeCJK_default_node_dim=\dimen325
-\c__xeCJK_default-space_node_dim=\dimen326
-\c__xeCJK_CJK-widow_node_dim=\dimen327
-\c__xeCJK_normalspace_node_dim=\dimen328
-\l__xeCJK_ccglue_skip=\skip84
-\l__xeCJK_ecglue_skip=\skip85
-\l__xeCJK_punct_kern_skip=\skip86
-\l__xeCJK_last_penalty_int=\count351
-\l__xeCJK_last_bound_dim=\dimen329
-\l__xeCJK_last_kern_dim=\dimen330
-\l__xeCJK_widow_penalty_int=\count352
+\l__xeCJK_last_skip=\skip97
+\g__xeCJK_node_int=\count359
+\c__xeCJK_CJK_node_dim=\dimen325
+\c__xeCJK_CJK-space_node_dim=\dimen326
+\c__xeCJK_default_node_dim=\dimen327
+\c__xeCJK_default-space_node_dim=\dimen328
+\c__xeCJK_CJK-widow_node_dim=\dimen329
+\c__xeCJK_normalspace_node_dim=\dimen330
+\l__xeCJK_ccglue_skip=\skip98
+\l__xeCJK_ecglue_skip=\skip99
+\l__xeCJK_punct_kern_skip=\skip100
+\l__xeCJK_last_penalty_int=\count360
+\l__xeCJK_last_bound_dim=\dimen331
+\l__xeCJK_last_kern_dim=\dimen332
+\l__xeCJK_widow_penalty_int=\count361
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
 (xtemplate)             argument(s) on line 2337.
 
-\l__xeCJK_fixed_punct_width_dim=\dimen331
-\l__xeCJK_mixed_punct_width_dim=\dimen332
-\l__xeCJK_middle_punct_width_dim=\dimen333
-\l__xeCJK_fixed_margin_width_dim=\dimen334
-\l__xeCJK_mixed_margin_width_dim=\dimen335
-\l__xeCJK_middle_margin_width_dim=\dimen336
-\l__xeCJK_bound_punct_width_dim=\dimen337
-\l__xeCJK_bound_margin_width_dim=\dimen338
-\l__xeCJK_margin_minimum_dim=\dimen339
-\l__xeCJK_kerning_total_width_dim=\dimen340
-\l__xeCJK_same_align_margin_dim=\dimen341
-\l__xeCJK_different_align_margin_dim=\dimen342
-\l__xeCJK_kerning_margin_width_dim=\dimen343
-\l__xeCJK_kerning_margin_minimum_dim=\dimen344
-\l__xeCJK_bound_dim=\dimen345
-\l__xeCJK_reverse_bound_dim=\dimen346
-\l__xeCJK_margin_dim=\dimen347
-\l__xeCJK_minimum_bound_dim=\dimen348
-\l__xeCJK_kerning_margin_dim=\dimen349
-\g__xeCJK_family_int=\count353
-\l__xeCJK_fam_int=\count354
-\g__xeCJK_fam_allocation_int=\count355
-\l__xeCJK_verb_case_int=\count356
-\l__xeCJK_verb_exspace_skip=\skip87
+\l__xeCJK_fixed_punct_width_dim=\dimen333
+\l__xeCJK_mixed_punct_width_dim=\dimen334
+\l__xeCJK_middle_punct_width_dim=\dimen335
+\l__xeCJK_fixed_margin_width_dim=\dimen336
+\l__xeCJK_mixed_margin_width_dim=\dimen337
+\l__xeCJK_middle_margin_width_dim=\dimen338
+\l__xeCJK_bound_punct_width_dim=\dimen339
+\l__xeCJK_bound_margin_width_dim=\dimen340
+\l__xeCJK_margin_minimum_dim=\dimen341
+\l__xeCJK_kerning_total_width_dim=\dimen342
+\l__xeCJK_same_align_margin_dim=\dimen343
+\l__xeCJK_different_align_margin_dim=\dimen344
+\l__xeCJK_kerning_margin_width_dim=\dimen345
+\l__xeCJK_kerning_margin_minimum_dim=\dimen346
+\l__xeCJK_bound_dim=\dimen347
+\l__xeCJK_reverse_bound_dim=\dimen348
+\l__xeCJK_margin_dim=\dimen349
+\l__xeCJK_minimum_bound_dim=\dimen350
+\l__xeCJK_kerning_margin_dim=\dimen351
+\g__xeCJK_family_int=\count362
+\l__xeCJK_fam_int=\count363
+\g__xeCJK_fam_allocation_int=\count364
+\l__xeCJK_verb_case_int=\count365
+\l__xeCJK_verb_exspace_skip=\skip101
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
@@ -1066,20 +1218,20 @@ Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
 (/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
 X
-\l__fontspec_script_int=\count357
-\l__fontspec_language_int=\count358
-\l__fontspec_strnum_int=\count359
-\l__fontspec_tmp_int=\count360
-\l__fontspec_tmpa_int=\count361
-\l__fontspec_tmpb_int=\count362
-\l__fontspec_tmpc_int=\count363
-\l__fontspec_em_int=\count364
-\l__fontspec_emdef_int=\count365
-\l__fontspec_strong_int=\count366
-\l__fontspec_strongdef_int=\count367
-\l__fontspec_tmpa_dim=\dimen350
-\l__fontspec_tmpb_dim=\dimen351
-\l__fontspec_tmpc_dim=\dimen352
+\l__fontspec_script_int=\count366
+\l__fontspec_language_int=\count367
+\l__fontspec_strnum_int=\count368
+\l__fontspec_tmp_int=\count369
+\l__fontspec_tmpa_int=\count370
+\l__fontspec_tmpb_int=\count371
+\l__fontspec_tmpc_int=\count372
+\l__fontspec_em_int=\count373
+\l__fontspec_emdef_int=\count374
+\l__fontspec_strong_int=\count375
+\l__fontspec_strongdef_int=\count376
+\l__fontspec_tmpa_dim=\dimen352
+\l__fontspec_tmpb_dim=\dimen353
+\l__fontspec_tmpc_dim=\dimen354
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -1088,14 +1240,14 @@ Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
 File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
 ))
-\ccwd=\dimen353
-\l__ctex_ccglue_skip=\skip88
+\ccwd=\dimen355
+\l__ctex_ccglue_skip=\skip102
 )
-\l__ctex_ziju_dim=\dimen354
+\l__ctex_ziju_dim=\dimen356
 
 (/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber.sty
 Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
-\l__zhnum_scale_int=\count368
+\l__zhnum_scale_int=\count377
 
 (/usr/share/texlive/texmf-dist/tex/latex/zhnumber/zhnumber-utf8.cfg
 File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
@@ -1141,7 +1293,7 @@ Package: biblatex 2022/02/02 v3.17 programmable bibliographies (PK/MW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count369
+\lrq@indent=\count378
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -1149,62 +1301,62 @@ File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count370
-\c@listtotal=\count371
-\c@listcount=\count372
-\c@liststart=\count373
-\c@liststop=\count374
-\c@citecount=\count375
-\c@citetotal=\count376
-\c@multicitecount=\count377
-\c@multicitetotal=\count378
-\c@instcount=\count379
-\c@maxnames=\count380
-\c@minnames=\count381
-\c@maxitems=\count382
-\c@minitems=\count383
-\c@citecounter=\count384
-\c@maxcitecounter=\count385
-\c@savedcitecounter=\count386
-\c@uniquelist=\count387
-\c@uniquename=\count388
-\c@refsection=\count389
-\c@refsegment=\count390
-\c@maxextratitle=\count391
-\c@maxextratitleyear=\count392
-\c@maxextraname=\count393
-\c@maxextradate=\count394
-\c@maxextraalpha=\count395
-\c@abbrvpenalty=\count396
-\c@highnamepenalty=\count397
-\c@lownamepenalty=\count398
-\c@maxparens=\count399
-\c@parenlevel=\count400
-\blx@tempcnta=\count401
-\blx@tempcntb=\count402
-\blx@tempcntc=\count403
-\c@blx@maxsection=\count404
-\c@blx@maxsegment@0=\count405
-\blx@notetype=\count406
-\blx@parenlevel@text=\count407
-\blx@parenlevel@foot=\count408
-\c@blx@sectionciteorder@0=\count409
-\blx@entrysetcounter=\count410
-\blx@biblioinstance=\count411
-\labelnumberwidth=\skip89
-\labelalphawidth=\skip90
-\biblabelsep=\skip91
-\bibitemsep=\skip92
-\bibnamesep=\skip93
-\bibinitsep=\skip94
-\bibparsep=\skip95
-\bibhang=\skip96
+\c@tabx@nest=\count379
+\c@listtotal=\count380
+\c@listcount=\count381
+\c@liststart=\count382
+\c@liststop=\count383
+\c@citecount=\count384
+\c@citetotal=\count385
+\c@multicitecount=\count386
+\c@multicitetotal=\count387
+\c@instcount=\count388
+\c@maxnames=\count389
+\c@minnames=\count390
+\c@maxitems=\count391
+\c@minitems=\count392
+\c@citecounter=\count393
+\c@maxcitecounter=\count394
+\c@savedcitecounter=\count395
+\c@uniquelist=\count396
+\c@uniquename=\count397
+\c@refsection=\count398
+\c@refsegment=\count399
+\c@maxextratitle=\count400
+\c@maxextratitleyear=\count401
+\c@maxextraname=\count402
+\c@maxextradate=\count403
+\c@maxextraalpha=\count404
+\c@abbrvpenalty=\count405
+\c@highnamepenalty=\count406
+\c@lownamepenalty=\count407
+\c@maxparens=\count408
+\c@parenlevel=\count409
+\blx@tempcnta=\count410
+\blx@tempcntb=\count411
+\blx@tempcntc=\count412
+\c@blx@maxsection=\count413
+\c@blx@maxsegment@0=\count414
+\blx@notetype=\count415
+\blx@parenlevel@text=\count416
+\blx@parenlevel@foot=\count417
+\c@blx@sectionciteorder@0=\count418
+\blx@entrysetcounter=\count419
+\blx@biblioinstance=\count420
+\labelnumberwidth=\skip103
+\labelalphawidth=\skip104
+\biblabelsep=\skip105
+\bibitemsep=\skip106
+\bibnamesep=\skip107
+\bibinitsep=\skip108
+\bibparsep=\skip109
+\bibhang=\skip110
 \blx@bcfin=\read3
 \blx@bcfout=\write5
 \blx@langwohyphens=\language87
-\c@mincomprange=\count412
-\c@maxcomprange=\count413
-\c@mincompwidth=\count414
+\c@mincomprange=\count421
+\c@maxcomprange=\count422
+\c@mincompwidth=\count423
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -1215,88 +1367,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count415
-\c@savedafterword=\count416
-\c@annotator=\count417
-\c@savedannotator=\count418
-\c@author=\count419
-\c@savedauthor=\count420
-\c@bookauthor=\count421
-\c@savedbookauthor=\count422
-\c@commentator=\count423
-\c@savedcommentator=\count424
-\c@editor=\count425
-\c@savededitor=\count426
-\c@editora=\count427
-\c@savededitora=\count428
-\c@editorb=\count429
-\c@savededitorb=\count430
-\c@editorc=\count431
-\c@savededitorc=\count432
-\c@foreword=\count433
-\c@savedforeword=\count434
-\c@holder=\count435
-\c@savedholder=\count436
-\c@introduction=\count437
-\c@savedintroduction=\count438
-\c@namea=\count439
-\c@savednamea=\count440
-\c@nameb=\count441
-\c@savednameb=\count442
-\c@namec=\count443
-\c@savednamec=\count444
-\c@translator=\count445
-\c@savedtranslator=\count446
-\c@shortauthor=\count447
-\c@savedshortauthor=\count448
-\c@shorteditor=\count449
-\c@savedshorteditor=\count450
-\c@labelname=\count451
-\c@savedlabelname=\count452
-\c@institution=\count453
-\c@savedinstitution=\count454
-\c@lista=\count455
-\c@savedlista=\count456
-\c@listb=\count457
-\c@savedlistb=\count458
-\c@listc=\count459
-\c@savedlistc=\count460
-\c@listd=\count461
-\c@savedlistd=\count462
-\c@liste=\count463
-\c@savedliste=\count464
-\c@listf=\count465
-\c@savedlistf=\count466
-\c@location=\count467
-\c@savedlocation=\count468
-\c@organization=\count469
-\c@savedorganization=\count470
-\c@origlocation=\count471
-\c@savedoriglocation=\count472
-\c@origpublisher=\count473
-\c@savedorigpublisher=\count474
-\c@publisher=\count475
-\c@savedpublisher=\count476
-\c@language=\count477
-\c@savedlanguage=\count478
-\c@origlanguage=\count479
-\c@savedoriglanguage=\count480
-\c@pageref=\count481
-\c@savedpageref=\count482
-\shorthandwidth=\skip97
-\shortjournalwidth=\skip98
-\shortserieswidth=\skip99
-\shorttitlewidth=\skip100
-\shortauthorwidth=\skip101
-\shorteditorwidth=\skip102
-\locallabelnumberwidth=\skip103
-\locallabelalphawidth=\skip104
-\localshorthandwidth=\skip105
-\localshortjournalwidth=\skip106
-\localshortserieswidth=\skip107
-\localshorttitlewidth=\skip108
-\localshortauthorwidth=\skip109
-\localshorteditorwidth=\skip110
+\c@afterword=\count424
+\c@savedafterword=\count425
+\c@annotator=\count426
+\c@savedannotator=\count427
+\c@author=\count428
+\c@savedauthor=\count429
+\c@bookauthor=\count430
+\c@savedbookauthor=\count431
+\c@commentator=\count432
+\c@savedcommentator=\count433
+\c@editor=\count434
+\c@savededitor=\count435
+\c@editora=\count436
+\c@savededitora=\count437
+\c@editorb=\count438
+\c@savededitorb=\count439
+\c@editorc=\count440
+\c@savededitorc=\count441
+\c@foreword=\count442
+\c@savedforeword=\count443
+\c@holder=\count444
+\c@savedholder=\count445
+\c@introduction=\count446
+\c@savedintroduction=\count447
+\c@namea=\count448
+\c@savednamea=\count449
+\c@nameb=\count450
+\c@savednameb=\count451
+\c@namec=\count452
+\c@savednamec=\count453
+\c@translator=\count454
+\c@savedtranslator=\count455
+\c@shortauthor=\count456
+\c@savedshortauthor=\count457
+\c@shorteditor=\count458
+\c@savedshorteditor=\count459
+\c@labelname=\count460
+\c@savedlabelname=\count461
+\c@institution=\count462
+\c@savedinstitution=\count463
+\c@lista=\count464
+\c@savedlista=\count465
+\c@listb=\count466
+\c@savedlistb=\count467
+\c@listc=\count468
+\c@savedlistc=\count469
+\c@listd=\count470
+\c@savedlistd=\count471
+\c@liste=\count472
+\c@savedliste=\count473
+\c@listf=\count474
+\c@savedlistf=\count475
+\c@location=\count476
+\c@savedlocation=\count477
+\c@organization=\count478
+\c@savedorganization=\count479
+\c@origlocation=\count480
+\c@savedoriglocation=\count481
+\c@origpublisher=\count482
+\c@savedorigpublisher=\count483
+\c@publisher=\count484
+\c@savedpublisher=\count485
+\c@language=\count486
+\c@savedlanguage=\count487
+\c@origlanguage=\count488
+\c@savedoriglanguage=\count489
+\c@pageref=\count490
+\c@savedpageref=\count491
+\shorthandwidth=\skip111
+\shortjournalwidth=\skip112
+\shortserieswidth=\skip113
+\shorttitlewidth=\skip114
+\shortauthorwidth=\skip115
+\shorteditorwidth=\skip116
+\locallabelnumberwidth=\skip117
+\locallabelalphawidth=\skip118
+\localshorthandwidth=\skip119
+\localshortjournalwidth=\skip120
+\localshortserieswidth=\skip121
+\localshorttitlewidth=\skip122
+\localshortauthorwidth=\skip123
+\localshorteditorwidth=\skip124
 Package biblatex Info: Trying to load enhanced support for Unicode engines...
 Package biblatex Info: ... file 'blx-unicode.def' found.
 
@@ -1322,19 +1474,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2022/02/02 v3.17 biblatex compatibility (PK/MW)
-\c@textcitecount=\count483
-\c@textcitetotal=\count484
-\c@textcitemaxnames=\count485
-\c@biburlbigbreakpenalty=\count486
-\c@biburlbreakpenalty=\count487
-\c@biburlnumpenalty=\count488
-\c@biburlucpenalty=\count489
-\c@biburllcpenalty=\count490
+\c@textcitecount=\count492
+\c@textcitetotal=\count493
+\c@textcitemaxnames=\count494
+\c@biburlbigbreakpenalty=\count495
+\c@biburlbreakpenalty=\count496
+\c@biburlnumpenalty=\count497
+\c@biburlucpenalty=\count498
+\c@biburllcpenalty=\count499
 \biburlbigskip=\muskip19
 \biburlnumskip=\muskip20
 \biburlucskip=\muskip21
 \biburllcskip=\muskip22
-\c@smartand=\count491
+\c@smartand=\count500
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -1354,8 +1506,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2022/02/02 v3.17 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count492
-\c@bbx:relatedtotal=\count493
+\c@bbx:relatedcount=\count501
+\c@bbx:relatedtotal=\count502
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -1390,37 +1542,23 @@ Package biblatex Info: ... and expl3
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 ))
-Package biblatex Info: Redefining '\cite' on input line 60.
-Package biblatex Info: Redefining '\parencite' on input line 74.
-Package biblatex Info: Redefining '\footcite' on input line 88.
-Package biblatex Info: Redefining '\footcitetext' on input line 95.
-Package biblatex Info: Redefining '\textcite' on input line 112.
+Package biblatex Info: Redefining '\cite' on input line 67.
+Package biblatex Info: Redefining '\parencite' on input line 81.
+Package biblatex Info: Redefining '\footcite' on input line 95.
+Package biblatex Info: Redefining '\footcitetext' on input line 102.
+Package biblatex Info: Redefining '\textcite' on input line 119.
 
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfpages.sty
 Package: pgfpages 2011/01/05 ver 0.02
-
-(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count494
-\calc@Bcount=\count495
-\calc@Adimen=\dimen355
-\calc@Bdimen=\dimen356
-\calc@Askip=\skip111
-\calc@Bskip=\skip112
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count496
-\calc@Cskip=\skip113
-)
-\pgf@logicalpages=\count497
-\pgf@firstshipout=\count498
-\pgf@lastshipout=\count499
-\pgf@currentshipout=\count500
-\pgf@cpn=\count501
-\pgf@shipoutnextto=\count502
+\pgf@logicalpages=\count503
+\pgf@firstshipout=\count504
+\pgf@lastshipout=\count505
+\pgf@currentshipout=\count506
+\pgf@cpn=\count507
+\pgf@shipoutnextto=\count508
 \pgfphysicalheight=\dimen357
 \pgfphysicalwidth=\dimen358
-\pgfpages@shipoutbox=\box83
+\pgfpages@shipoutbox=\box89
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
@@ -1430,33 +1568,27 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
-\c@tracingmulticols=\count503
-\mult@box=\box84
+\c@tracingmulticols=\count509
+\mult@box=\box90
 \multicol@leftmargin=\dimen359
-\c@unbalance=\count504
-\c@collectmore=\count505
-\doublecol@number=\count506
-\multicoltolerance=\count507
-\multicolpretolerance=\count508
+\c@unbalance=\count510
+\c@collectmore=\count511
+\doublecol@number=\count512
+\multicoltolerance=\count513
+\multicolpretolerance=\count514
 \full@width=\dimen360
 \page@free=\dimen361
 \premulticols=\dimen362
 \postmulticols=\dimen363
-\multicolsep=\skip114
-\multicolbaselineskip=\skip115
-\partial@page=\box85
-\last@line=\box86
+\multicolsep=\skip125
+\multicolbaselineskip=\skip126
+\partial@page=\box91
+\last@line=\box92
 \maxbalancingoverflow=\dimen364
-\mult@rightbox=\box87
-\mult@grightbox=\box88
-\mult@firstbox=\box89
-\mult@gfirstbox=\box90
-\@tempa=\box91
-\@tempa=\box92
-\@tempa=\box93
-\@tempa=\box94
-\@tempa=\box95
-\@tempa=\box96
+\mult@rightbox=\box93
+\mult@grightbox=\box94
+\mult@firstbox=\box95
+\mult@gfirstbox=\box96
 \@tempa=\box97
 \@tempa=\box98
 \@tempa=\box99
@@ -1487,38 +1619,44 @@ Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
 \@tempa=\box124
 \@tempa=\box125
 \@tempa=\box126
-\c@minrows=\count509
-\c@columnbadness=\count510
-\c@finalcolumnbadness=\count511
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\c@minrows=\count515
+\c@columnbadness=\count516
+\c@finalcolumnbadness=\count517
 \last@try=\dimen365
 \multicolovershoot=\dimen366
 \multicolundershoot=\dimen367
-\mult@nat@firstbox=\box127
-\colbreak@box=\box128
-\mc@col@check@num=\count512
+\mult@nat@firstbox=\box133
+\colbreak@box=\box134
+\mc@col@check@num=\count518
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fundus-calligra/calligra.sty
 Package: calligra 2012/04/10 v1.9 LaTeX package calligra
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count513
-\lst@gtempboxa=\box129
+\lst@mode=\count519
+\lst@gtempboxa=\box135
 \lst@token=\toks49
-\lst@length=\count514
+\lst@length=\count520
 \lst@currlwidth=\dimen368
-\lst@column=\count515
-\lst@pos=\count516
+\lst@column=\count521
+\lst@pos=\count522
 \lst@lostspace=\dimen369
 \lst@width=\dimen370
-\lst@newlines=\count517
-\lst@lineno=\count518
+\lst@newlines=\count523
+\lst@lineno=\count524
 \lst@maxwidth=\dimen371
 
 (/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
-\c@lstnumber=\count519
-\lst@skipnumbers=\count520
-\lst@framebox=\box130
+\c@lstnumber=\count525
+\lst@skipnumbers=\count526
+\lst@framebox=\box136
 )
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
@@ -1527,135 +1665,12 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
 Package: xeCJK-listings 2021/12/12 v3.8.8 xeCJK patch file for listings
-\l__xeCJK_listings_max_char_int=\count521
-\l__xeCJK_listings_flag_int=\count522
-)
-(/usr/share/texlive/texmf-dist/tex/latex/stackengine/stackengine.sty
-Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient 
-ways
-
-(/usr/share/texlive/texmf-dist/tex/generic/listofitems/listofitems.sty
-(/usr/share/texlive/texmf-dist/tex/generic/listofitems/listofitems.tex
-Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 52 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 96 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 104 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 105 replaced by U+FFFD.
-\loi_cnt_foreach_nest=\count523
-Invalid UTF-8 byte or sequence at line 139 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 146 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 192 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 209 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 222 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 223 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 224 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 226 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 238 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 243 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 260 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 284 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 310 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 324 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 337 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 339 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 350 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 354 replaced by U+FFFD.
-\loi_nestcnt=\count524
-Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 367 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 375 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 377 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 378 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 398 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 399 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 409 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 410 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 411 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 414 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 422 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 426 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 428 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 433 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 441 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 442 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 443 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 446 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 448 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 451 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 455 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 458 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 472 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 475 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 492 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 508 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 509 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 519 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
-Invalid UTF-8 byte or sequence at line 541 replaced by U+FFFD.
-)
-Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
-sep char (CT)
-)
-\c@@stackindex=\count525
-\@boxshift=\skip116
-\stack@tmplength=\skip117
-\temp@stkl=\skip118
-\@stackedboxwidth=\skip119
-\@addedbox=\box131
-\@anchorbox=\box132
-\@insetbox=\box133
-\se@backgroundbox=\box134
-\stackedbox=\box135
-\@centerbox=\box136
-\c@ROWcellindex@=\count526
+\l__xeCJK_listings_max_char_int=\count527
+\l__xeCJK_listings_flag_int=\count528
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2022/01/26 3.70 The Babel package
-\babel@savecnt=\count527
+\babel@savecnt=\count529
 \U@D=\dimen372
 \l@unhyphenated=\language88
 
@@ -1663,13 +1678,13 @@ Package: babel 2022/01/26 3.70 The Babel package
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def))
 \bbl@readstream=\read4
 LaTeX Info: Redefining \textlatin on input line 3967.
-\bbl@dirlevel=\count528
+\bbl@dirlevel=\count530
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-greek/greek.ldf
 Language: greek 2020/11/10 v1.10 Greek support for the babel system
-\bbl@monogreek=\count529
-\bbl@polygreek=\count530
-\bbl@ancientgreek=\count531
+\bbl@monogreek=\count531
+\bbl@polygreek=\count532
+\bbl@ancientgreek=\count533
 
 (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/tuenc-greek.def
 File: tuenc-greek.def 2020/10/13 2.0 Greek LICRs for XeTeX and LuaTeX
@@ -1683,7 +1698,7 @@ Package babel Info: Hyphen rules for 'acadian' set to \l@french
 (babel)             (\language25). Reported on input line 91.
 Package babel Info: Hyphen rules for 'canadien' set to \l@french
 (babel)             (\language25). Reported on input line 92.
-\FB@nonchar=\count532
+\FB@nonchar=\count534
 Package french.ldf Info: No need for active punctuation characters
 (french.ldf)             with this version of XeTeX!
 (french.ldf)             reported on input line 332.
@@ -1693,14 +1708,14 @@ Package french.ldf Info: No need for active punctuation characters
 \FB@guilo=\XeTeXcharclass12
 \FB@guilf=\XeTeXcharclass13
 \FB@guilnul=\XeTeXcharclass14
-\FBguill@level=\count533
+\FBguill@level=\count535
 \FBold@everypar=\toks50
 \FB@Mht=\dimen373
-\mc@charclass=\count534
-\mc@charfam=\count535
-\mc@charslot=\count536
-\std@mcc=\count537
-\dec@mcc=\count538
+\mc@charclass=\count536
+\mc@charfam=\count537
+\mc@charslot=\count538
+\std@mcc=\count539
+\dec@mcc=\count540
 \listindentFB=\dimen374
 \descindentFB=\dimen375
 \labelindentFB=\dimen376
@@ -1711,7 +1726,7 @@ Package french.ldf Info: No need for active punctuation characters
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 Package french.ldf Info: No list customisation for the beamer class,
-(french.ldf)             reported on input line 133.
+(french.ldf)             reported on input line 140.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
@@ -1740,7 +1755,7 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 \XKV@toks=\toks51
 \XKV@tempa@toks=\toks52
 )
-\XKV@depth=\count539
+\XKV@depth=\count541
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 Requested font "[AlegreyaSans-Regular.otf]/OT" at 10.94997pt
@@ -2240,31 +2255,31 @@ language=dflt;+pnum;+lnum;+smcp;mapping=tex-text;"
 LaTeX Info: Redefining \textin on input line 339.
 )
 Requested font "Gentium Plus" at 10.94997pt
- -> ^^^^Y^^ÑgEX
+ -> %^^T^^ñ^^.^^ç]
 Requested font "Gentium Plus/OT" at 10.95003pt
- -> ^^19^^N^^Ä^^E
+ -> !I#^^^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95001pt
- -> ):^^N^^Ä^^E
+ -> ]I#^^^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95001pt
- -> F:^^N^^Ä^^E
+ -> zI#^^^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95001pt
- -> F:^^N^^Ä^^E
+ -> zI#^^^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95001pt
- -> ^^Ä:^^N^^Ä^^E
+ -> ^^øI#^^^^E
 Requested font "Gentium Plus/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^ä:^^N^^Ä^^E
+ -> ^^I#^^^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^:^^N^^Ä^^E
+ -> ^^?I#^^^^E
 Requested font "Gentium Plus/B/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^+:^^N^^Ä^^E
+ -> ^^_J#^^^^E
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> }^^'^^àgEX
+ -> aP^^Á^^.^^ç]
 Requested font "Gentium Plus/I/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^S;^^N^^Ä^^E
+ -> FJ#^^^^E
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^%n^^ÿgEX
+ -> ^^)^^^^Ç^^.^^ç]
 Requested font "Gentium Plus/BI/OT:script=latn;language=dflt;" at 10.95003pt
- -> ^^U;^^N^^Ä^^E
+ -> IJ#^^^^E
 
 Package fontspec Info: Font family 'GentiumPlus(0)' created for font 'Gentium
 (fontspec)             Plus' with options [].
@@ -2306,17 +2321,17 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks.tex
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pst-fp.tex
 `pst-fp' v0.06, 2020/11/20 (hv)
-\pstFP@xs=\count540
-\pstFP@xia=\count541
-\pstFP@xib=\count542
-\pstFP@xfa=\count543
-\pstFP@xfb=\count544
-\pstFP@rega=\count545
-\pstFP@regb=\count546
-\pstFP@regs=\count547
-\pstFP@times=\count548
+\pstFP@xs=\count542
+\pstFP@xia=\count543
+\pstFP@xib=\count544
+\pstFP@xfa=\count545
+\pstFP@xfb=\count546
+\pstFP@rega=\count547
+\pstFP@regb=\count548
+\pstFP@regs=\count549
+\pstFP@times=\count550
 )
-\psLoopIndex=\count549
+\psLoopIndex=\count551
 
 `PSTricks' v3.13  <2022/01/09> (tvz,hv)
 \pst@dima=\dimen381
@@ -2332,17 +2347,17 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 \pst@hbox=\box137
 \pst@ibox=\box138
 \pst@boxg=\box139
-\pst@cnta=\count550
-\pst@cntb=\count551
-\pst@cntc=\count552
-\pst@cntd=\count553
-\pst@cntg=\count554
-\pst@cnth=\count555
-\pst@cntm=\count556
-\pst@cntn=\count557
-\pst@cnto=\count558
-\pst@cntp=\count559
-\@zero=\count560
+\pst@cnta=\count552
+\pst@cntb=\count553
+\pst@cntc=\count554
+\pst@cntd=\count555
+\pst@cntg=\count556
+\pst@cnth=\count557
+\pst@cntm=\count558
+\pst@cntn=\count559
+\pst@cnto=\count560
+\pst@cntp=\count561
+\@zero=\count562
 \pst@toks=\toks53
 --- We are running latex or xelatex ---
 (/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
@@ -2351,7 +2366,7 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 \psunit=\dimen391
 \psxunit=\dimen392
 \psyunit=\dimen393
-\pst@C@@rType=\count561
+\pst@C@@rType=\count563
 \pslinewidth=\dimen394
 \psk@startLW=\dimen395
 \psk@endLW=\dimen396
@@ -2373,7 +2388,7 @@ File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
 \sh@wgridXunit=\dimen405
 \sh@wgridYunit=\dimen406
 \pst@shift=\dimen407
-\ps@imagectr=\count562
+\ps@imagectr=\count564
 
 (/usr/share/texlive/texmf-dist/tex/xelatex/xetex-pstricks/pstricks.con
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/config/xdvipdfmx.cfg
@@ -2388,27 +2403,27 @@ File: pst-fp.tex 2020/11/20 v0.06 `PST-fp' (hv)
 (/usr/share/texlive/texmf-dist/tex/generic/pstricks/pstricks-xetex.def))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 166.
+(hyperref)                removing `\mathsurround' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 166.
+(hyperref)                removing `\z@' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 166.
+(hyperref)                removing `superscript' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 166.
+(hyperref)                removing `\\' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 166.
+(hyperref)                removing `\new@ifnextchar' on input line 173.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\medskipamount' on input line 166.
+(hyperref)                removing `\medskipamount' on input line 173.
 
 (./YTU.sty
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemesmoothbars.sty)
@@ -2417,12 +2432,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count563
-\@quotereset=\count564
+\@quotelevel=\count565
+\@quotereset=\count566
 (./0_main.aux
-
-LaTeX Warning: Label `tab:my_label' multiply defined.
-
 
 LaTeX Warning: Label `fig:enter-label' multiply defined.
 
@@ -2432,57 +2444,57 @@ LaTeX Warning: Label `fig:enter-label' multiply defined.
 )
 \openout1 = `0_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 218.
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 218.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 225.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for FML/futm/m/it on input line 225.
 LaTeX Font Info:    Trying to load font information for FML+futm on input line 
-218.
+225.
  (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutm.fd
 File: fmlfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futm.
 )
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for FMS/futm/m/n on input line 225.
 LaTeX Font Info:    Trying to load font information for FMS+futm on input line 
-218.
+225.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmsfutm.fd
 File: fmsfutm.fd 2004/10/30 Fontinst v1.926 font definitions for FMS/futm.
 )
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 225.
 LaTeX Font Info:    Trying to load font information for FMX+futm on input line 
-218.
+225.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmxfutm.fd
 File: fmxfutm.fd futm-extension
 )
-LaTeX Font Info:    ... okay on input line 218.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 218.
+LaTeX Font Info:    ... okay on input line 225.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 225.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2
-18.
+25.
 
 (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 218.
+LaTeX Font Info:    ... okay on input line 225.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2518,7 +2530,7 @@ LaTeX Font Info:    ... okay on input line 218.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 218.
+Package hyperref Info: Link coloring ON on input line 225.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -2528,74 +2540,74 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count565
+\c@section@level=\count567
 )
-LaTeX Info: Redefining \ref on input line 218.
-LaTeX Info: Redefining \pageref on input line 218.
-LaTeX Info: Redefining \nameref on input line 218.
+LaTeX Info: Redefining \ref on input line 225.
+LaTeX Info: Redefining \pageref on input line 225.
+LaTeX Info: Redefining \nameref on input line 225.
 
 (./0_main.out) (./0_main.out)
 \@outlinefile=\write6
 \openout6 = `0_main.out'.
 
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 218.
+(Font)              `operators' in the math version `normal' on input line 225.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 218.
+(Font)                  T1/futs/m/n --> OT1/cmss/m/n on input line 225.
 LaTeX Font Info:    Encoding `T1' has changed to `OT1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 218.
+(Font)              `operators' in the math version `bold' on input line 225.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  T1/futs/b/n --> OT1/cmss/b/n on input line 218.
+(Font)                  T1/futs/b/n --> OT1/cmss/b/n on input line 225.
 \symnumbers=\mathgroup10
 \sympureletters=\mathgroup11
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  T1/futs/m/n --> TU/lmr/m/n on input line 218.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 218.
+(Font)                  T1/futs/m/n --> TU/lmr/m/n on input line 225.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  T1/futs/bx/n --> TU/AlegreyaSans(0)/b/n on input line 2
-18.
+25.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  T1/futs/bx/n --> TU/AlegreyaSans(0)/b/n on input line 2
-18.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 218.
+25.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
 (Font)                  OT1/cmss/m/n --> TU/AlegreyaSans(0)/m/n on input line 2
-18.
+25.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  OT1/cmss/bx/n --> TU/AlegreyaSans(0)/m/n on input line 
-218.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 218.
+225.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  T1/futs/m/it --> TU/AlegreyaSans(0)/m/it on input line 
-218.
+225.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  T1/futs/m/it --> TU/AlegreyaSans(0)/m/it on input line 
-218.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 218.
+225.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 218.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 218.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 225.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
 (Font)                  TU/AlegreyaSans(0)/m/n --> TU/AlegreyaSans(0)/b/n on in
-put line 218.
+put line 225.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  TU/AlegreyaSans(0)/m/it --> TU/AlegreyaSans(0)/b/it on 
-input line 218.
+input line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  T1/futs/m/n --> TU/lmr/b/n on input line 218.
+(Font)                  T1/futs/m/n --> TU/lmr/b/n on input line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
 (Font)                  TU/AlegreyaSans(0)/b/n --> TU/AlegreyaSans(0)/b/n on in
-put line 218.
+put line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 (Font)                  TU/AlegreyaSans(0)/m/n --> TU/AlegreyaSans(0)/b/n on in
-put line 218.
+put line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  TU/AlegreyaSans(0)/m/it --> TU/AlegreyaSans(0)/b/it on 
-input line 218.
+input line 225.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 218.
+(Font)                  TU/lmtt/m/n --> TU/lmtt/b/n on input line 225.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -2626,8 +2638,8 @@ tionary-ChineseUTF8.dict
 Dictionary: translator-theorem-dictionary, Language: ChineseUTF8 2021/12/12 v2.
 5.8 Chinese translation for theorem name (CTEX)
 )
-LaTeX Font Info:    Redeclaring math accent \widehat on input line 218.
-LaTeX Font Info:    Redeclaring math accent \widetilde on input line 218.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 225.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 225.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: french babel package is loaded.
 Package caption Info: listings package is loaded.
@@ -2657,90 +2669,55 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file '0_main.bbl' found.
  (./0_main.bbl)
-Package biblatex Info: Reference section=0 on input line 218.
-Package biblatex Info: Reference segment=0 on input line 218.
-\c@lstlisting=\count566
+Package biblatex Info: Reference section=0 on input line 225.
+Package biblatex Info: Reference segment=0 on input line 225.
+\c@lstlisting=\count568
 (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/puenc-greek.def
 File: puenc-greek.def 2020/10/18 2.0 Greek LICRs for PDF strings
 
 (/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
 File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
 ))
-LaTeX Info: Redefining \up on input line 218.
+LaTeX Info: Redefining \up on input line 225.
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 218.
+(Font)              scaled to size 6.0pt on input line 225.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 
 (./0_main.nav)
-Overfull \hbox (72.83794pt too wide) in paragraph at lines 218--218
+Overfull \hbox (72.83794pt too wide) in paragraph at lines 225--225
 [][]  
  []
 
 Missing character: There is no 4 ("34) in font nullfont!
-Requested font "[FandolFang-Regular.otf]/OT" at 5.99997pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
-ar.otf
-Requested font "[FandolFang-Regular.otf]/OT" at 6.00003pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
-ar.otf
-
-Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
-(fontspec)                Script "CJK".
-
-Requested font "[FandolFang-Regular.otf]/OT:language=dflt;" at 6.00003pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
-ar.otf
-Requested font "[lmmono10-regular]:" at 10.95pt
- -> /usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf
-
-Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
-(fontspec)             'FandolFang-Regular' with options
-(fontspec)             [Script={CJK},Extension={.otf}].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
-
-Requested font "[lmmono8-regular]:" at 6.0pt
- -> /usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 6.0pt on input line 218.
-Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
-num;mapping=tex-text;" at 6.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
-talic.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 235.
+(Font)              scaled to size 14.4pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 14.4pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 13.0pt on input line 235.
+(Font)              scaled to size 13.0pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 13.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 10.95pt on input line 235.
+(Font)              scaled to size 10.95pt on input line 242.
 Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
 num;mapping=tex-text;" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
 talic.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 235.
+(Font)              scaled to size 10.0pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 10.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
-(Font)              scaled to size 10.0pt on input line 235.
+(Font)              scaled to size 10.0pt on input line 242.
 Requested font "[AlegreyaSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnu
 m;mapping=tex-text;" at 10.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
@@ -2752,7 +2729,7 @@ Requested font "cmss8" at 7.6pt
 Requested font "cmss8" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
 LaTeX Font Info:    Trying to load font information for FML+futmi on input line
- 235.
+ 242.
 (/usr/share/texlive/texmf-dist/tex/latex/fourier/fmlfutmi.fd
 File: fmlfutmi.fd 2004/10/30 Fontinst v1.926 font definitions for FML/futmi.
 )
@@ -2769,18 +2746,18 @@ Requested font "futsy" at 7.6pt
 Requested font "futsy" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 235.
+(Font)              scaled to size 9.19998pt on input line 242.
 Requested font "fourier-mex" at 9.19998pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 235.
+(Font)              scaled to size 6.99199pt on input line 242.
 Requested font "fourier-mex" at 6.99199pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 235.
+(Font)              scaled to size 5.51999pt on input line 242.
 Requested font "fourier-mex" at 5.51999pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
-LaTeX Font Info:    Trying to load font information for U+msa on input line 235
+LaTeX Font Info:    Trying to load font information for U+msa on input line 242
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2792,7 +2769,7 @@ Requested font "msam7" at 7.6pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 Requested font "msam7" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-LaTeX Font Info:    Trying to load font information for U+msb on input line 235
+LaTeX Font Info:    Trying to load font information for U+msb on input line 242
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2811,15 +2788,15 @@ Requested font "futmi" at 7.6pt
 Requested font "futmi" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 235.
+(Font)              scaled to size 9.19998pt on input line 242.
 Requested font "fourier-bb" at 9.19998pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 235.
+(Font)              scaled to size 6.99199pt on input line 242.
 Requested font "fourier-bb" at 6.99199pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 235.
+(Font)              scaled to size 5.51999pt on input line 242.
 Requested font "fourier-bb" at 5.51999pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 Requested font "lasy10" at 10.0pt
@@ -2828,8 +2805,8 @@ Requested font "lasy7" at 7.6pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy7.tfm
 Requested font "lasy6" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 23
-5.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 24
+2.
 
 (/usr/share/texlive/texmf-dist/tex/latex/wasysym/uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
@@ -2841,45 +2818,79 @@ Requested font "wasy8" at 8.0pt
 Requested font "wasy6" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy6.tfm
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 7.6pt on input line 235.
+(Font)              scaled to size 7.6pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 7.6pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 235.
+(Font)              scaled to size 10.0pt on input line 242.
 Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
 num;mapping=tex-text;" at 10.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
 talic.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 7.6pt on input line 235.
+(Font)              scaled to size 7.6pt on input line 242.
 Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
 num;mapping=tex-text;" at 7.6pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
 talic.otf
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
+(Font)              scaled to size 6.0pt on input line 242.
+Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
+num;mapping=tex-text;" at 6.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
+talic.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 9.0pt on input line 235.
+(Font)              scaled to size 9.0pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 9.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 8.0pt on input line 235.
+(Font)              scaled to size 8.0pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
+Requested font "[FandolFang-Regular.otf]/OT" at 7.99997pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
+ar.otf
+Requested font "[FandolFang-Regular.otf]/OT" at 8.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
+ar.otf
+
+
+Package fontspec Warning: Font "FandolFang-Regular" does not contain requested
+(fontspec)                Script "CJK".
+
+Requested font "[FandolFang-Regular.otf]/OT:language=dflt;" at 8.00003pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolFang-Regul
+ar.otf
+Requested font "[lmmono10-regular]:" at 10.95pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf
+
+Package fontspec Info: Font family 'FandolFang-Regular(0)' created for font
+(fontspec)             'FandolFang-Regular' with options
+(fontspec)             [Script={CJK},Extension={.otf}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[FandolFang-Regular.otf]/OT:language=dflt;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+
 Requested font "[lmmono8-regular]:" at 8.0pt
  -> /usr/share/texmf/fonts/opentype/public/lm/lmmono8-regular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
-(Font)              scaled to size 6.0pt on input line 235.
+(Font)              scaled to size 6.0pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;+smcp;mapping=tex-text;" at 6.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 235.
+(Font)              scaled to size 8.0pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;+smcp;mapping=tex-text;" at 8.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
@@ -2891,12 +2902,11 @@ File: pic/cellf.png Graphic file (type bmp)
 File: pic/obtic.jpg Graphic file (type bmp)
 <pic/obtic.jpg>
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 4.0pt on input line 235.
+(Font)              scaled to size 4.0pt on input line 242.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 4.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
-
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -2907,7 +2917,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 ] (./0_main.toc)
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 240.
+(Font)              scaled to size 12.0pt on input line 247.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 12.0pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
@@ -2922,30 +2932,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [2
 
-] (./0_main.toc)
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[3
-
-] (./contexte.tex
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 44.
-Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
-lnum;+smcp;mapping=tex-text;" at 10.95pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
-egular.otf
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/sc' will be
-(Font)              scaled to size 10.95pt on input line 44.
-Requested font "[AlegreyaSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnu
-m;+smcp;mapping=tex-text;" at 10.95pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
-old.otf
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
+] (./keybert.tex
 Requested font "cmss10" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss10.tfm
 Requested font "cmss8" at 8.3pt
@@ -2959,11 +2946,11 @@ Requested font "futsy" at 10.95pt
 Requested font "futsy" at 8.3pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 44.
+(Font)              scaled to size 10.07397pt on input line 13.
 Requested font "fourier-mex" at 10.07397pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 44.
+(Font)              scaled to size 7.63599pt on input line 13.
 Requested font "fourier-mex" at 7.63599pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
 Requested font "msam10" at 10.95pt
@@ -2979,11 +2966,11 @@ Requested font "futmi" at 10.95pt
 Requested font "futmi" at 8.3pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 10.07397pt on input line 44.
+(Font)              scaled to size 10.07397pt on input line 13.
 Requested font "fourier-bb" at 10.07397pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.63599pt on input line 44.
+(Font)              scaled to size 7.63599pt on input line 13.
 Requested font "fourier-bb" at 7.63599pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
 Requested font "lasy10" at 10.95pt
@@ -2993,46 +2980,38 @@ Requested font "lasy8" at 8.3pt
 Requested font "wasy10" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy10.tfm
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 8.3pt on input line 44.
+(Font)              scaled to size 8.3pt on input line 13.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
 lnum;mapping=tex-text;" at 8.3pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 8.3pt on input line 44.
+(Font)              scaled to size 8.3pt on input line 13.
 Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
 num;mapping=tex-text;" at 8.3pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
 talic.otf
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 7.11742pt on input line 44.
-Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
-lnum;mapping=tex-text;" at 7.11742pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
-egular.otf
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 \end{frame}
-                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
-(Font)              scaled to size 10.0pt on input line 44.
+(Font)              scaled to size 10.95pt on input line 13.
 Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
-lnum;+smcp;mapping=tex-text;" at 10.0pt
+lnum;+smcp;mapping=tex-text;" at 10.95pt
  -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
 egular.otf
+Requested font "[lmmono10-regular]:" at 10.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf
+Requested font "[lmmono12-regular]:" at 12.0pt
+ -> /usr/share/texmf/fonts/opentype/public/lm/lmmono12-regular.otf
+
+Missing character: There is no 4 ("34) in font nullfont!
+Missing character: There is no 4 ("34) in font nullfont!
+
+Overfull \hbox (72.83794pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[3
+
+]
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3043,25 +3022,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [4
 
 ]
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 \end{frame}
-                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3072,25 +3032,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [5
 
 ]
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
-
-
-! LaTeX Error: Something's wrong--perhaps a missing \item.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.44 \end{frame}
-                
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3101,13 +3042,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [6
 
 ]
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
-
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3118,13 +3052,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [7
 
 ]
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
-
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3135,12 +3062,14 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [8
 
 ]
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
+File: pic/keybert.png Graphic file (type bmp)
+<pic/keybert.png>
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
+(Font)              scaled to size 8.0pt on input line 28.
+Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
+num;mapping=tex-text;" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
+talic.otf
 
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3152,12 +3081,8 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [9
 
 ]
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
+File: pic/keybert.png Graphic file (type bmp)
+<pic/keybert.png>
 
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3169,12 +3094,8 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [10
 
 ]
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
+File: pic/keybert.png Graphic file (type bmp)
+<pic/keybert.png>
 
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3186,17 +3107,8 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [11
 
 ]
-File: pic/Jean-Martin_Charcot.jpg Graphic file (type bmp)
-<pic/Jean-Martin_Charcot.jpg>
-
-
-LaTeX Warning: The counter will not be printed.
-             The label is: \indent {} on input line 44.
-
-
-Overfull \hbox (13.00008pt too wide) in paragraph at lines 44--44
-[]  
- []
+File: pic/keybert.png Graphic file (type bmp)
+<pic/keybert.png>
 
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3208,12 +3120,18 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [12
 
 ]
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/n' will be
-(Font)              scaled to size 10.95pt on input line 91.
-Requested font "[AlegreyaSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnu
-m;mapping=tex-text;" at 10.95pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
-old.otf
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
+(Font)              scaled to size 12.0pt on input line 39.
+Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
+num;mapping=tex-text;" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
+talic.otf
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/scit' will be
+(Font)              scaled to size 12.0pt on input line 39.
+Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
+num;+smcp;mapping=tex-text;" at 12.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
+talic.otf
 
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3235,6 +3153,75 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [14
 
 ]
+Requested font "cmss8" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+Requested font "cmss8" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
+Requested font "futmii" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futmii" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
+Requested font "futsy" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+Requested font "futsy" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 101.
+Requested font "fourier-mex" at 7.35999pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 101.
+Requested font "fourier-mex" at 6.25598pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
+Requested font "msam10" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "futmi" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+Requested font "futmi" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 101.
+Requested font "fourier-bb" at 7.35999pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.25598pt on input line 101.
+Requested font "fourier-bb" at 6.25598pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
+Requested font "lasy8" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
+Requested font "lasy6" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+Requested font "wasy7" at 7.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy7.tfm
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
+(Font)              scaled to size 6.8pt on input line 101.
+Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
+lnum;mapping=tex-text;" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
+egular.otf
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
+(Font)              scaled to size 6.8pt on input line 101.
+Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
+num;mapping=tex-text;" at 6.8pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
+talic.otf
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/sc' will be
+(Font)              scaled to size 8.0pt on input line 101.
+Requested font "[AlegreyaSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnu
+m;+smcp;mapping=tex-text;" at 8.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
+old.otf
+
+Overfull \hbox (22.90709pt too wide) in paragraph at lines 101--101
+[][] 
+ []
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3244,7 +3231,70 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [15
 
-]
+]) (./patternrank.tex
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/it' will be
+(Font)              scaled to size 10.95pt on input line 15.
+Requested font "[AlegreyaSans-BoldItalic.otf]/OT:script=latn;language=dflt;+pnu
+m;+lnum;mapping=tex-text;" at 10.95pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
+oldItalic.otf
+LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
+(Font)              scaled to size 10.0pt on input line 15.
+Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
+lnum;+smcp;mapping=tex-text;" at 10.0pt
+ -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
+egular.otf
+File: pic/sota_lm_adapte.png Graphic file (type bmp)
+<pic/sota_lm_adapte.png>
+
+Overfull \hbox (5.69173pt too wide) in paragraph at lines 15--15
+ [] 
+ []
+
+
+! Package biblatex Error: Bibliography macro 'cite:init' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:post' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:init' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:post' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3255,6 +3305,57 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [16
 
 ]
+File: pic/sota_lm_adapte.png Graphic file (type bmp)
+<pic/sota_lm_adapte.png>
+
+Overfull \hbox (5.69173pt too wide) in paragraph at lines 15--15
+ [] 
+ []
+
+
+! Package biblatex Error: Bibliography macro 'cite:init' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:post' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:init' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:post' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3265,6 +3366,57 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [17
 
 ]
+File: pic/sota_lm_adapte.png Graphic file (type bmp)
+<pic/sota_lm_adapte.png>
+
+Overfull \hbox (5.69173pt too wide) in paragraph at lines 15--15
+ [] 
+ []
+
+
+! Package biblatex Error: Bibliography macro 'cite:init' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:post' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:init' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:post' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3275,6 +3427,57 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [18
 
 ]
+File: pic/sota_lm_adapte.png Graphic file (type bmp)
+<pic/sota_lm_adapte.png>
+
+Overfull \hbox (5.69173pt too wide) in paragraph at lines 15--15
+ [] 
+ []
+
+
+! Package biblatex Error: Bibliography macro 'cite:init' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:post' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:init' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
+
+! Package biblatex Error: Bibliography macro 'cite:post' undefined.
+
+See the biblatex package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 \end{frame}
+                
+Use '\newbibmacro' to define this macro.
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3285,6 +3488,13 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [19
 
 ]
+File: pic/patternrank_workflow.png Graphic file (type bmp)
+<pic/patternrank_workflow.png>
+
+Overfull \hbox (5.68658pt too wide) in paragraph at lines 36--36
+ [] 
+ []
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3295,9 +3505,12 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [20
 
 ]
-Requested font "[FandolSong-Regular.otf]/OT:language=dflt;" at 10.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/public/fandol/FandolSong-Regul
-ar.otf
+File: pic/patternrank_workflow.png Graphic file (type bmp)
+<pic/patternrank_workflow.png>
+
+Overfull \hbox (5.68658pt too wide) in paragraph at lines 36--36
+ [] 
+ []
 
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
@@ -3309,6 +3522,13 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [21
 
 ]
+File: pic/patternrank_workflow.png Graphic file (type bmp)
+<pic/patternrank_workflow.png>
+
+Overfull \hbox (5.68658pt too wide) in paragraph at lines 36--36
+ [] 
+ []
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3319,6 +3539,13 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [22
 
 ]
+File: pic/patternrank_workflow.png Graphic file (type bmp)
+<pic/patternrank_workflow.png>
+
+Overfull \hbox (5.68658pt too wide) in paragraph at lines 36--36
+ [] 
+ []
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3329,7 +3556,13 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [23
 
 ]
-Missing character: There is no 9 ("39) in font nullfont!
+File: pic/patternrank_workflow.png Graphic file (type bmp)
+<pic/patternrank_workflow.png>
+
+Overfull \hbox (5.68658pt too wide) in paragraph at lines 36--36
+ [] 
+ []
+
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3339,7 +3572,15 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [24
 
-]) (./0_main.toc)
+]
+File: pic/patternrank_workflow.png Graphic file (type bmp)
+<pic/patternrank_workflow.png>
+
+Overfull \hbox (5.68658pt too wide) in paragraph at lines 36--36
+ [] 
+ []
+
+Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
 Overfull \hbox (72.83794pt too wide) has occurred while \output is active
@@ -3348,7 +3589,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 
 [25
 
-] (./sota.tex
+]
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3399,17 +3640,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [30
 
 ]
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 66.
-Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
-lnum;+smcp;mapping=tex-text;" at 12.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
-egular.otf
-
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 1 ("31) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3420,10 +3650,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [31
 
 ]
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 1 ("31) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3434,10 +3660,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [32
 
 ]
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 1 ("31) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3448,10 +3670,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [33
 
 ]
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 1 ("31) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 Missing character: There is no 4 ("34) in font nullfont!
 
@@ -3460,782 +3678,6 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
  []
 
 [34
-
-]
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[35
-
-]
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[36
-
-]
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[37
-
-]
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 5 ("35) in font nullfont!
-Missing character: There is no 2 ("32) in font nullfont!
-Missing character: There is no 1 ("31) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[38
-
-]
-Missing character: There is no 8 ("38) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Requested font "[lmmono10-regular]:" at 10.0pt
- -> /usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf
-Requested font "cmss8" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-Requested font "cmss8" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmss8.tfm
-Requested font "futmii" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
-Requested font "futmii" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmii.tfm
-Requested font "futsy" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
-Requested font "futsy" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futsy.tfm
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 120.
-Requested font "fourier-mex" at 7.35999pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
-LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.25598pt on input line 120.
-Requested font "fourier-mex" at 6.25598pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-mex.tfm
-Requested font "msam10" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-Requested font "msam7" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-Requested font "msbm10" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-Requested font "msbm7" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-Requested font "futmi" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
-Requested font "futmi" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/futmi.tfm
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 7.35999pt on input line 120.
-Requested font "fourier-bb" at 7.35999pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
-LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.25598pt on input line 120.
-Requested font "fourier-bb" at 6.25598pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm
-Requested font "lasy8" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy8.tfm
-Requested font "lasy6" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
-Requested font "wasy7" at 7.0pt
- -> /usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy7.tfm
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/n' will be
-(Font)              scaled to size 6.8pt on input line 120.
-Requested font "[AlegreyaSans-Regular.otf]/OT:script=latn;language=dflt;+pnum;+
-lnum;mapping=tex-text;" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-R
-egular.otf
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 8.0pt on input line 120.
-Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
-num;mapping=tex-text;" at 8.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
-talic.otf
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 6.8pt on input line 120.
-Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
-num;mapping=tex-text;" at 6.8pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
-talic.otf
-Missing character: There is no 9 ("39) in font nullfont!
-Missing character: There is no 0 ("30) in font nullfont!
-! Missing } inserted.
-<inserted text> 
-                }
-l.120 \end{frame}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...{grootendorst2020keybert}}}
-                                                   \end {itemize} \end {beam...
-l.120 \end{frame}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[39
-
-]
-Missing character: There is no 8 ("38) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 9 ("39) in font nullfont!
-Missing character: There is no 0 ("30) in font nullfont!
-! Missing } inserted.
-<inserted text> 
-                }
-l.120 \end{frame}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...{grootendorst2020keybert}}}
-                                                   \end {itemize} \end {beam...
-l.120 \end{frame}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[40
-
-]
-Missing character: There is no 8 ("38) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 9 ("39) in font nullfont!
-Missing character: There is no 0 ("30) in font nullfont!
-! Missing } inserted.
-<inserted text> 
-                }
-l.120 \end{frame}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...{grootendorst2020keybert}}}
-                                                   \end {itemize} \end {beam...
-l.120 \end{frame}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[41
-
-]
-Missing character: There is no 8 ("38) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 9 ("39) in font nullfont!
-Missing character: There is no 0 ("30) in font nullfont!
-! Missing } inserted.
-<inserted text> 
-                }
-l.120 \end{frame}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...{grootendorst2020keybert}}}
-                                                   \end {itemize} \end {beam...
-l.120 \end{frame}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[42
-
-]
-Missing character: There is no 8 ("38) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 9 ("39) in font nullfont!
-Missing character: There is no 0 ("30) in font nullfont!
-! Missing } inserted.
-<inserted text> 
-                }
-l.120 \end{frame}
-                 
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Extra }, or forgotten \endgroup.
-\beamer@doifinframe ...{grootendorst2020keybert}}}
-                                                   \end {itemize} \end {beam...
-l.120 \end{frame}
-                 
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[43
-
-]) (./0_main.toc)
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[44
-
-] (./keybert.tex
-File: pic/keybert.png Graphic file (type bmp)
-<pic/keybert.png>
-Requested font "[lmmono12-regular]:" at 12.0pt
- -> /usr/share/texmf/fonts/opentype/public/lm/lmmono12-regular.otf
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[45
-
-]
-File: pic/keybert.png Graphic file (type bmp)
-<pic/keybert.png>
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[46
-
-]
-File: pic/keybert.png Graphic file (type bmp)
-<pic/keybert.png>
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[47
-
-]
-File: pic/keybert.png Graphic file (type bmp)
-<pic/keybert.png>
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[48
-
-]
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/sc' will be
-(Font)              scaled to size 10.0pt on input line 35.
-Requested font "[AlegreyaSans-Bold.otf]/OT:script=latn;language=dflt;+pnum;+lnu
-m;+smcp;mapping=tex-text;" at 10.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
-old.otf
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[49
-
-]) (./0_main.toc)
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[50
-
-] (./patternrank.tex
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/b/it' will be
-(Font)              scaled to size 10.95pt on input line 14.
-Requested font "[AlegreyaSans-BoldItalic.otf]/OT:script=latn;language=dflt;+pnu
-m;+lnum;mapping=tex-text;" at 10.95pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-B
-oldItalic.otf
-File: pic/sota_lm_adapte.png Graphic file (type bmp)
-<pic/sota_lm_adapte.png>
-
-Overfull \hbox (5.69173pt too wide) in paragraph at lines 14--14
- [] 
- []
-
-
-! Package biblatex Error: Bibliography macro 'cite:init' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:post' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:init' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:post' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-LaTeX Font Info:    Font shape `TU/AlegreyaSans(0)/m/it' will be
-(Font)              scaled to size 12.0pt on input line 14.
-Requested font "[AlegreyaSans-Italic.otf]/OT:script=latn;language=dflt;+pnum;+l
-num;mapping=tex-text;" at 12.0pt
- -> /usr/share/texlive/texmf-dist/fonts/opentype/huerta/alegreya/AlegreyaSans-I
-talic.otf
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[51
-
-]
-File: pic/sota_lm_adapte.png Graphic file (type bmp)
-<pic/sota_lm_adapte.png>
-
-Overfull \hbox (5.69173pt too wide) in paragraph at lines 14--14
- [] 
- []
-
-
-! Package biblatex Error: Bibliography macro 'cite:init' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:post' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:init' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:post' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[52
-
-]
-File: pic/sota_lm_adapte.png Graphic file (type bmp)
-<pic/sota_lm_adapte.png>
-
-Overfull \hbox (5.69173pt too wide) in paragraph at lines 14--14
- [] 
- []
-
-
-! Package biblatex Error: Bibliography macro 'cite:init' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:post' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:init' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-
-! Package biblatex Error: Bibliography macro 'cite:post' undefined.
-
-See the biblatex package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.14 \end{frame}
-                
-Use '\newbibmacro' to define this macro.
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[53
-
-]
-File: pic/patternrank_workflow.png Graphic file (type bmp)
-<pic/patternrank_workflow.png>
-
-Overfull \hbox (5.68658pt too wide) in paragraph at lines 35--35
- [] 
- []
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[54
-
-]
-File: pic/patternrank_workflow.png Graphic file (type bmp)
-<pic/patternrank_workflow.png>
-
-Overfull \hbox (5.68658pt too wide) in paragraph at lines 35--35
- [] 
- []
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[55
-
-]
-File: pic/patternrank_workflow.png Graphic file (type bmp)
-<pic/patternrank_workflow.png>
-
-Overfull \hbox (5.68658pt too wide) in paragraph at lines 35--35
- [] 
- []
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[56
-
-]
-File: pic/patternrank_workflow.png Graphic file (type bmp)
-<pic/patternrank_workflow.png>
-
-Overfull \hbox (5.68658pt too wide) in paragraph at lines 35--35
- [] 
- []
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[57
-
-]
-File: pic/patternrank_workflow.png Graphic file (type bmp)
-<pic/patternrank_workflow.png>
-
-Overfull \hbox (5.68658pt too wide) in paragraph at lines 35--35
- [] 
- []
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[58
-
-]
-File: pic/patternrank_workflow.png Graphic file (type bmp)
-<pic/patternrank_workflow.png>
-
-Overfull \hbox (5.68658pt too wide) in paragraph at lines 35--35
- [] 
- []
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[59
-
-]
-! Misplaced \noalign.
-\rowcolor ->\noalign 
-                     {\ifnum 0=`}\fi \global \let \CT@do@color \CT@@do@color...
-l.56 \end{frame}
-                
-I expect to see \noalign only after the \cr of
-an alignment. Proceed, and I'll ignore this case.
-
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[60
-
-]
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[61
-
-]
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[62
-
-]
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[63
-
-]
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[64
-
-]
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[65
-
-]
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[66
-
-]
-Missing character: There is no 4 ("34) in font nullfont!
-Missing character: There is no 4 ("34) in font nullfont!
-
-Overfull \hbox (72.83794pt too wide) has occurred while \output is active
-[][] 
- []
-
-[67
 
 ])
 File: beamericonarticle.pdf Graphic file (type pdf)
@@ -4282,7 +3724,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [][] 
  []
 
-[68
+[35
 
 ]
 Missing character: There is no 4 ("34) in font nullfont!
@@ -4292,7 +3734,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [][] 
  []
 
-[69
+[36
 
 
 ]
@@ -4303,7 +3745,7 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 [][] 
  []
 
-[70
+[37
 
 
 ]
@@ -4321,18 +3763,18 @@ Overfull \hbox (72.83794pt too wide) has occurred while \output is active
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `0_main.out' has not changed.
-(rerunfilecheck)             Checksum: 3FA4612E50B4160A5E7F2791DFD68E44;803.
+(rerunfilecheck)             Checksum: B2C216EE7F0D99D4968EC196D5A8A8D5;99.
 Package logreq Info: Writing requests to '0_main.run.xml'.
 \openout1 = `0_main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 44917 strings out of 476191
- 942908 string characters out of 5812072
- 1658390 words of memory out of 5000000
- 64700 multiletter control sequences out of 15000+600000
- 502430 words of font info for 186 fonts, out of 8000000 for 9000
+ 44658 strings out of 476191
+ 935583 string characters out of 5812072
+ 1637983 words of memory out of 5000000
+ 64456 multiletter control sequences out of 15000+600000
+ 502390 words of font info for 181 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 128i,21n,122p,1859b,5825s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,16n,122p,1859b,5711s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 0_main.pdf (70 pages).
+Output written on 0_main.pdf (37 pages).
