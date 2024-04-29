@@ -1,0 +1,520 @@
+attaques syncopales2: 0.9373
+trois lieues loing: 0.9369
+diapason cataleptise: 0.9354
+demi culbute: 0.9352
+anes: 0.935
+toutesfois: 0.933
+allegreffe: 0.9318
+21 mat: 0.9315
+aifeuroit: 0.931
+figures bizarres: 0.9307
+foubfleue: 0.9264
+detfeins pernicieux: 0.9256
+accufoit: 0.9255
+faits bizarres: 0.9241
+rectiligne: 0.924
+14 attaques1: 0.9236
+danfes femblables: 0.9229
+lapériode clonique: 0.9215
+évasion: 0.9206
+occiput: 0.9194
+eclafe paifee: 0.9191
+membre faidt: 0.9163
+fiens voifins: 0.9154
+animés: 0.9153
+cataleptisée: 0.9153
+perfonnes: 0.9151
+moius incomplètes: 0.9147
+toires: 0.9143
+sommeil profond: 0.914
+asile: 0.9139
+strabisme convergent: 0.913
+diplopie: 0.9128
+repos momentané: 0.9126
+efcrire fans horreur: 0.9121
+omoplate: 0.9118
+singe: 0.9118
+mefme façon: 0.9118
+profane: 0.9113
+magnétiseur célèbre: 0.9112
+cataleptisée: 0.9112
+tion semblable: 0.9107
+recognoiftre: 0.9107
+asile: 0.9105
+emportoit: 0.9102
+compliqué: 0.9101
+vn ieune homme: 0.9097
+singes: 0.9091
+12 fév: 0.909
+nombril: 0.909
+vne foire: 0.909
+10 clou hystérique: 0.9088
+fouffloit: 0.9084
+hemiancsthésie: 0.9083
+jarretières: 0.9082
+lête: 0.9081
+33 grandes: 0.9081
+singes: 0.908
+samedy: 0.9078
+habita auecques: 0.9077
+décubitus latéral: 0.9071
+évasion1: 0.907
+maifon: 0.906
+fembloit: 0.9055
+quatre iours fans efveiller: 0.9051
+26 grandes: 0.905
+fakirs: 0.9049
+13 fév: 0.9048
+flancs produit: 0.9046
+cri étouffé: 0.9045
+attaque sgncopale: 0.9044
+région hystérogène rachidienne: 0.9043
+10 miuutes: 0.9043
+compofez: 0.9043
+loups courant: 0.9041
+rougeur érythé: 0.904
+maifon: 0.904
+efprits: 0.9039
+décubitus: 0.9038
+blees doz: 0.9035
+planches xvii: 0.9034
+épilep: 0.9031
+asile: 0.903
+omoplate: 0.9029
+perfonnes: 0.9029
+gravure anon: 0.9028
+secousses cloniques: 0.9025
+30 accès analogues: 0.9025
+somnambulisme: 0.9025
+amaurose: 0.9021
+anesthésie absolue: 0.9018
+altemblees: 0.9017
+insomnies prolongées: 0.9016
+planche xxi: 0.9016
+physionomie agréable: 0.9013
+xecole: 0.9007
+poserez: 0.9007
+foie: 0.9006
+letttes: 0.9006
+obstacle insurmontable: 0.9005
+eau beniße: 0.9004
+etat actuel: 0.9003
+troisièmes cotes: 0.9002
+cou tendu: 0.9
+zones hyslérogèncs: 0.9
+étker: 0.8998
+yoilà trois nuits: 0.8998
+têtes bizarres: 0.8998
+efleuoit: 0.8998
+dix heures: 0.8995
+secousses cloniques: 0.8993
+sonde œsophagienne: 0.8992
+sommeil lucide: 0.8988
+teur primitif: 0.8987
+defcongneurent: 0.8986
+somnambulisme: 0.8984
+maiftreiïe: 0.8982
+paroiffîês: 0.898
+onanisme présumé: 0.8979
+etat: 0.8977
+sion ovarienne: 0.8977
+somnambulisme: 0.8975
+difparut: 0.8975
+têtes bizarres: 0.8972
+côté anesthésié: 0.897
+eircellule: 0.897
+somnambulisme naturel: 0.8966
+somnambulisme: 0.8965
+etat: 0.8965
+côté insensible: 0.8963
+éternue: 0.8963
+somnambulisme: 0.8962
+troiliefme iour: 0.8962
+sens spéciaux: 0.8961
+tumeur énorme: 0.8959
+ébauche: 0.8959
+frère aveugle: 0.8957
+somnambulisme: 0.8956
+sonde œsophagienne: 0.8954
+hémiaiicsthésie: 0.8953
+uns pénibles: 0.8951
+somnambulisme naturel: 0.8951
+planche xiii: 0.8947
+phase destertor: 0.8945
+insomnie fatigante: 0.8945
+jugale: 0.8944
+fon breuiaire: 0.8944
+observation attentive: 0.8942
+raies semblables: 0.8942
+animal effrayant: 0.8942
+crucifiement: 0.8942
+orphelinat: 0.894
+moitié gauche insensible: 0.894
+propension irrésistible: 0.894
+perfonne: 0.894
+estsortie: 0.8939
+phase tonique: 0.8936
+planche vii: 0.8935
+somnambulisme: 0.8935
+cataleptiques: 0.8934
+strabisme naturel: 0.8934
+etat: 0.8934
+demie: 0.8932
+chondriaques: 0.8932
+attaques syncopales: 0.8931
+face colorée: 0.8928
+îlot sain: 0.8928
+scorpions vivants: 0.8927
+nègres: 0.8927
+degré xatrophie musculaire: 0.8926
+somnambulisme: 0.8925
+cinq attaques épileptiformes: 0.8924
+13 ans: 0.8923
+singes: 0.8922
+nez: 0.8921
+etat: 0.8914
+vhémianesthésie: 0.8914
+bizarreries: 0.8913
+gymnase: 0.891
+région lombaire: 0.891
+volume exagéré: 0.8909
+attaques syncopales: 0.8909
+12 centimètres: 0.8908
+zone excitée: 0.8907
+ombres confuses: 0.8906
+ébauche: 0.8905
+etat actuel: 0.8905
+etat: 0.8905
+vement: 0.8905
+planche xi: 0.8905
+appareil cabalistique: 0.8905
+pli transversal: 0.8904
+malade toutes: 0.8903
+constipation opiniâtre: 0.8902
+muscles sterno: 0.8901
+anesthésie complète: 0.89
+dermalgie: 0.8899
+diapason vibrant: 0.8899
+deux membres supérieurs: 0.8898
+somnambulisme: 0.8893
+anesthésie persiste: 0.8893
+tyrnpanisme: 0.8892
+etat: 0.8891
+treize attaques épileptiformes: 0.8891
+répit: 0.889
+état cataleptique: 0.889
+côté anesthésié: 0.8889
+être imaginaire: 0.8889
+air iufques: 0.8888
+état cataleptique: 0.8886
+article intéressant: 0.8885
+idée erronée: 0.8885
+deux grandes: 0.8885
+56 kilogr: 0.8885
+naïveté: 0.8883
+foir: 0.8883
+phase tonique: 0.8882
+état cataleptique: 0.8882
+trois vivants: 0.8882
+hémoptysie: 0.8881
+dantes: 0.8879
+état cataleptique: 0.8879
+planche xvi: 0.8878
+romme: 0.8878
+ébauche: 0.8877
+foire: 0.8877
+nez: 0.8877
+vue troublée: 0.8876
+zéphyr éloigné: 0.8876
+catalepsie instantanée: 0.8874
+phase tonique: 0.8873
+rires inextinguibles: 0.8873
+nez: 0.8872
+gymnase: 0.8871
+vôtres: 0.8871
+attaques syncopales: 0.887
+état cataleptique: 0.887
+anesthésie complète: 0.8869
+sonde: 0.8869
+clavecin laissait: 0.8869
+internat: 0.8867
+liures imprimez: 0.8867
+ancsthéèic générale: 0.8867
+région rachidienne: 0.8866
+somnambulisme: 0.8865
+nez: 0.8865
+centième: 0.8863
+insolite: 0.8862
+demie: 0.8862
+mort apparente: 0.8862
+torticolis artificiel: 0.8862
+planche xvii: 0.8861
+centième: 0.8859
+parterre: 0.8858
+attaques syncopales: 0.8857
+larmoiement: 0.8856
+cle nouveau: 0.8855
+12 heures: 0.8855
+nez: 0.8855
+30 grammes: 0.8854
+mot tracé: 0.8854
+attaques syncopales: 0.8854
+10 heures: 0.8853
+être imaginaire: 0.8852
+cris prolongés: 0.8852
+supercherie: 0.8851
+demie: 0.8851
+bronchite sabaiguë: 0.8851
+sangsues: 0.885
+49 ans: 0.885
+arbre magnétisé: 0.8848
+planche ix: 0.8847
+contusive: 0.8847
+zone hystérogène rachidienne: 0.8847
+16 centimètres: 0.8846
+réponses satisfaisantes: 0.8845
+rhémianesthésie: 0.8844
+demie: 0.8843
+prodromes habituels: 0.8842
+hémoptysies: 0.8841
+raies transversales: 0.884
+os iliaque: 0.8839
+improviste: 0.8839
+noyades: 0.8839
+demie: 0.8838
+13 ans: 0.8838
+difformité considérable: 0.8837
+oscillations circonscrites: 0.8836
+10 heures: 0.8835
+11 heures: 0.8834
+cuir chevelu: 0.8832
+effroi: 0.8832
+phase tétanique: 0.883
+magiciens infâmes: 0.883
+phase clonique ébauchée: 0.8829
+effroi: 0.8829
+deux grandes: 0.8829
+nez: 0.8825
+danser1: 0.8825
+planche xxxv: 0.8825
+effroi: 0.8824
+deux zones produit: 0.8824
+épigastre: 0.8823
+coutume: 0.882
+somnambulisme: 0.8819
+décubitus dorsal: 0.8817
+demie: 0.8817
+tympanite: 0.8817
+atmosphère ambiante: 0.8817
+10 heures: 0.8815
+état cataleptique: 0.8814
+phase tonique: 0.8813
+hématemese: 0.8811
+attaques syncopales: 0.881
+11 heures: 0.881
+souffle anémique: 0.881
+demie: 0.8808
+larmoiement: 0.8806
+état cataleptique: 0.8803
+éthyle: 0.8803
+mastoïdiens: 0.8801
+épine dorsale: 0.8801
+phase tonique: 0.88
+70 kilog: 0.8798
+état cataleptique: 0.8797
+polydactylie: 0.8796
+10 heures: 0.8795
+état cataleptique: 0.8794
+excès: 0.8794
+saloperie: 0.8793
+éthyle: 0.8793
+muqueuse vulvo: 0.8788
+sangsues: 0.8785
+inertie remarquable: 0.8784
+immobile: 0.8781
+répit: 0.878
+catalepsie: 0.878
+iconographie phot: 0.8777
+épigastre: 0.8776
+irréligion: 0.8771
+10 heures: 0.877
+nerf cubital excité: 0.877
+diapason: 0.877
+fantôme1: 0.8769
+épigastre: 0.8769
+supercherie: 0.8769
+attaques syncopales: 0.8769
+hémorrhagie utérine: 0.8767
+douze grandes: 0.8766
+catalepsie: 0.8765
+anesthésie partielle: 0.8763
+brûlure: 0.8763
+catalepsie: 0.8762
+11 heures: 0.8761
+compte: 0.876
+colonie algérienne: 0.8759
+diapason: 0.8759
+jeûneur: 0.8758
+etendue: 0.8757
+morphinisme: 0.8756
+rires inextinguibles: 0.8754
+tantes: 0.8754
+catalepsie: 0.8754
+odeurs supposées: 0.8753
+borborygmes: 0.8752
+tympanite: 0.8751
+diapason: 0.8751
+frayeur: 0.875
+catalepsie: 0.8749
+mamelon: 0.8747
+planche xiv: 0.8746
+médicament coïncide: 0.8745
+catalepsie: 0.8745
+diapason: 0.8743
+épigastre: 0.8742
+langage articulé: 0.8742
+attaques épileptiformes: 0.8741
+camisole: 0.8741
+tympanite: 0.8738
+planche xxxvii: 0.8738
+rachialgie: 0.8736
+cordons: 0.8736
+rachialgie: 0.8735
+aisselle: 0.8734
+malaise général: 0.8732
+dents bleues: 0.8732
+allures: 0.8729
+état cataleptique: 0.8729
+épigastre: 0.8729
+tapotement: 0.8729
+excès: 0.8728
+menstrues: 0.8728
+région hystérogène: 0.8727
+allures: 0.8726
+catalepsie: 0.8725
+développement exagéré: 0.8723
+catalepsie: 0.8723
+deux moitiés: 0.8719
+thaumaturges: 0.8719
+mouvements habituels: 0.8718
+potion cordiale: 0.8717
+amaigrissement: 0.8717
+tocsin: 0.8717
+région hystérogène: 0.8715
+11 ans: 0.8715
+forme intéressante: 0.871
+tympanite considérable: 0.8709
+planche viii: 0.8706
+lingerie: 0.8703
+catalepsie: 0.8703
+état cataleptique: 0.8698
+huit heures: 0.8697
+tympanite: 0.8696
+12 ans: 0.8695
+somnolence persiste: 0.8695
+trépidation spontanée: 0.8693
+manière inconvenante: 0.8691
+tympanite: 0.869
+planche xii: 0.869
+demie: 0.869
+épigastre: 0.8687
+exploration musculaire: 0.8687
+sept grandes: 0.8687
+hypnotisme: 0.8685
+estomac: 0.8684
+voisines: 0.8683
+anormal: 0.8681
+rachialgie: 0.868
+contracture persiste: 0.8677
+deux moitiés: 0.8674
+pieds àla tête: 0.8673
+crispations: 0.8669
+aphasie: 0.8669
+décubitus dorsal: 0.8668
+planche xxvi: 0.8667
+hypnotisme: 0.8663
+planche xxxii: 0.8658
+attaques épileptiformes: 0.8654
+imposteur: 0.8648
+hypnotisme: 0.8646
+réveil facile: 0.8644
+submatité: 0.8644
+efprits: 0.8644
+soudé: 0.8635
+somnolence constante: 0.8628
+hypnotisme: 0.8627
+catalepsie: 0.8626
+onze heures: 0.8625
+200 grammes: 0.8616
+point brillant: 0.8609
+cinq heures: 0.8601
+planche ii: 0.8596
+hypnotisme: 0.8596
+lamies1: 0.8595
+hypnotisme: 0.8595
+lettres persistant: 0.8593
+bromure: 0.859
+pratiques barbares: 0.8584
+repos appréciable: 0.8578
+joues: 0.8574
+crampes: 0.8569
+pupilles normales: 0.8551
+catalepsie: 0.854
+anesthésie gauche complète: 0.8526
+diapason: 0.8523
+partie aufïi: 0.852
+serrement: 0.8517
+bras contracture: 0.8513
+planche iv: 0.851
+nitrtte: 0.85
+tronc: 0.8487
+fixation préalable: 0.8484
+planche xxiii: 0.8468
+magnétisation: 0.8467
+salive mousseuse: 0.8465
+constriction laryngée: 0.8458
+hémi: 0.8451
+pouces: 0.8448
+laphysionomie: 0.8444
+clou hystérique: 0.8427
+léthargie: 0.8427
+observation iv: 0.8423
+ischurie: 0.8405
+écume: 0.8401
+atrophie musculaire consécutive: 0.8398
+provoquée: 0.8374
+planche xxii: 0.8352
+tétanisme: 0.8278
+sommeil: 0.8206
+sommeil: 0.8202
+faits cliniques: 0.8189
+deuxième partie: 0.8091
+somnambulisme spontané: 0.8083
+zones hystérogènes: 0.8075
+mystiques: 0.8056
+observation viii: 0.8031
+iconographie photographique: 0.8027
+idiots: 0.8023
+sommeil: 0.7997
+péritonite: 0.7959
+succube: 0.7941
+sirène: 0.7782
+sommeil: 0.7781
+iconographie: 0.769
+partie: 0.7324
+hystériques: 0.7145
+iv: 0.6929
+20ö: 0.687
+xxv: 0.6708
+vii: 0.6677
+trépidation spontanée: 0.6574
+paroles: 0.279
+439: 0.2519
+187: 0.2166
+191: 0.2026
+215: 0.1968
+xxxiii: 0.0631
+xxxviii: 0.0116
+227: -0.0052
+xxxvi: -0.026
+mots: -0.0337

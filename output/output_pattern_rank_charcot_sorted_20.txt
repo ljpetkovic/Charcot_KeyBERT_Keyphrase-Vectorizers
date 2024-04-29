@@ -1,0 +1,520 @@
+tissu gingival: 0.9184
+érysipèle périodique annuel: 0.9109
+travaux récents: 0.91
+faisceau pyramidal direct: 0.9064
+foie: 0.9052
+syringomyélie: 0.9048
+foie: 0.9036
+rétractions fibro: 0.9008
+goitre exophtalmique: 0.9008
+fibrome: 0.8995
+faisceau pyramidal: 0.899
+mercredi médical: 0.8975
+syringomyélie: 0.8972
+enveloppe souple imperméable: 0.8933
+anatomie morbide: 0.8932
+dégénéralion secondaire: 0.8931
+sclérose: 0.8929
+tissu fibrillaire: 0.8925
+kyste crico: 0.8889
+sclérose: 0.8882
+sclérose: 0.8873
+sclérose latérale amyotrophique: 0.8873
+onanoit: 0.8865
+netteté: 0.8852
+tissu gliomateux: 0.8845
+sclérose: 0.8836
+sclérose: 0.8832
+dégénération consécutive: 0.8829
+tissu fibrillaire: 0.8829
+faisceau pyramidal sclérosé: 0.8812
+professeur stiiaus: 0.8804
+cavité pathologique: 0.8791
+sclérose: 0.879
+anatomie pathologique contemplative: 0.8784
+sclérose: 0.8784
+somnambulismes: 0.8782
+bourgeons gliomateux: 0.8776
+faisceau cérébelleux sclérosé: 0.8763
+hémorrhagies puerpérales: 0.8763
+planches précédentes: 0.876
+centre ovale: 0.8758
+deux dispositifs différents: 0.8752
+centre ovale: 0.8751
+sclérose: 0.8751
+sclérose: 0.8746
+tissu fibrillaire: 0.8745
+avantage inestimable: 0.8744
+sclérose: 0.8744
+faisceau pyramidal: 0.874
+partie fondamentale: 0.8739
+faisceau symétrique: 0.8738
+faisceau pyramidal direct: 0.8733
+cordon postérieur: 0.8732
+migraine ophthalmique: 0.8732
+planche xxx: 0.8731
+sclérose: 0.8725
+sclérose latérale amyotrophique: 0.8725
+planche xlv: 0.8719
+sclérose: 0.8718
+sclérose: 0.8714
+bulletin médical: 0.8714
+faisceau pyramidal: 0.8713
+sclérose: 0.8708
+sclérose: 0.8704
+sclérose: 0.8704
+sclérose: 0.8703
+dégénération secondaire descendante: 0.8702
+entrecroisement dos pyramides: 0.8694
+région cervico: 0.8693
+planche xli: 0.8687
+sclérose: 0.8686
+syringomyélie: 0.8685
+planche xvii: 0.8684
+trousseaux fibreux: 0.8677
+sclérose remarquable: 0.8675
+région cervico: 0.8669
+cordon postérieur: 0.8669
+sclérose: 0.8668
+région cervicale: 0.8663
+région cervico: 0.8663
+sclérose latérale: 0.8661
+cavité pathologique: 0.8661
+faisceau pyramidal: 0.8659
+dégénération secondaire descendante: 0.8652
+sillon postérieur: 0.8647
+substance grise atrophiée: 0.8647
+planches xviii: 0.8647
+faisceau pyramidal: 0.8637
+sclérose: 0.8637
+sclérose latérale amyotrophique: 0.8635
+syringomyélie: 0.8634
+tumeur: 0.8633
+térées: 0.8632
+partie centrale: 0.8625
+planche xi: 0.8624
+bulletin médical: 0.8619
+sclérose: 0.8616
+région cervico: 0.8614
+sclérose: 0.8612
+faisceau postérieur sclérosé: 0.8611
+sclérosés: 0.8611
+attention égale: 0.8608
+syringomyélie: 0.8607
+région dorsale: 0.8606
+syringomyélie: 0.8601
+planche xliii: 0.8597
+sclérose: 0.8593
+soin: 0.8588
+sclérose latérale amyotrophique: 0.8586
+sclérosés: 0.8583
+zone radiculaire sclérosée: 0.8579
+région cervicale inférieure: 0.8576
+cellules vues: 0.8575
+syringomyélie: 0.8574
+faisceau cérébelleux direct: 0.8573
+partie fondamentale: 0.8572
+syringomyélie: 0.857
+planche xviii: 0.8564
+cavité néoplasique: 0.8562
+chambre photographique horizontale: 0.8561
+région cervicale: 0.8558
+région lombaire: 0.8554
+poliomyélite: 0.8552
+terres inconnues: 0.855
+planche xl: 0.8548
+région lombaire: 0.8546
+tabès: 0.8546
+hypnotisme: 0.8546
+faisceau pyramidal: 0.8545
+sclérose: 0.8542
+zone sclérosée: 0.8537
+planche xxiii: 0.8537
+détritus granuleux: 0.8536
+moitié droite: 0.8535
+45 planches: 0.8534
+faisceau profond: 0.8532
+myéline colorée: 0.8531
+sillon postérieur: 0.8531
+vérick: 0.8529
+tabès classique: 0.8529
+vue: 0.8527
+zone marginale: 0.8527
+tissu scléreux: 0.8524
+planche xii: 0.8523
+zone sclérosée: 0.8523
+faisceau pyramidal: 0.8523
+clinique: 0.8522
+faisceau pyramidal direct: 0.8522
+zone sclérosée: 0.8522
+syringomyélie: 0.8521
+dégénération secondaire: 0.8519
+cordons: 0.8518
+migraine ophtalmique: 0.8516
+sclérose postérieure: 0.8514
+renflement cervical: 0.851
+fibrillaire: 0.8509
+parois aplaties: 0.8508
+sclérose: 0.8504
+paroi épaissie: 0.8503
+cordon antérieur sain: 0.8502
+planche xxxix: 0.8501
+région cervicale inférieure: 0.85
+foyer cavitairc: 0.85
+renflement lombaire: 0.8498
+clichés photographiques: 0.8494
+paroi bourgeonnante: 0.8489
+partie fondamentale: 0.8487
+région dorsale: 0.8486
+faisceau pyramidal: 0.848
+planche xxxi: 0.8479
+sclérose latérale amyotrophique: 0.8478
+région cervicale: 0.8476
+planche viii: 0.8475
+planche xxi: 0.8474
+imprimerie cuttf: 0.8474
+deux moitiés: 0.8471
+cordons postérieurs: 0.8471
+faisceau symétrique: 0.8465
+sclérosés: 0.8462
+sclérose latérale amyotrophique: 0.8459
+substance gélatineuse: 0.8458
+justification embryologique: 0.8457
+région lombaire: 0.8457
+renflement cervical: 0.8456
+zone radiculaire: 0.8449
+région dorsale: 0.8449
+tabès: 0.8438
+cordons postérieurs: 0.8435
+syringomyélie: 0.8434
+corne gauche: 0.8432
+planche xlii: 0.8432
+région cervico: 0.843
+deux préparations: 0.8429
+figure 63: 0.8429
+laléral: 0.8427
+téral droit: 0.8425
+planche xiii: 0.8425
+cordon postérieur: 0.8424
+figure 30: 0.8423
+faisceau pyramidal: 0.8423
+sortes: 0.8422
+deux zones irrégulières: 0.8421
+moelle normale: 0.842
+cavité pathologique: 0.8417
+région cervicale: 0.8415
+région sclérosée colorée: 0.8415
+figure 24: 0.8411
+région dorsale: 0.8406
+dégénération secondaire: 0.8405
+deux moitiés: 0.8405
+figure 61: 0.8404
+sclérose latérale amyotrophique: 0.8404
+ceau antéro: 0.8402
+poliomyélite: 0.8399
+cicatriciel: 0.8398
+faisceau pyramidal: 0.8398
+asymétrie: 0.839
+région cervicale: 0.8389
+myélite: 0.8388
+sclérosés: 0.8385
+asymétrie: 0.8383
+sclérose: 0.8382
+syringomyélie: 0.8372
+cordons postérieurs: 0.8371
+disposition fasciculaire: 0.8371
+deux préparations: 0.8368
+figure 55: 0.8368
+tumeur: 0.8367
+zette hebdomadaire: 0.8367
+nucléole: 0.8365
+région dorsale: 0.8364
+préparations: 0.8362
+faisceau latéral: 0.8362
+cordons antéro: 0.836
+figure 54: 0.8359
+cavité aplatie: 0.8357
+cordons postérieurs: 0.8355
+région lombaire: 0.8355
+regretté professeur: 0.8352
+manière éclatante: 0.8351
+région cervicale: 0.8349
+substance grise: 0.8348
+faisceau postérieur sain: 0.8346
+moelle normale: 0.8344
+région dorsale inférieure: 0.8343
+substance grise: 0.8342
+myéline: 0.8341
+région lombaire: 0.8341
+étude anatomique: 0.834
+cordons postérieurs: 0.834
+retendue: 0.834
+dégénération secondaire: 0.8332
+hémorrliagie cérébrale: 0.833
+21c leçon: 0.8328
+planche iv: 0.8324
+région lombaire: 0.8322
+omjnire: 0.8318
+lésion: 0.8317
+cordons: 0.8314
+région lombaire supérieure: 0.8312
+planche xvi: 0.8312
+faisceau latéral: 0.8309
+région sclérosée: 0.8309
+clinique: 0.8304
+faisceau latéral: 0.8298
+cordons postérieurs: 0.8297
+partie sclérosée: 0.8293
+dégénération: 0.8293
+différence considérable: 0.8293
+lésions semblables: 0.8291
+substance grise centrale: 0.8291
+tableau classique: 0.8289
+ceau antéro: 0.8289
+planche xix: 0.8287
+foyers inflammatoires: 0.8286
+myélites systématiques: 0.8286
+région dorsale: 0.8285
+renflement cervical: 0.8282
+lésion limitée: 0.8279
+région cervicale: 0.8279
+planche précédente: 0.8275
+ceau antéro: 0.8269
+cordons postérieurs: 0.8269
+substance grise: 0.8268
+môme faisceau: 0.8267
+cours: 0.8266
+cordons: 0.8261
+naires: 0.826
+substance grise: 0.8259
+sclérose secondaire: 0.8257
+substance blanche avoisinante: 0.8256
+cordon postérieur: 0.8254
+faisceaux cérébelleux directs: 0.8253
+polynévrites: 0.8253
+région lombaire: 0.8253
+aspect cordiforme: 0.8253
+faisceaux antéro: 0.8251
+soin scrupuleux: 0.8249
+région lombaire: 0.8246
+poliomyélite: 0.8244
+région dorsale: 0.8243
+moelle normale: 0.8242
+planche xxxviii: 0.8242
+millimètre: 0.8241
+syringomyélie: 0.8241
+faisceaux latéraux colorée: 0.824
+clinique: 0.824
+dégénération secondaire: 0.8235
+bulbaires: 0.8235
+lésions systématiques: 0.8234
+région dorsale: 0.8233
+zone radiculaire: 0.823
+région cervicale: 0.823
+lésion: 0.8223
+région dorsale: 0.8223
+cavité pathologique centrale: 0.8219
+figure 71: 0.8218
+moelle normale: 0.8217
+vie: 0.8217
+affection spinale: 0.8215
+figure 42: 0.8211
+observation iv: 0.8211
+région lombaire: 0.8208
+planche xxix: 0.8208
+figure 36: 0.8206
+figure 52: 0.8203
+revêtement épithélial: 0.8203
+cavité considérable centrale: 0.8203
+moëlle épinière: 0.82
+myéline: 0.82
+vue: 0.8197
+figure 26: 0.8196
+figure 65: 0.8194
+térieur gauche: 0.8192
+région dorsale: 0.819
+planche vii: 0.8181
+héliogravure: 0.8178
+sclérose: 0.8176
+substance grise: 0.8171
+lésion: 0.817
+cordons postérieurs: 0.8167
+région cervicale: 0.8167
+clinique: 0.8159
+faisceau latéral: 0.8157
+figure 60: 0.8157
+planche ii: 0.8156
+région cervicale inférieure: 0.8156
+lésions spinales: 0.8153
+ceau antéro: 0.8153
+zone radiculaire: 0.8144
+coupe précédente: 0.8139
+planche iii: 0.8135
+préparation précédente: 0.8131
+myéline: 0.8131
+figure 64: 0.8128
+cordon latéral droit indemne: 0.8127
+planche xv: 0.8125
+moelle normale: 0.8124
+région cervicale: 0.8122
+schéma: 0.812
+tion photographique: 0.8119
+renflement cervical: 0.8119
+clinique: 0.8116
+région dorsale: 0.811
+région cervicale: 0.8105
+cordon latéral droit: 0.8103
+réseau fibrillaire: 0.8103
+pathologie spinale: 0.8102
+faisceaux latéraux: 0.8098
+tissu: 0.8095
+figure 20: 0.8092
+tubes nerveux: 0.8092
+anatomie pathologique: 0.8086
+vaisseau altéré: 0.8085
+région lombaire: 0.8085
+paraplégie douloureuse amyotrophique: 0.8084
+moelle normale: 0.808
+cours: 0.8076
+cordons antérieurs: 0.8076
+racine antérieure: 0.8074
+anatomie pathologique: 0.8055
+planche ix: 0.8049
+figure 77: 0.8049
+myélite cavitaire: 0.8042
+anléro: 0.8042
+partie indemne: 0.8041
+cordons: 0.8038
+figure 74: 0.8035
+préparation précédente: 0.8025
+dégénération ascendante: 0.8022
+partie centrale: 0.8019
+préparation précédente: 0.8018
+faisceau antérieur: 0.8016
+coupe semblable: 0.8013
+clinique: 0.8011
+région dorsale inférieure: 0.8009
+tumeur: 0.8008
+tome xi: 0.8004
+cordon postérieur: 0.8
+région lombaire: 0.7999
+paroi: 0.7999
+préparations: 0.7999
+cordon postérieur: 0.7994
+substance blanche coiiiiguë: 0.7993
+lésions secondaires: 0.7991
+lésion: 0.799
+fibromes: 0.799
+cas: 0.7983
+dons antérieurs: 0.7982
+tube nerveux: 0.7981
+dégénération: 0.7976
+figure 32: 0.7973
+région lombaire inférieure: 0.7971
+intensité variable: 0.7961
+anatomie pathologique: 0.7956
+vue: 0.795
+prolongement: 0.795
+sillon postérieur: 0.7949
+parties teintées: 0.7947
+atrophie musculaire: 0.7946
+fibrome: 0.7942
+élude: 0.7941
+espace vacuolaire: 0.7936
+topoalgie: 0.7936
+leçons: 0.7933
+région lombaire supérieure: 0.7931
+région dorsale supérieure: 0.7931
+tissu: 0.7931
+paroi: 0.7928
+région cervicale inférieure: 0.7928
+sclérose: 0.7922
+foyer myélitique gauche: 0.7922
+vue: 0.7911
+ligures: 0.7909
+renflement lombaire: 0.7908
+grise: 0.7897
+faisceaux: 0.788
+faisceau cérébelleux direct: 0.7876
+commissure antérieure: 0.7873
+région cervicale: 0.7873
+façon classique: 0.7868
+cerveau: 0.7867
+faisceau latéral gauche: 0.7867
+cordons: 0.7864
+rée: 0.7858
+région dorsale: 0.7858
+faisceaux postérieurs: 0.7857
+fibrome siège: 0.7856
+faisceau latéral: 0.7855
+vue: 0.7844
+corne antérieure: 0.7841
+préparations: 0.7836
+tiers supérieur: 0.783
+dégénération secondaire: 0.7827
+grossissement: 0.7825
+planche xiv: 0.7822
+préparations: 0.7821
+figures 23: 0.7818
+région lombaire: 0.7812
+cellules ganglionnaires indemnes: 0.7795
+altéré: 0.7792
+moelle normale: 0.7771
+substance grise: 0.7765
+vue: 0.7764
+préparations: 0.7764
+foyer primitif: 0.7761
+anatomie pathologique: 0.776
+cordons postérieurs: 0.7749
+médecin praticien: 0.7732
+rieurs: 0.7729
+figure 16: 0.7714
+vingt minutes: 0.7713
+figure 50: 0.7709
+canal central: 0.7708
+figure 10: 0.7708
+sclérose: 0.7704
+friedreich: 0.7703
+région lombaire: 0.7686
+siège habituel: 0.7681
+tabès: 0.7659
+forme douloureuse: 0.7631
+deux foyers inflammatoires: 0.7611
+étendue: 0.7603
+cote: 0.7599
+région lombaire: 0.7565
+façon exacte: 0.7559
+corne antérieure: 0.7559
+lésion: 0.7554
+trèfle: 0.7546
+faisceau antéro: 0.7538
+remerciements: 0.7536
+planche xxv: 0.753
+préparations: 0.7515
+schémas semblables: 0.7501
+chroniques: 0.7449
+vaisseau altéré: 0.7438
+paralysie infantile: 0.7393
+incomparable clinique: 0.7392
+fait distinctes: 0.7391
+grossissements: 0.7381
+coupe transversale: 0.7357
+préparations: 0.7355
+téral droit: 0.7339
+grossissement: 0.7301
+résultats considérables: 0.7285
+préparations: 0.7196
+affeclions: 0.7161
+histologie fine: 0.7136
+coupe: 0.7121
+méthode: 0.6896
+texte explicatif: 0.558
+préface: 0.5577
+membre: 0.5216
+45 planches: 0.5192
+libraire: 0.5128
+préparation: 0.2996
+communication: 0.2702
+détails: 0.2114
+carmin: 0.1927
+18 février 1887: 0.1758
