@@ -35,6 +35,7 @@
     }
 \definecolor{LightCyan}{rgb}{0.88,1,1}   
 \usepackage[justification=centering,size=scriptsize]{caption}
+\captionsetup[table]{name=Tab.}
 \usepackage[size=footnotesize]{subcaption}
 \captionsetup{font=scriptsize}
 \captionsetup[figure]{name=Fig.}
@@ -246,14 +247,14 @@
     \tableofcontents[sectionstyle=show,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
 \end{frame}
 
-%\section[Contexte]{Contexte de recherche}
+\section[Contexte]{Contexte de recherche}
 %\subsection{Rupture épistémologique}
-%\input{contexte}
-%\section[État de l'art]{Extraction des phrases-clés : état de l'art}
-%\input{sota}
-%\section[\texttt{keybert}]{Méthode \texttt{keybert}}
+\input{contexte}
+\section[État de l'art]{Extraction des phrases-clés : état de l'art}
+\input{sota}
+\section[\texttt{keybert}]{Méthode \texttt{keybert}}
 \input{keybert}
-%\section[\textit{PatternRank}]{Méthode \textit{PatternRank}}
+\section[\textit{PatternRank}]{Méthode \textit{PatternRank}}
 \input{patternrank}
 
 

@@ -40,6 +40,7 @@ des phrases-clés qui résument parfaitement un document donné.}
 \begin{frame}{Approches classiques\\ {\small(\hypersetup{citecolor=yellow}\cite{garaudclassiques})}}
 \setbeamercolor{block title}{use=structure,fg=red!50!black,bg=yellow!40}
 \setbeamercolor{block body}{use=structure,fg=black,bg=white!20!white}
+\pause
 \onslide<1->{\begin{block}{\textsc{Statistiques}}
 \justifying
 Basées sur les fréquences des mots / groupe de mots et leur cooccurrence.
@@ -52,7 +53,7 @@ Basées sur les fréquences des mots / groupe de mots et leur cooccurrence.
 \item \textsc{YAKE} -- \textit{Yet Another Keyword Extractor} \hfill \citep{CAMPOS2020257}
 \end{itemize}
 
-\onslide<5->{\begin{block}{\textsc{Graphes}}
+\onslide<6->{\begin{block}{\textsc{Graphes}}
 \justifying
 Chaque nœud = mot / groupe de mots ; \\chaque arc = probabilité (ou la fréquence) d’observer ces mots ensemble.
 \end{block}}
@@ -70,6 +71,7 @@ Chaque nœud = mot / groupe de mots ; \\chaque arc = probabilité (ou la fréque
 \justifying
 %Lier des mots sémantiquement proches et en extraire ceux qui apportent l’information la plus pertinente à l'aide des réseaux de neurones.
 \setbeamercolor{block body}{use=structure,fg=black,bg=white!20!white}
+\pause
 \onslide<1->{\begin{block}{\textsc{Plongements de mots}}
 \justifying
 Représentent l’ensemble des mots d’un vocabulaire sous forme de vecteurs. Distance entre ces vecteurs $\rightarrow$ mots sémantiquement proches.
@@ -95,7 +97,8 @@ Représentent l’ensemble des mots d’un vocabulaire sous forme de vecteurs. D
 \medskip
 
 \setbeamercolor{block body}{use=structure,fg=black,bg=white!20!white}
-\onslide<3->{\begin{block}{\textsc{Plongements contextuels}}
+\pause
+\onslide<4->{\begin{block}{\textsc{Plongements contextuels}}
 \justifying
 Basés sur les modèles de langue pré-entraînés.\\
 Gèrent mieux des cas ambiguës (homographes).
@@ -106,8 +109,8 @@ Gèrent mieux des cas ambiguës (homographes).
 \end{block}}
 \pause
 \begin{itemize}[<+->]
-\item \small{Key2Vec \hfill \citep{mahata2018key2vec}
-\item \small{Key\textsc{BERT}} \hfill \small{\citep{grootendorst2020keybert}}}
+\item \small{Key2Vec \hfill \citep{mahata2018key2vec}}
+\item \small{Key\textsc{BERT}} \hfill \small{\citep{grootendorst2020keybert}}
 \end{itemize}
 %\colorbox{yellow!40}{\color{red!50!black}{Plongements contextuels}}
 %\begin{itemize}

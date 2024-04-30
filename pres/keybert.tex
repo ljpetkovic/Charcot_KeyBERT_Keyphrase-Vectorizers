@@ -1,4 +1,5 @@
 \begin{frame}{Librairie \texttt{keybert}}
+\pause
 \begin{itemize}[<+->]
 \item extraction des mots/phrases-clés les plus similaires à un document
 \item exploitation des plongements \textsc{BERT}\\
@@ -13,9 +14,10 @@
 \end{frame}
 
 \begin{frame}{Fonctionnement de la librairie \texttt{keybert}}
+\pause
 \begin{enumerate}[<+->]
 \item entrée : un document
-\item tokénisation du document en mots/phrases-clés candidates
+\item tokenisation du document en mots/phrases-clés candidats
 \item génération des plongements du document et des mots/phrases-clés
 \item calcul de la similarité cosinus document : mots/phrases-clés
 \end{enumerate}
@@ -28,18 +30,26 @@
 \end{frame}
 
 \begin{frame}{\textit{Maximal Marginal Relevance} (\textit{\textsc{MMR}})}
+\pause
 \begin{itemize}[<+->]
 \item paramètre de diversification des résultats
 \item basé sur la similarité cosinus
 \end{itemize}
+\pause
 \bigskip
-
 \texttt{use\_mmr=True, diversity=[0-1]} \\
-\hspace{2.77cm} {\footnotesize le degré de diversité entre 0 et 1}
+\pause \hspace{2.77cm} {\footnotesize le degré de diversité entre 0 et 1}
 \end{frame}
 
 \begin{frame}{Liste des phrases-clés extraites avec \texttt{keybert}}
-Liste des mots vides appliquées : \href{https://spacy.io/}{\texttt{spaCy}}
+\pause
+\begin{itemize}
+\item nombre de tranches du texte : \texttt{20}
+\pause
+\item liste des mots vides appliquées : \href{https://spacy.io/}{\texttt{spaCy}} 
+\end{itemize}
+
+\pause
 \begin{table}[!htb]
 \footnotesize
     \begin{minipage}{.5\linewidth}
@@ -47,39 +57,83 @@ Liste des mots vides appliquées : \href{https://spacy.io/}{\texttt{spaCy}}
         \begin{tabular}{l|r}
         \rowcolor[HTML]{FFCCC9} 
 \textsc{\textbf{Phrase-clé}} & \cellcolor[HTML]{DAE8FC}\textsc{\textbf{Score}} \\ \hline
-            scientifique planches reproduction & 0.5093 \\
-			postérieure cordon postérieur & 0.5078 \\
-			cervico dorsale & 0.465 \\
-			sillon postérieur corne & 0.4644 \\
-			région cervicale figure & 0.4572 \\
-			cirrhose cancer primitif & 0.4355 \\
-			altération cellules ganglionnaires & 0.4032 \\
-			anatomie pathologique moëlle & 0.3931 \\
-			lcucocythcs substance granuleuse & 0.3474 \\
-			complètement détruite & 0.334
+pyramidal croisé gauche & 0.633 \\
+cancer primitif colonne & 0.5774 \\
+cellule nucléole prolongement & 0.5757 \\
+altérée cordon zone & 0.5622 \\
+brain 1890 somnambulismes & 0.5492 \\
+voit tumeur située & 0.5424 \\
+postérieur corne postérieure & 0.5269 \\
+gliomateux tissu nerveux & 0.5198 \\
+fibreux coupés transversalement & 0.5182 \\
+pyramidal croisé faisceau & 0.5104 
         \end{tabular}
-        \subcaption{Corpus \og{}Charcot\fg{}.}
+        \subcaption{Échantillon \og{}Charcot\fg{}.}
     \end{minipage}%
+    \pause
     \begin{minipage}{.5\linewidth}
             \begin{tabular}{||l|r}
         \rowcolor[HTML]{FFCCC9} 
 \textsc{\textbf{Phrase-clé}} & \cellcolor[HTML]{DAE8FC}\textsc{\textbf{Score}} \\ \hline
-     magnétisme applicable horticulture & 0.7012 \\
-	droite corps envahie & 0.567 \\
-	action nitrite amyle & 0.5114 \\
-	trouve sabbat fans & 0.4422 \\
-	centimètres rotule circonférence & 0.4194 \\ 
-	mère attaques hystérie & 0.4148 \\
-	chloral décembre règles & 0.4038 \\
-	iconographie photographique salpetriere & 0.3977 \\
-	poitrine apparent 11 & 0.3388 \\
-	hystérogènes description attaques & 0.332
+magnétisme applicable horticulture & 0.7012 \\
+sommeil femmes épileptiques & 0.6702 \\
+hypnotisme rien mystérieux & 0.6556 \\
+compression ovarienne arrête & 0.6397 \\
+hypnotisme 49 méthode & 0.6294 \\
+sommeil hystériques 88 & 0.6002 \\
+17 janvier sensibilité & 0.5952 \\
+somnolence pupilles normales & 0.5927 \\
+janvier séries juillet & 0.5922 \\
+nuit animaux félins & 0.5803
         \end{tabular}
-        \subcaption{Corpus \og{}Autres\fg{}.}
+        \subcaption{Échantillon \og{}Autres\fg{}.}
       \centering
     \end{minipage}
-    \caption{Liste de dix phrases-clés les plus pertinentes selon \texttt{keybert} dans les deux corpus.} 
+    \caption{Liste de dix phrases-clés les plus pertinentes selon \texttt{keybert} dans les deux échantillons.} 
 \end{table}
+
+
+%\begin{table}[!htb]
+%\footnotesize
+%    \begin{minipage}{.5\linewidth}
+%      \centering
+%        \begin{tabular}{l|r}
+%        \rowcolor[HTML]{FFCCC9} 
+%\textsc{\textbf{Phrase-clé}} & \cellcolor[HTML]{DAE8FC}\textsc{\textbf{Score}} \\ \hline
+%            scientifique planches reproduction & 0.5093 \\
+%			postérieure cordon postérieur & 0.5078 \\
+%			cervico dorsale & 0.465 \\
+%			sillon postérieur corne & 0.4644 \\
+%			région cervicale figure & 0.4572 \\
+%			cirrhose cancer primitif & 0.4355 \\
+%			altération cellules ganglionnaires & 0.4032 \\
+%			anatomie pathologique moëlle & 0.3931 \\
+%			lcucocythcs substance granuleuse & 0.3474 \\
+%			complètement détruite & 0.334
+%        \end{tabular}
+%        \subcaption{Échantillon \og{}Charcot\fg{}.}
+%    \end{minipage}%
+%    \begin{minipage}{.5\linewidth}
+%            \begin{tabular}{||l|r}
+%        \rowcolor[HTML]{FFCCC9} 
+%\textsc{\textbf{Phrase-clé}} & \cellcolor[HTML]{DAE8FC}\textsc{\textbf{Score}} \\ \hline
+%     magnétisme applicable horticulture & 0.7012 \\
+%	droite corps envahie & 0.567 \\
+%	action nitrite amyle & 0.5114 \\
+%	trouve sabbat fans & 0.4422 \\
+%	centimètres rotule circonférence & 0.4194 \\ 
+%	mère attaques hystérie & 0.4148 \\
+%	chloral décembre règles & 0.4038 \\
+%	iconographie photographique salpetriere & 0.3977 \\
+%	poitrine apparent 11 & 0.3388 \\
+%	hystérogènes description attaques & 0.332
+%        \end{tabular}
+%        \subcaption{Échantillon \og{}Autres\fg{}.}
+%      \centering
+%    \end{minipage}
+%    \caption{Liste de dix phrases-clés les plus pertinentes selon \texttt{keybert} dans les deux échantillons.} 
+%\end{table}
+
 %\begin{table}
 %\small
 %\begin{tabular}{l|r}

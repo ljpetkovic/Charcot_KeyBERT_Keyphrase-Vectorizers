@@ -19,6 +19,7 @@
 %\item extraction des phrases-clés non-supervisée
 %\item exploite des modèles de langues pré-entraînés + parties du discours
 %\end{itemize}
+\pause
 \begin{enumerate}[<+->]
 \item entrée : un seul document texte tokenisé
 \item étiquetage des tokens avec les balises POS
@@ -36,6 +37,8 @@
 \end{frame}
 
 \begin{frame}{Liste des phrases-clés avec \texttt{keyphrase-vectorizers}}
+\pause
+Nombre de tranches de texte : \texttt{20}
 %\begin{table}
 %\begin{tabular}{l|r}
 %\small
@@ -54,34 +57,88 @@
 %\end{tabular}
 %\caption{Liste des dix phrases-clés les plus pertinentes selon \texttt{keyphrase-vectorizers}.}
 %\end{table}
+\pause
 \begin{table}[!htb]
 \footnotesize
+\pause
     \begin{minipage}{.5\linewidth}
       \centering
-        \begin{tabular}{l|r||}
-            paroi épaissie & 0.9276 \\
-			histologie fine & 0.9193 \\
-			tissu gingival & 0.9179 \\
-			21c leçon & 0.9162 \\
-			travaux récents & 0.9152 \\
-			entrecroisement dos pyramides & 0.9145 \\
-			érysipèle périodique annuel & 0.9135 \\
-			cicatriciel & 0.9118 \\
-			fibromes & 0.9109 \\
-			affeclions & 0.9091
+        \begin{tabular}{l|r}
+         \rowcolor[HTML]{FFCCC9} 
+\textsc{\textbf{Phrase-clé}} & \cellcolor[HTML]{DAE8FC}\textsc{\textbf{Score}} \\ \hline
+%            paroi épaissie & 0.9276 \\
+%			histologie fine & 0.9193 \\
+%			tissu gingival & 0.9179 \\
+%			21c leçon & 0.9162 \\
+%			travaux récents & 0.9152 \\
+%			entrecroisement dos pyramides & 0.9145 \\
+%			érysipèle périodique annuel & 0.9135 \\
+%			cicatriciel & 0.9118 \\
+%			fibromes & 0.9109 \\
+%			affeclions & 0.9091
+tissu gingival & 0.9184 \\
+érysipèle périodique annuel & 0.9109 \\
+travaux récents & 0.91 \\
+faisceau pyramidal direct & 0.9064 \\
+foie & 0.9052 \\
+syringomyélie & 0.9048 \\
+foie & 0.9036 \\
+rétractions fibro & 0.9008 \\
+goitre exophtalmique & 0.9008 \\
+fibrome & 0.8995
         \end{tabular}
-        \subcaption{Corpus \og{}Charcot\fg{}.}
+        \subcaption{Échantillon \og{}Charcot\fg{}.}
     \end{minipage}%
+    \pause
     \begin{minipage}{.5\linewidth}
       \centering
-        \caption{Liste des dix phrases-clés les plus pertinentes selon \texttt{keyphrase-vectorizers} dans les d}
-        \begin{tabular}{ll}
-            3 & 4
+        \begin{tabular}{l|r}
+         \rowcolor[HTML]{FFCCC9} 
+\textsc{\textbf{Phrase-clé}} & \cellcolor[HTML]{DAE8FC}\textsc{\textbf{Score}} \\ \hline
+%            trois lieues loing & 0.9369 \\
+%			detfeins pernicieux & 0.9292 \\
+%			21 mat & 0.9289 \\
+%			attaques syncopales2 & 0.9278 \\
+%			accufoit & 0.9255 \\
+%			diapason cataleptise & 0.9252 \\
+%			membre faidt & 0.9245 \\
+%			anes & 0.9242 \\
+%			toutesfois & 0.9235 \\
+%			demi culbute & 0.9217
+attaques syncopales2 & 0.9373 \\
+trois lieues loing & 0.9369 \\
+diapason cataleptise & 0.9354 \\
+demi culbute & 0.9352 \\
+anes & 0.935 \\
+toutesfois & 0.933 \\
+allegreffe & 0.9318 \\
+21 mat & 0.9315 \\
+aifeuroit & 0.931 \\
+figures bizarres & 0.9307
         \end{tabular}
+        \subcaption{Échantillon \og{}Autres\fg{}.}
     \end{minipage} 
+      \caption{Liste des dix phrases-clés les plus pertinentes selon \texttt{keyphrase-vectorizers} dans les deux échantillons.}
 \end{table}
 \end{frame}
 
+\begin{frame}{Termes en commun : \textit{PatternRank}}
+\begin{table}[ht!]
+\begin{tabular}{c}
+cordons \\
+deux moitiés \\
+foie \\
+hypnotisme \\
+observation iv \\
+planche ii \\
+planche iv \\
+planche ix \\
+$\dots$ \\
+planche xxiii \\
+région lombaire 
+\end{tabular}
+\end{table}
+\end{frame}
 \begin{frame}{Utilisation des librairies \texttt{keybert} et \texttt{keyphrase-vectorizers}}
 Ressources en ligne : \pause
 \begin{itemize}[<+->]

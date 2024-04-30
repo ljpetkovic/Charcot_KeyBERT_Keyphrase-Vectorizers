@@ -88,12 +88,73 @@
 
 \end{frame}
 
+\begin{frame}{Fonds Charcot}
+\begin{block}{SorbonNum\\
+\footnotesize{Bibliothèque de Sorbonne Université (\textsc{BSU})}}
+201 documents XML OCRisés (sans post-correction)
+\end{block}
+%\begin{itemize}
+%    \item \textrm{Charcot} : textes rédigés par Charcot
+%    \item \textrm{Autres} : textes rédigés par les membres de son réseau scientifique
+%\end{itemize}
+\begin{table}[!ht]
+    \centering
+    \begin{tabular}{|c|r|r|}
+    \hline 
+    \rowcolor{yellow!30}
+       Corpus & \multicolumn{1}{c|}{Nb de docs} & \multicolumn{1}{c|}{Nb de tokens} \\
+       \hline
+      \begin{tabular}[c]{@{}c@{}}\textrm{Charcot}\\ \scriptsize{textes rédigés par Charcot}\end{tabular}  & 68 & 12 190 649 (38,12\%) \\
+       \hline
+       \begin{tabular}[c]{@{}c@{}}\textrm{Autres}\\ \scriptsize{textes rédigés par les membres} \vspace{-0.15cm} \\ \scriptsize{de son réseau scientifique}\end{tabular}    & 133 & 19 788 830 (61,88\%) \\
+       \hline\hline
+       \textbf{Total} & \textbf{201} & \textbf{31 979 479} (100\%)\\
+       \hline
+    \end{tabular}
+    \caption{Répartition du corpus issu du \href{https://patrimoine.sorbonne-universite.fr/collection/Fonds-Charcot}{fonds Charcot}.
+%    \footnote{\tiny{\url{https://patrimoine.sorbonne-universite.fr/collection/Fonds-Charcot}}}
+}
+    \label{tab:my_label}
+\end{table}
+\end{frame}
+
+%\begin{frame}{Corpus Charcot \href{https://obtic.huma-num.fr/obvie/charcot/?view=corpus}{\textcolor{yellow}{en ligne}}}
+%Corpus Charcot accessible sur la plateforme \textsc{OBVIE} \hfill {\small\citep{alrahabi2022obvie}}
+%\begin{itemize}
+%\item fouille avancée des corpus en \textsc{XML-TEI}
+%\item textes similaires : mots fréquents / en commun, noms cités
+%\end{itemize}
+%%\danger impossible de quantifier l'importance des MWEs
+%\begin{figure}[!h]
+%    \centering
+%\includegraphics[width=90mm,scale=0.5]{pic/doc_sim.png}
+%    \caption{Points similaires entre un ouvrage de Charcot et de celui de de la Tourette.}
+%%    \caption{Distribution des fréquences des tokens avec la frise chronologique pour ceux constituant l'expression \textit{bulbe rachidien} (issus des corpus \og{}Charcot\fg{} et \og{}Autres\fg{}).}
+%    \label{fig:my_label}
+%\end{figure}
+%% citations directes (\cite{manjavacas2019})
+%\end{frame}
+
+\begin{frame}{Mesurer le degré d'intertextualité}
+Mesurer informatiquement l'impact de Charcot sur son réseau \\$\rightarrow$ intertextualité uni-directionnelle
+\begin{figure}[!h]
+    \centering
+\includegraphics[width=90mm,scale=0.5]{pic/charcot_intertextualite.png}
+    \caption{Opérationnalisation de l'impact de Charcot sur ses élèves.}
+    \label{fig:my_label}
+\end{figure}
+\end{frame}
+
 \begin{frame}{Question de recherche}
 % Comment mesurer le degré d'intertextualité entre Charcot et son réseau scientifique et artistique au prisme du numérique ?
 % create the main block
+%\begin{exampleblock}{}
+%\centering
+%    \color{deepblue}{\textmd{Comment mesurer le degré d'intertextualité entre Charcot et son réseau scientifique au prisme du numérique ?}}
+%\end{exampleblock}
+
 \begin{exampleblock}{}
 \centering
-    \color{deepblue}{\textmd{Comment mesurer le degré d'intertextualité entre Charcot et son réseau scientifique au prisme du numérique ?}}
+    \color{deepblue}{\textmd{Peut-on repérer les concepts-clés communs aux discours de Charcot et de son réseau scientifique ?}}
 \end{exampleblock}
-
 \end{frame}
