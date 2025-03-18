@@ -1,0 +1,63 @@
+Job Id: 2154360.mesu2
+    Job_Name = mytestjob
+    Job_Owner = petkovic@mesu2.ib0.xa.dsi.upmc.fr
+    resources_used.cpupercent = 2400
+    resources_used.cput = 176:03:20
+    resources_used.mem = 9045348kb
+    resources_used.ncpus = 24
+    resources_used.vmem = 15068876kb
+    resources_used.walltime = 08:48:57
+    job_state = F
+    queue = b_normal_long
+    server = mesu2
+    Checkpoint = u
+    ctime = Mon Apr  8 14:51:20 2024
+    Error_Path = mesu2.ib0.xa.dsi.upmc.fr:/home/petkovic/mytestjob.e2154360
+    exec_host = r1i3n32/0*24
+    exec_vnode = (r1i3n32:ncpus=24)
+    Hold_Types = n
+    Join_Path = oe
+    Keep_Files = n
+    Mail_Points = a
+    mtime = Mon Apr  8 23:40:18 2024
+    Output_Path = mesu2.ib0.xa.dsi.upmc.fr:/home/petkovic/mytestjob.o2154360
+    Priority = 0
+    qtime = Mon Apr  8 14:51:20 2024
+    Rerunable = True
+    Resource_List.mpiprocs = 24
+    Resource_List.ncpus = 24
+    Resource_List.nodect = 1
+    Resource_List.place = free
+    Resource_List.select = 1:ncpus=24:mpiprocs=24
+    Resource_List.walltime = 60:00:00
+    stime = Mon Apr  8 14:51:21 2024
+    session_id = 11648
+    sandbox = PRIVATE
+    jobdir = /home/petkovic/pbs.2154360.mesu2.x8z
+    substate = 92
+    Variable_List = PBS_O_HOME=/home/petkovic,PBS_O_LANG=en_US.UTF-8,
+	PBS_O_LOGNAME=petkovic,
+	PBS_O_PATH=/opt/sgi/sbin:/opt/sgi/bin:/home/petkovic/bin:/usr/local/bi
+	n:/usr/bin:/bin:/usr/bin/X11:/usr/games:/opt/c3/bin:/opt/ibutils/bin:/o
+	pt/pbs/14.2.6/bin:/opt/pbs/14.2.6/sbin:/sbin:/bin,
+	PBS_O_MAIL=/var/mail/petkovic,PBS_O_SHELL=/bin/bash,
+	PBS_O_WORKDIR=/home/petkovic,PBS_O_SYSTEM=Linux,PBS_O_QUEUE=beta,
+	PBS_O_HOST=mesu2.ib0.xa.dsi.upmc.fr
+    comment = Job run at Mon Apr 08 at 14:51 on (r1i3n32:ncpus=24) and finished
+	
+    etime = Mon Apr  8 14:51:20 2024
+    run_count = 1
+    eligible_time = 48:18:36
+    Stageout_status = 1
+    Exit_status = 0
+    Submit_arguments = keyphrase-vectorizers.sh
+    pset = groups=ice_iru3b
+    history_timestamp = 1712612418
+    project = _pbs_project_default
+
+
+mesu2: 
+                                                            Req'd  Req'd   Elap
+Job ID          Username Queue    Jobname    SessID NDS TSK Memory Time  S Time
+--------------- -------- -------- ---------- ------ --- --- ------ ----- - -----
+2154360.mesu2   petkovic b_normal mytestjob   11648   1  24    --  60:00 F 08:48
