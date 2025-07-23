@@ -1,0 +1,2069 @@
+<Titre>Anatomie pathologique de la moëlle épinière : 45 planches en héliogravure avec texte explicatif</Titre>
+<Auteur>Charcot, Jean-Martin</Auteur>
+<Auteur>Londe, Albert</Auteur>
+<Auteur>Blocq, Paul</Auteur>
+<Date>1891</Date>
+<Cote>CO_000092_010</Cote>
+
+
+
+
+
+ANATOMIE PATHOLOGIQUE
+DE LA
+MOELLE ÉPINIÈRE
+
+Droits de traduction et de reproduction réservés.
+
+ANATOMIE PATHOLOGIQUE
+])" la
+r 1%
+MOELLE ÉPINIÈRE
+45 PLANCHES EN HÉLIOGRAVURE
+AVEC TEXTE EXPLICATIF
+I' : 1 H
+PAUL BLOCQ
+ANCIEN INTERNE DES HOPITAUX
+CHEF DES TRAVAUX ANATOMO-PATIIOLOGIQUES A LA S : 1L1'I ? TRIliRE E
+LAURÉAT DE L'ASSISTANCE PUBLIQUE
+LAURÉAT DE LA FACULTÉ DE MÉDECINE
+LAURÉAT DE LA SOCIÉTÉ MÉDICO-PRATIQUE ET DE LA SOCIÉTÉ 31ÉDIC0-PSYCIIOLOGIQUE
+LAURÉAT DE L'INSTITUT (ACADÉMIE DES SCIENCES)
+MEMBRE DE LA SOCIÉTÉ ANATOMIQUE, DE LA SOCIÉTÉ CLINIQUE, ETC.
+ET
+ALBERT LONDE
+DIRECTEUR DU SERVICE PHOTOGRAPHIQUE A LA SALPITlll¡ :  : RE
+OFFICIER11 DE L'INSTRUCTION PUBLIQUE
+Ouvrage précédé d'une Préface de M. le Professeur CHARCOT
+PARIS
+G. MASSON, ÉDITEUR
+LIBRAIRE DE L'ACADÉMIE DE MÉDECINE
+120, boulevard Saint-Germain, en face de l'École de Médecine
+1891
+
+PRÉFACE DE M. LE PROFESSEUR CHARCOT
+L'Atlas que publient MM. Paul Blocq et Albert Londe est composé de documents
+recueillis, pour la plupart sous mes yeux, dans le service de la Clinique des maladies
+du système nerveux à la Salpêtrière. C'est dire que le plus grand nombre des
+préparations qui y sont figurées ont été examinées par moi et qu'elles concernent
+des malades que j'ai étudiés cliniquement au cours de mes leçons. Cette circon-
+stance me met fort à l'aise pour présenter au public cette publication et la lui
+recommander, car je puis sans réserve me porter garant du soin scrupuleux que les
+auteurs y ont apporté.
+Lorsque j'ai sous les yeux les planches de ce beau livre, je ne puis m'empêcher
+de me remettre en mémoire ce que je disais il y a presque vingt ans à propos de
+l'influence de l'intervention de l'anatomie pathologique dans les choses de la
+clinique, en matière de pathologie spinale. Qu'on me permette de le reproduire ici.
+« L'étude de la moelle épinière à l'aide du grossissement, disais-je, a seule le pouvoir
+de combler les desiderata que nous venons de signaler, à propos de l'anatomie
+à l'oeil nu. Ses procédés d'ailleurs sont applicables à divers points de vue. Elle
+peut, en premier lieu, se proposer de remonter jusqu'aux éléments anatomiques
+eux-mêmes et chercher les modifications qu'ils subissent aux diverses phases de
+l'évolution du processus morbide. On peut encore diriger à un autre point de vue
+l'étude de la moelle faite a l'aide des Grossissements. Il existe en effet une sorte
+d'anatomie topographique microscopique dont l'objet est d'examiner les parties
+dans leurs rapports naturels, sans destruction, sans dilacération. Il s'agit alors
+principalement de reconnaître d'une façon exacte, dans les faisceaux blancs
+ou dans les divers départements de la substance grise, quelle est l'étendue, la confi-
+guration, la répartition des altérations, de suivre leur mode d'extension lorsque,
+
+VI PRÉFACE DE M. LE PROFESSEUR CHARCOT.
+débordant au delà de leur foyer primitif, elles se propagent aux régions voisines ou
+se communiquent même à des régions éloignées. »
+« On doit, si je ne me trompe, à ce mode d'investigation une bonne partie des
+progrès récemment accomplis dans l'histoire, longtemps presque inextricable, des
+maladies spinales chroniques. Ce résultat était d'ailleurs facile à prévoir. L'expéri-
+mentation sur l'animal, malgré ses procédés comparativement grossiers, avait suffi
+cependant pour mettre hors de doute que, dans ce cordon mince qu'on appelle la
+moelle épinière, il n'existe, pour ne parler que des faisceaux blancs, plusieurs régions
+répondant en quelque sorte à autant d'organes dont les fonctions, malgré l'analogie
+de composition, sont tout à fait distinctes. Dans la substance grise elle-même il y a
+lieu, vous le savez, d'établir à ce point de vue un certain nombre de circonscriptions
+plus ou moins nettement séparées. »
+« La pathologie à son tour était venue confirmer d'une manière générale ces
+données, en montrant qu'une lésion limitée à tel ou tel de ces départements se
+traduit chaque fois par un ensemble particulier de symptômes; mais elle devait
+encore de nos jours, avec l'aide de nouveaux moyens d'étude anatomique, aller
+plus loin, devancer sur plusieurs points l'expérimentation. »
+« Celle-ci en effet, même entre les mains de l'opérateur le plus habile, pourra-t-elle
+jamais, dans un organe aussi délicat que l'est la moelle, déterminer des lésions
+exclusivement bornées, par exemple, à certains groupes de cellules nerveuses, à cer-
+tains faisceaux de fibres. Il est permis d'en douter. La maladie au contraire produit
+journellement de telles lésions, et l'anatomie topographique de la moelle nous les
+fait reconnaître avec la plus grande précision; elle nous permet de constater quel
+groupe de cellules, quels faisceaux de fibres nerveux ont été irrités, atrophiés ou
+détruits. Mettez en présence d'une anatomie aussi délicate des observations recueil-
+lies avec soin, où l'analyse des symptômes se montrera d'autant plus complète,
+d'autant plus profitable qu'elle aura été faite à la lumière des connaissances anato-
+miques ou physiologiques préalables, et vous aurez entre les mains les conditions
+d'une expérience s'opérant, si l'on peut ainsi dire, spontanément et s'opérant sur
+l'homme, ce qui, dans l'espèce, est un avantage inestimable (1). »
+Ailleurs, je disais encore en parlant des travaux récents à l'époque, relatifs à
+l'anatomie morbide des centres nerveux : « Tous semblent en quelque sorte dominés
+par ce qu'on pourrait appeler l'esprit de localisation, lequel n'est en somme qu'une
+émanation de l'esprit d'analyse. L'idée de localiser n'est certainement pas chose
+nouvelle en anatomie pathologique; elle est aussi vieille que cette science elle-même,
+bien que Bichat l'ait, à la vérité, le premier formulée avec netteté en même temps
+(1) Leçons sur les maladies du système ne)-veux, t. II, p. 6, 7. Paris, 1886.
+
+PRÉFACE DE M. LE PROFESSEUR CH1RCOT. VII
+qu'il en faisait ressortir toute la portée scientifique, mais peut-être jamais n'avait-elle
+été poursuivie avec autant de vigueur et de logique. »
+« Qu'entend-on en somme par ce terme : localiser ? En anatomie pathologique c'est : 
+déterminer dans les organes, dans les tissus, le siège, l'étendue, la configuration
+des altérations matérielles et palpables; en physiologie pathologique, c'est, mettant
+à profit les données de l'observation clinique et s'éclairant des données expérimen-
+tales, établir les rapports entre les troubles fonctionnels constatés durant la vie
+et les lésions révélées par l'autopsie.... »
+« Ces deux points de vue doivent être l'objet d'une attention égale, car ce n'est pas
+seulement l'anatomie pathologique contemplative, étudiant la lésion en elle-même
+et pour elle-même que nous devons connaître, c'est l'anatomie pathologique mise
+au service de la physiologie et de la clinique, appliquée en un mot à la solution de
+tous les problèmes pathologiques qui sont de son ressort (1). »
+Aujourd'hui que l'accord est fait unanimement sur ces questions, tout ce qui
+précède pourra paraître un peu vieilli, un peu démodé. Cependant, toute réflexion
+faite, si j'avais à reprendre le sujet, en tant qu'il s'agirait de signaler les principes et
+la méthode, je ne verrais pas grand'chose à y changer; car en somme c'est bien
+dans cet esprit-là qu'ont été conduits tous les travaux qui, au cours de ces dernières
+années, dans la géographie de la moelle épinière, ont singulièrement rétréci l'aire
+des terres inconnues.
+Les anciens faisceaux postérieurs, par l'étude des lésions systématiques, avaient
+été décomposés déjà en deux régions distinctes : les faisceaux de Goll et les zones
+radiculaires postérieures; les faisceaux antéro-latéraux des auteurs avaient été à
+leur tour divisés en trois régions : faisceaux pyramidaux, faisceaux de Turck, zones
+radiculaires antérieures; aujourd'hui, pour ne parler que de la substance blanche,
+nous aurions à énumérer en plus bien d'autres découvertes, à savoir : les faisceaux
+de Gowers, les zones de Lissauer, les zones marginales antéro-externe et postéro-
+externe de Westphal, le centre ovale de Flechsig, etc., etc. Et cette multiplication
+des zones, des faisceaux, des régions plus ou moins autonomes qu'on vient de
+dénommer n'est pas, tant s'en faut, l'expression d'un vain morcellement sans portée
+pratique ; à chacune de ces acquisitions nouvelles correspond en effet un .perfec-
+tionnement nouveau dans le domaine de la clinique. Et ainsi se trouve, une fois de
+plus, démontrée d'une manière éclatante l'heureuse influence des recherches
+anatomiques intimement associées aux études cliniques sur le développement de la
+pathologie des centres nerveux.
+(1) Leçons sur les localisations dans les maladies du cerveau et de la moelle épinière. 1887, p. 183.
+
+VIII PRÉFACE DE M. LE PROFESSEUR CHARCOT.
+Les planches de l'Atlas publié par MM. Blocq et Londe présentent la série à peu
+près complète des myélopathies organiques actuellement connues.
+La perfection des procédés photographiques, mis en oeuvre par M. Londe
+pour reproduire la réalité, fait de chacune de ces planches autant de documents
+sincères et de bon aloi que la recherche scientifique pourra mettre à profit. D'un
+autre côté, le médecin praticien qui fréquemment entend parler de ces lésions, mais
+n'a pas souvent l'occasion de les constater par lui-même, pourra les y étudier à
+loisir et les y contempler telles ou à peu près telles qu'elles sont dans la nature.
+J.-M. CHARCOT,
+de l'Institut.
+5 mai 1891.
+
+INTRODUCTION
+Placés par la confiance de notre maître, M. le professeur Charcot, à la tête des services
+anatomique et photographique dépendants de l'incomparable clinique des maladies
+nerveuses de la Salpêtrière, il nous a élé donné depuis cinq ans de recueillir sur diverses
+affeclions du système nerveux, et de la moelle épinière en particulier, des documents
+anatomiques assez complets.
+Aussi avons-nous pensé que ce serait faire oeuvre utile que d'en vulgariser la connais-
+sance. Les nouveaux procédés de la technique histologique d'une pari, les perfectionne-
+ments apportés dans l'art photographique d'autre part, nous avaient permis de faire
+des essais de reproduction qui paraissaient suffisants pour mener à bien celle entre-
+prise (1).
+On n'ignore pas enfin que les recherches relatives tout au moins à la topographie
+anatomo-pathologique de la moelle épinière, sinon à l'histologie fine des lésions de cet
+organe, ont abouti à des résultats considérables dans l'état actuel de la science.
+L'atlas que nous publions nous semble destiné à mettre en lumière ces résultats
+anatomo-pathologiques, comme aussi à en faciliter l'étude. Point n'est besoin d'insister
+longuement sur l'intérêt que présente un travail du genre de celui que nous produisons,
+car il est évident que le médecin aussi bien que l'étudiant tirera plus de profit de la
+lecture des traités de pathologie, quand il aura eu sous les yeux l'image exacte des
+lésions répondant à leurs descriptions.
+La presque totalité des pièces qui ont fourni nos préparations a été recueillie par
+nous dans le service de M. Charcot. Quelques-unes provenant de la même clinique nous
+(1) Nous devons dire qu'un grand nombre de nos préparations n'ayant pas été faites en vue de la reproduc-
+tion photographique ne nous ont pas fourni des images aussi nettes que les autres.
+
+x
+INTRODUCTION.
+ont été obligeamment confiées par MM. Marie et Huet; nous en devons plusieurs autres
+à nos amis Achard et Marinesco. Enfin nous avons reproduit certaines coupes emprun-
+tées à la collection léguée au musée de la Salpêtrière par le regretté professeur
+Damaschino.
+Nous n'avons pas joint aux planches un long texte explicatif, mais seulement les
+indications sommaires relatives à la nature des lésions, à leur distribution, à la région
+de la moelle qu'elles occupent ; enfin, lorsque cela présentait quelque intérêt, nous avons
+ajouté en peu de lignes des renseignements sur l'origine de la pièce. De plus des schémas
+explicatifs que nous avons joints au texte, sur les conseils de M. Charcot, faciliteront
+encore la lecture des figures.
+Nos planches sont rangées dans l'ordre suivant :
+
+INTRODUCTION. XI
+planches quelques imperfections, plutôt que d'altérer le caractère d'absolue sincérité
+qui constitue, en somme, leur principale valeur scientifique.
+Les planches sont en effet la reproduction, à l'aide de la photogravure, des photogra-
+phies de nos préparations histologiques. Pour obtenir les clichés photographiques, nous
+nous sommes arrêtés, après de nombreux essais, à deux dispositifs différents, l'un pour
+obtenir les faibles grossissements et l'autre les forts. -
+Pour les faibles grossissements, nous nous sommes servis du microscope à projection
+de J. Duboscq, qui nous permettait d'éclairer fortement la préparation et d'interposer
+avec facilité des liquides colorés. L'image, reçue par un 00 de Vérick, était projetée sur
+la surface sensible placée dans une chambre photographique horizontale. L'objectif a
+été disposé pour recevoir divers diaphragmes plus ou moins réduits suivant les cas.
+Pour les forts grossissements, nous avons supprimé le porte-objet, le porte-objectif de
+l'appareil de Duboscq, ne gardant, par conséquent, que le condensateur. En avant de
+celui-ci nous avons placé, dans la position horizontale, un microscope de Beck, dont la
+platine tournante et à double mouvement nous permettait d'explorer avec facilité la
+préparation (1). Les objectifs employés ont été le 4, le 7 et le 8 de Vérick suivant les
+cas. L'image était reçue dans la même chambre photographique qui était réunie au tube
+du microscope au moyen d'une enveloppe souple imperméable à la lumière. En aucun
+cas nous n'avons employé l'oculaire. La source de lumière qui a servi a été la lumière
+oxhydrique traversant, suivant les hypothèses, une solution bleue ou jaune. Nous nous
+sommes servis avec avantage, en général, des plaques au gélatino-bromure (marque as
+de trèfle), et pour certaines préparations dans lesquelles le jaune ou le rouge dominaient,
+t
+des plaques isochromatiques (Monckhoven) plus sensibles à ces rayons. Les temps de
+pose ont été très variables depuis une fraction de seconde jusqu'à vingt minutes et plus
+quelquefois. Tous les développements ont été effectués à l'acide pyrogallique par la
+méthode imaginée par l'un de nous.
+Nous tenons, en terminant, il adresser nos sincères remerciements il M. G. Masson
+pour le soin qu'il a mis à parfaire cette édition, et à témoigner notre vive gratitude à
+MM. Lumière et fils, de Lyon, qui ont exécuté nos photogravures avec autant d'empres-
+sement que de talent.
+Paul BLOCQ. ALBERT LONDE.
+(1) Le microscope de Beck qui nous a servi pour l'exécution de ce travail nous a été obligeamment prêté par
+M. le baron Boucheporn et nous lui adressons à cette occasion nos plus sincères remerciements.
+
+COUPE SCHÉMATIQUE DE LA MOELLE NORMALE
+Le schéma que nous représentons ci-dessous (schéma 1) a été dessiné sur nos indica-
+tions par M. Paul Richer. Il résume la division des faisceaux blancs et des parties
+différenciées de la substance grise de la moelle.
+Nous avons pensé qu'il serait commode, pour faciliter l'interprétation des planches, d'y
+joindre des schémas semblables sur lesquels les lésions seraient indiquées par des parties
+teintées correspondant aux altérations.
+Schéma 1.
+EXPLICATION DU SCHEMA
+A. Corne antérieure de substance grise.
+B. Corne postérieure de substance grise.
+B'. Substance gélatineuse de Rolando.
+C. Col de la corne postérieure.
+D. Cellules de la colonne de Clarke.
+E. Veines profondes de la moelle.
+F. Groupe antéro-interne des cellules ganglion-
+naires de la corde antérieure.
+G. Groupe antérieur des cellules ganglionnaires de
+la corne antérieure.
+H. Groupe antéro-externe des cellules ganglion-
+naires de la corne antérieure.
+I. Canal central.
+J. Racines antérieures.
+K. Racines postérieures.
+L. Commissure antérieure (blanche).
+M. Commissure postérieure (grise).
+N. Sillon antérieur.
+0. Sillon postérieur.
+P. Faisceau de Tii1'li, ou pyramidal direct.
+Q. Faisceau antéro-latéral fondamental.
+R. Faisceau de Gowers.
+S. Faisceau cérébelleux direct.
+T. Faisceau pyramidal croisé.
+U. Zone marginale externe, ou faisceau profond du
+cordon latéral.
+V. Zone externe de LissallC1',
+W. Zone interne de Lissauc1',
+X. Zone marginale antéro-externe de Wcstphal.
+X'. Zone marginale postéro-externe de Westplrol.
+Y. Faisceau de Burdach, ou zone radiculaire du
+faisceau postérieur.
+Z. Faisceau de Goll, ou cordon grèle.
+Z'. Centre ovale de Flechsig.
+
+PLANCHE I
+FIGURE 1.
+MOELLE NORMALE. RÉGION cervicale supérieure.
+Coupe pratiquée dans la région cervicale supérieure à / millimètre au-dessous de l'ent1'8-cl'oisement
+des pyramides, et colorée par la méthode de Pull.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Faisceau antérieur.
+D. Faisceau latéral.
+E. Sillon postérieur.
+F. Sillon antérieur.
+G. Faisceau postérieur.
+H. Canal central.
+1. Commissure antérieure.
+J. Commissure postérieure.
+IC. Racine postérieure.
+Figure 2.
+MOELLE NORMALE. Cellules ganglionnaires de la substance grise de la corne antérieure.
+Coupe pratiquée dans la région cervicale et colorée par le picro-carmin.
+Les cellules vues un fort grossissement (obj. 4, Vérick) appartiennent au groupe
+antéro-externe.
+A. Cellule multipolaire.
+B. Noyau d'une autre cellule.
+C. Nucléole.
+D. Prolongement ramifié.
+E. Prolongement de Deiters non ramifié.
+E'. Prolongement de Deiters d'une autre cellule.
+F. Réseau fibrillaire de la région.
+G. Coupe transversale d'un tube nerveux.
+H. Coupe longitudinale d'un tube nerveux.
+L Espace vacuolaire péri-cellulaire.
+
+
+
+PLANCHE II
+Figure 3.
+MOELLE NORMALE. Renflement cervical.
+Coupe pratiquée dans la région du renflement cervical, et colorée par la méthode de Pall.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racines antérieures.
+D. Faisceau latéral.
+E. Sillon postérieur.
+F. Sillon antérieur.
+G. Faisceau postérieur (zone radiculaire).
+H. Cordon de Coll.
+I. Commissure antérieure.
+J. Commissure postérieure.
+K. Racine postérieure.
+L. Faisceau antérieur.
+Figure 4.
+MOELLE NORMALE. Canal central.
+Coupe pratiquée dans la région cervicale supérieure, et colorée par la méthode de Weigert.
+Le canal central et ses cellules y sont vues à un fort grossissement (obj. 4, Vérick).
+A. Cavité du canal. D. Substance grise entourant le canal.
+B. Cellule cylindrique revêtant la paroi du canal. E. Tubes nerveux de la commissure antérieure.
+C. Plateau des cellules. F. Vaisseau.
+
+
+
+PLANCHE III
+FIGURE 5.
+MOELLE NORMALE. Région dorsale.
+Coupe pratiquée dans la région dorsale moyenne et colorée par la méthode de Pall.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Commissure antérieure.
+D. Commissure postérieure.
+E. Faisceau antérieur.
+F. Sillon antérieur.
+G. Cordon postérieur.
+II. Faisceau latéral.
+I. Sillon postérieur.
+J. Racine postérieure.
+Figure 6.
+Portion du faisceau latéral de la coupe précédente, vue à un fort grossissement
+(obj. 4, Vérick).
+A-A. Tubes nerveux coupés transversalement.
+B. Gaine de myéline colorée en noir.
+C. Cylindre axe.
+D. Cloison secondaire.
+E. Cloison pie-mérienne contenant un vaisseau.
+F. Tissu névrotique.
+
+
+
+PLANCHE IV
+Figure 7.
+MOELLE NORMALE. Région lombaire supérieure.
+Coupe pratiquée dans la région lombaire supérieure et colorée par la méthode de Pali,
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+7J. Faisceau antérieur.
+I. Faisceau latéral.
+J. Faisceau postérieur.
+Figure 8.
+MOELLE NORMALE.  Corne postérieure.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.
+La corne postérieure est vue au grossissement de l'obj. 2, Vérick.
+A. Col de la corne.
+B. Réseau fibrillaire.
+C. Substance gélatineuse de Rolando.
+D. Fibres nerveuses se rendant dans la colonne de
+Clarke.
+E. Entrée directe de fibres nerveuses dans la corne.
+F. Racine postérieure.
+G. Coupe transversale des tubes nerveux de la
+substance blanche coiiiiguë.
+
+
+
+PLANCHE V
+Figure 9.
+MOELLE NORMALE. Renflement lombaire.
+Coupe pratiquée dans la région du renflement lombaire et colorée par la méthode de Pall.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Cordon antérieur.
+D. Faisceau latéral.
+E. Faisceau postérieur.
+F. Sillon postérieur.
+G. Sillon antérieur.
+II. Canal central.
+1. Commissure antérieure.
+J. Racine postérieure.
+Jt. Cellule de la corne antérieure.
+Figure 10.
+MOELLE NORMALE. Cellules nerveuses de la colonne de Clarke.
+Coupe pratiquée dans la région lombaire et colorée par le picro-carmin.
+Les cellules sont vues à un fort grossissement (obj. 4, Vérick). En comparant à la
+figure 2, qui représente les cellules des cornes antérieures de la même moelle, préparées
+par le même procédé, et observées au même grossissement, on jugera de leurs
+différences.
+A-A-A. Cellules ovoïdes.
+B. Noyau.
+C. Nucléole d'une autre de ces cellules.
+D. Espace vacuolaire péri-cellulaire.
+E. Réseau fibrillaire.
+Toutes nos préparations de moelle normale, planches 1,11,111, IV,V, proviennent de)a même moelle.
+La pièce a été recueillie sur une femme de quarante-sept ans ayant succombé à l'infirmerie de la
+Salpêtrière des suites d'une pneumonie, sans avoir présenté pendant sa vie aucun symptôme d'une
+affection spinale. C'est par le même procédé de durcissement et de coloration qu'ont été obtenues
+les préparations des diverses régions : les figures sont également faites à un grossissement
+identique.
+
+
+
+PLANCHE VI
+Figure 1' .
+MOELLE D'AMPUTÉ. - Région cervicale.
+Coupe pratiquée dans la région cervicale inférieure et colorée par la méthode de Weigert.
+On y voit l'asymétrie des deux moitiés de la moelle, le segment droit étant plus petit
+que le gauche, et la déformation de la corne antérieure droite par rapport il sa symétrique.
+A. Corne antérieure droite.
+A'. Corne antérieure gauche.
+B. Corne postérieure droite.
+B'. Corne postérieure gauche.
+C. Commissure blanche.
+D. Commissure grise.
+E. Cordon de Goll.
+F. Sillon postérieur.
+G. Racine antérieure.
+II. Sillon antérieur.
+/. Racine postérieure.
+J. Faisceau latéral.
+Figure 12.
+MOELLE D'AMPUTÉ. - CELLULES de la corne antérieure de substance grise atrophiée.
+Coupe pratiquée dans la région cervicale inférieure et colorée par le picro-carmin.
+A-A. Cellules restées normales.
+-R-B. Cellules atrophiées.
+C. Coupe transversale de tubes nerveux.
+D. Coupe longitudinale de tubes nerveux.
+E. Réseau fibrillaire.
+Ces préparations proviennent d'un sujet ayant succombé - au cours d'une maladie aiguë  dix-
+huit ans après avoir subi l'amputation du bras droit au tiers supérieur.
+
+
+
+PLANCHE VII
+FIGURE 13.
+MYÉLITE AIGUË DIFFUSE. Région cEpvico-DORSALE.
+Coupe pratiquée dans la région cervico-dorsale et colorée par la méthode de Pall.
+La diffusion de l'inflammation très nette sur la figure est indiquée sur le schéma
+par les parties teintées. Les lésions vasculaires se voient également, même à ce
+faible grossissement.
+=1. Corne antérieure.
+B. Corne postérieure.
+C. Commissure antérieure.
+D. Commissure postérieure.
+E. Racine postérieure.
+F. Sillon postérieur.
+G. Sillon antérieur.
+Il. Faisceau postérieur sain.
+1-J. Zones enflammées des cor-
+dons antérieurs.
+K. Zone altérée du cordon posté-
+rieur.
+L. Zone altérée du cordon laté-
+ral gauche.
+M. Coupe longitudinale d'un
+vaisseau altéré.
+JV. Coupe transversale d'un vais-
+seau altéré.
+0. Zone peu lésée du cordon la-
+téral droit.
+Figure 14.
+MYÉLITE DIFFUSE. Zone moyennement enflammée.
+La figure représente un point du cordon latéral droit de la préparation de la figure
+précédente, vue à un fort grossissement (ohj. 4, Vcrick).
+A. Cavité d'un vaisseau enflammé.
+B. Sa paroi.
+C. Espace périvasculaire infiltré de leucocythes.
+D-D-D-D. Coupes de vaisseau altérés.
+7 : . Tissu de sclérose.
+F. Tubes nerveux conservés.
+G-G. Partie de la préparation très peu altérée.
+Ces préparations proviennent de pièces qui nous ont été obligeamment confiées par notre ami
+le Dr Achard. Elles ont fourni à cet auteur l'occasion d'un mémoire intitulé : Sur un cas de myélite
+aiguë diffuse avec double névrite optique, publié dans les Archives de médecine expérimentale
+el d'anatomie pathologique, 1.°r septembre 1889, n° 5, p. 6fHi.
+
+
+
+PLANCHE VIII
+Figure 15.
+MYÉLITE DIFFUSE. Région dorsale inférieure.
+- Coupe pratiquée dans la région dorsale inférieure et colorée par la méthode de Pall.
+Les lésions sont disséminées et atteignent leur summum d'intensité dans le cordon
+postérieur gauche. Les altérations vasculaires sont remarquables dans le faisceau latéral
+gauche.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Faisceau latéral droit un peu
+altéré.
+D. Commissure antérieure.
+E. Canal central.
+F. Sillon antérieur.
+G. Sillon postérieur.
+JI, Racine postérieure.
+1. Cordon antérieur sain.
+/. Faisceau latéral altéré.
+K. Coupe de vaisseau altéré.
+L'. Faisceau postérieur sclérosé.
+CI. Corne postérieure gauche
+altérée.
+Figure 16.
+- MYÉLITE CAVITAIRE. Région cervicale inférieure. '
+Coupe pratiquée dans la région cervicale inférieure, et colorée par la méthode de Pall.
+Les lésions sont presque exclusivement cantonnées dans les cornes antérieures en des
+zones presque symétriques.
+A-A. Zones saines des cornes
+antérieures.
+B-B. Régions altérées.
+C. Cavité pathologique.
+D. Sillon antérieur.
+E. Sillon postérieur.
+F. Corne postérieure.
+G. Cordon latéral. ? Racine postérieure.
+I. Faisceau postérieur.
+J. Commissure antérieure.
+
+
+
+PLANCHE IX
+Figure 17.
+MYÉLITE CAVITAIRE. Région lombaire inférieure.
+Coupe pratiquée dans la région lombaire supérieure et colorée par la méthode de Pall.
+Les lésions sont localisées dans la partie centrale de la substance grise des cornes
+antérieures, et consistent en une inflammation diffuse avec désintégration et formation
+d'une petite cavité.
+ri. Région non altérée de la
+corne antérieure.
+B. Groupe de cellules ganglion-
+naires respectées.
+C. Corne postérieure.
+D. Racine postérieure.
+E. Commissure antérieure.
+F. Commissure postérieure.
+G. Sillon antérieur.
+Il. Sillon postérieur.
+7. Cordon postérieur.
+J. Racine antérieure.
+K. Cavité pathologique de la
+corne antérieure gauche.
+L. Cavité pathologique de la
+corne antérieure droite.
+,Il. Faisceau latéral.
+Figure 18.
+MYÉLITE CAVITAIRE. -- Région lombaire supérieure.
+La figure représente une partie de la corne antérieure gauche d'une préparation
+analogue à celle de la figure précédente, colorée par le picro-carmin et vue à un grossis-
+sement moyen (obj. 2, Vérick).
+A ? 1.-fl. Cellules ganglionnaires indemnes.
+B. Cellule altérée.
+C.-C. Cavité pathologique.
+D. Substance fibrillaire du tissu altéré.
+E. Coupe de tubes nerveux sains.
+Les pièces qui nous ont fourni ces préparations de myélite cavitaire (fig. 16, 4 et, 18) on[
+recueillies sur une femme âgée de cinquante et un ans, malade pendant vingt-huit ans, ayant, soufferL
+de paraplégie douloureuse amyotrophique, puis d'atrophie musculaire des membres supérieurs
+(Marie Bes..., salle Rayer, n° 1, service de M. le pl' Charcot).
+
+
+
+PLANCHE X
+Figure 19.
+SCLÉROSE EN PLAQUES. Région cervicale lombaire.
+Coupe pratiquée dans la région cervicale supérieure et colorée par la méthode de Pall.
+On voit une petite plaque de sclérose très prononcée dans la zone radiculaire posté-
+rieure droite. Presque tout le cordon latéral gauche est envahi également, mais les
+lésions y sont moins accentuées, elles existent plus faibles encore dans le cordon latéral
+droit.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Partie saine du cordon anté-
+ro-latéral.
+D. Commissure antérieure.
+E. Commissure postérieure.
+F. Sillon antérieur.
+G. Sillon postérieur.
+II. Racine postérieure.
+I. Cordon postérieur.
+J. Partie sclérosée du cordon la-
+téral droit.
+K. Partie sclérosée du cordon
+antéro-latéral gauche.
+L. Plaque de sclérose du cordon
+latéral gauche.
+M. Plaque de sclérose de la zone
+radiculaire.
+Figure 20.
+SCLÉROSE EN PLAQUES. Région cervicale.
+La figure représente un point delà région peu sclérosée, du cordon latéral droit de la
+préparation précédente colorée par la méthode de Pall. On y voit la persistance de
+nombreux tubes nerveux indemnes dans le tissu de sclérose.
+A-A-A. Tissu scléreux.
+B-B-B. Tubes nerveux indemnes.
+C. Tube nerveux altéré, privé de sa myéline et ré-
+duit au cylinder-axis.
+D. Tube nerveux moins altéré
+]. Vaisseau.
+Ces pièces proviennent d'une malade, la nommée Guil..., dont il a été question dans les leçons
+cliniques de M. le Pr Charcot
+
+
+
+PLANCHE XI
+Figure 21.
+SCLÉROSE EN PLAQUES. RÉGION cervico-dorsale.
+Coupe pratiquée dans la région cervico-dorsale et colorée par la méthode de Pall.
+La sclérose occupe la presque totalité de la coupe, la partie indemne de la moelle est
+réduite à deux zones marginales latérales presque symétriques. On reconnaît encore,
+mais peu distincte, la substance grise englobée dans la plaque scléreuse.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+n. Sillon postérieur.
+E. Canal central.
+F. Commissure antérieure.
+G. Sillon antérieur.
+II-II. Parties indemnes des cor-
+dons antéro-latéraux.
+1-I. Zones slérosées des mêmes
+cordons.
+J. Cordons postérieurs sclérosés.
+Figure 22.
+SCLÉROSE EN PLAQUES. Région cervicale inférieure.
+Coupe pratiquée dans la région cervicale inférieure et colorée par la méthode de Pall.
+On y voit la distribution très irrégulière des plaques de sclérose disséminées dans les
+cordons postérieurs, la substance grise, et la plus grande partie du cordon antéco-laléral
+gauche.
+A. Partie indemne de la corne
+antérieure.
+B. Corne postérieure altérée.
+C. Racine postérieure.
+D. Canal central.
+E. Commissure antérieure.
+F. Sillon antérieur.
+G. Cordon antérieur normal.
+H. Partie indemne du cordon
+postérieur.
+1. Cordon latéral droit indemne.
+J. Zone altérée du cordon anté-
+rieur gauche.
+K. Sclérose latérale gauche.
+L. Partie moins altérée de la
+même plaque.
+M. Zone sclérosée du faisceau
+postérieur.
+Ces deux préparations sont prises sur la même moelle provenant d'un autre sujet que celles qui
+ont fourni la planche X. ,
+
+
+
+PLANCHE XII
+FIGURE 23.
+. SCLÉROSE EN PLAQUES. Région cervicale inférieure.
+Coupe pratiquée dans la région cervicale inférieure et colorée par la méthode de Pall.
+On voit des plaques de sclérose extrêmement étendues, occupant la moitié droite de
+la moelle presque tout entière, et deux zones irrégulières dans la moitié gauche.
+.iL Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+H. Faisceau postérieur sain.
+I. Zone respectée du faisceau
+antéro-latéral droit.
+J. Plaque sclérosée du faisceau
+antérieur gauche.
+K. Partie de la corne gauche en-
+vahie par la plaque de sclérose.
+L. Partie de cette plaque située
+dans le faisceau lat. gauche.
+M. Zone sclérosée du faisceau
+postérieur.
+N. Zone sclérosée du faisceau
+latéral droit.
+Figure 24.
+SCLÉROSE EN PLAQUES. Région cervicale.
+La figure représente un point de la région très sclérosée du cordon latéral gauche de
+la préparation précédente, colorée par la méthode de Pall. 11 n'existe guère que du tissu
+de nouvelle formation, les tubes nerveux ont presque complètement disparu, sauf en
+haut et à droite, partie moins altérée de la préparation.
+A. Tissu de sclérose.
+B-B. Région moins altérée où persistent un grand
+nombre de tubes nerveux.
+G'-C. Tubes nerveux, encore reconnaissables, dé-
+pourvus de myéline.
+D. Tube intact ayant persisté.
+E. Vaisseau.
+
+
+
+PLANCHE XIII
+FIGURE 25.
+SCLÉROSE EN PLAQUES. RÉGION dorsale supérieure.
+Coupe pratiquée dans la région dorsale supérieure et colorée par la méthode de Pall.
+Les plaques de sclérose sont disséminées dans presque toutes les régions de la moelle
+qu'elles affectent avec une intensité variable plus marquée dans les cordons postérieurs.
+A. Corne antérieure altérée.
+A'. Corne antérieure indemne.
+B. Corne postérieure altérée.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+fl. Racine antérieure.
+I. Partie saine du cordon antéro-
+latéral.
+J. Partie saine du cordon posté-
+rieur.
+K. Zone saine du cordon antéro-
+latéral droit.
+L. Zone altérée du même cordon.
+il/. Zone sclérosée du cordon pos-
+térieur droit.
+N. - Zone sclérosée du cordon
+postérieur gauche.
+0. Zone sclérosée du cordon an-
+térieur gauche.
+P. Zone sclérosée du cordon
+latéral gauche.
+FIGURE 26.
+SCLÉROSE EN PLAQUES. Région cervicale.
+Coupe pratiquée dans la région cervicale (pièce provenant d'un autre sujet que la précédente) et
+colorée par la méthode de Weigert.
+Les altérations sont extrêmement intenses : seules les zones marginales et une partie
+de la substance fondamenlale des cordons antéro-latéraux sont respectés par la lésion
+qui de plus présente celte particularité d'être presque symétrique.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur très épaissi.
+E. Commissure postérieure.
+F. Sillon antérieur.
+G. Cordon antérieur sain.
+II. Cordon postérieur peu altéré.
+I. Cordon latéral sain.
+J. Zone très altérée du cordon
+postérieur.
+IC. Faisceau latéral gauche sclé-
+rosé.
+G-61. Partie sclérosée des cor-
+dons antérieurs.
+N. Zone sclérosée du faisceau
+latéral gauche.
+Les figures 23, 25 et 26 représentent des coupes de moelle empruntées chacune à des sujets
+différents.
+
+
+
+PLANCHE XIV
+FIGURE 27.
+LÉSION COMBINÉE. Région cervicale.
+Coupe 1"dtICLIÉB dans la région cervicale et colorée par la méthode de Pall.
+Il s'agit d'une lésion des cornes antérieures combinée à une sclérose des cordons
+postérieurs.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+H. Cordon antéro-latéral.
+I. Cordon antérieur.
+J. Zone marginale peu altérée
+du cordon postérieur.
+A'. Zone sclérosée des cordons
+postérieurs.
+FIGURE 28.
+LESION COMBINÉE. Corne antérieure.
+La figure représente à un plus fort grossissement (obj. 2, Vérick) la corne antérieure
+d'une préparation analogue à la précédente et colorée par le picro-carmin. On y voit la
+diminution de nombre et l'altération des cellules ganglionnaires.
+A. Racines antérieures.
+B. Commissure grise.
+C-C. Tubes nerveux coupés transversalement de
+la substance blanche avoisinante.
+D. Cellule ganglionnaire restée saine.
+E-E-E. Cellules ganglionnaires diversement alté-
+rées.
+
+
+
+PLANCHE XV
+. Figure 29.
+LÉSION COMBINÉE. Région dorsale.
+Coupe pratiquée dans la région dorsale, et colorée par la méthode de Pall.
+La pièce appartient au même sujet que celle de la planche précédente, c'est-à-dire
+qu'il existe de la sclérose postérieure et des altérations des cellules des cornes anté-
+rieures.
+A. Corne antérieure droite moins
+altérée que
+J. Corne antérieure gauche.
+B. Corne postérieure.
+C. Racines antérieures.
+D. Commissure antérieure.
+E. Canal central.
+F. Sillon postérieur.
+G. Sillon antérieur.
+Il. Racine postérieure.
+1. Cordon latéral.
+E-Z. Cordons postérieurs sclé-
+rosés.
+FIGURE 30.
+LÉSION COMBINÉE.  Cordons postérieurs.
+La figure représente un point des cordons postérieurs sclérosés de la préparation pré-
+cédente, vu à un fort grossissement (obj. 4). On y voit les tubes nerveux disséminés dans
+un tissu de sclérose.
+A-A-A. Tissu de sclérose.
+B. Tubes nerveux restés indemnes, coupés transver-
+salement.
+C. Tubes nerveux, coupés obliquement.
+/). Vaisseau à paroi épaissie.
+Les préparations qui ont fourni les planches XIV et XV proviennent de pièces qui nous ont été
+obligeamment confiées par M. P. Marie. Elles se rapportent il la malade Sulz... qui est le sujet de
+l'observation V, du mémoire intitulé : « Sur une forme particulière d'atrophie musculaire progressive
+souvent familiale débutant par les pieds et les jamhes, et atteignant plus lard les mains », publié par
+MM. Charcot et Marie dans la Revue de médecine (tome VI, février 1886, p. 114). Le compte rendu
+de l'autopsie de cette malade est encore inédit.
+
+
+
+PLANCHE XVI
+Figure 31 .
+SCLÉROSE COMBINÉE. - RÉGION dorsale.
+Coupe pratiquée dans la région dorsale et colorée par la méthode de Pall.
+La sclérose occupe les cordons postérieurs et la presque totalité des faisceaux anléro-
+latéraux.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Racine antérieure.
+E. Commissure antérieure.
+F. Commissure postérieure.
+G. Sillon antérieur.
+H. Sillon postérieur.
+l. Zone de Westphal du cordon
+postérieur indemne.
+J. Partie saine du cordon latéral.
+K. Partie saine du cordon anté-
+rieur.
+L. Faisceau de Gowers sclérosé.
+if. Faisceau cérébelleux sclérosé.
+N. Faisceau postérieur sclérosé.
+0. Faisceau pyramidal sclérosé.
+FIGURE 32.
+SCLÉROSE COMBINÉE. - Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.
+La sclérose est cantonnée dans des zones analogues à celles de la préparation précé-
+dente, mais y est plus limitée.
+A. Corne antérieure.
+A'. Cellules de la corne.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Canal central.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon postérieur.
+Il. Sillon antérieur.
+1. Faisceau antérieur respecté.
+J. Faisceau de Gowers sclérosé.
+K. Faisceau pyramidal sclérosé.
+L. Faisceau postérieur sclérosé.
+M. Zone de Westphal respectée.
+Les deux préparations qui ont donné les figures de cette planche proviennent du même sujet.
+
+
+
+PLANCHE XVII
+- FIGURE 33.
+DÉGÉNÉRATION SECONDAIRE DESCENDANTE D'ORIGINE CÉRÉBRALE. - Région cervicale.
+Coupe pratiquée dans la région cervicale et colorée par la méthode au carmin.
+On y voit la dégénération du faisceau pyramidal direct et du faisceau pyramidal croisé
+correspondant. 1
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+H. Cordon antérieur sain.
+I. Faisceau postérieur sain.
+J. Faisceau cérébelleux direct
+sain.
+K. Faisceau pyramidal croisé
+dégénéré.
+J. Faisceau pyramidal direct dé-
+généré.
+K'. Faisceau symétrique in-
+demne.
+FIGURE 34.
+DÉGÉNÉRATION SECONDAIRE DESCENDANTE D'ORIGINE CÉRÉBRALE. Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.
+On voit la dégénération portant sur le faisceau pyramidal.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+H. Faisceau antérieur.
+I. Faisceau postérieur sain.
+J. Faisceau cérébelleux direct
+sain.
+K. Faisceau pyramidal dégé-
+nère.
+K'. Faisceau symétrique in-
+demne.
+Les pièces qui ont fourni ces préparations proviennent d'un sujet atteint d'hémorrliagie cérébrale
+avec hémiplégie et contracture secondaire, liée à la dégénération consécutive du faisceau pyra-
+midal.
+
+
+
+PLANCHE XVIII
+Figure 35.
+DÉGÉNÉRATION SECONDAIRE DESCENDANTE DOUBLE D'ORIGINE CÉRÉBRALE. - Région
+cervicale.
+Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.
+La dégénération plus ancienne est très prononcée à gauche, où le faisceau pyramidal
+croisé et le faisceau pyramidal direct sont très affectés; elle est à peine marquée sur le seul
+faisceau pyramidal croisé droit.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Commissure postérieure.
+E. Commissure antérieure.
+F. Sillon postérieur.
+G. Sillon antérieur.
+H. Faisceau pyramidal croisé
+gauche tout à fait dégénéré.
+I. Faisceau pyramidal direct dé-
+généré.
+J. Faisceau pyramidal croisé
+droit peu affecté.
+Figure 36.
+DÉGÉNÉRATION SECONDAIRE DESCENDANTE. - Région cervicale.
+La figure représente un point du faisceau pyramidal croisé gauche dégénéré, de la
+préparation précédente, vu à un fort grossissement (obj. 4, Vérick). On y voit la dispa-
+rition des tubes nerveux remplacés par du tissu de sclérose, ainsi que des lésions vascu-
+laires.
+A-A. Tissu de sclérose.
+B. Corpuscule hyalin.
+C. Tube nerveux peu altéré.
+D-D. Tubes nerveux respectés.
+E-E. Vaisseaux sclérosés.
+
+
+
+PLANCHE XIX
+FIGURE 37.
+DÉGÉNÉRATION SECONDAIRE DESCENDANTE DOUBLE D'ORIGINE CÉRÉBRALE. Région
+dorsale.
+Coupe pratiquée dans la région dorsale et colorée par la méthode de Weigert.
+La dégénération plus ancienne est très prononcée à gauche, où le faisceau pyramidal
+croisé et le faisceau pyramidal direct sont très affectés; elle est à peine marquée sur le
+seul faisceau pyramidal croisé droit.
+.ri. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Commissure postérieure.
+E. Commissure antérieure.
+F. Sillon antérieur.
+G. Sillon postérieur.
+H. Faisceau de Turck droit dé-
+généré.
+I. Faisceau pyramidal gauche
+dégénéré.
+J. Faisceau pyramidal droit peu
+atteint.
+FIGURE 38.
+DÉGÉNÉRATION SECONDAIRE DESCENDANTE. Région dorsale.
+La préparation montre un point du faisceau pyramidal gauche dégénéré, coupé longi-
+tudinalement, coloré par le carmin, vu il un fort grossissement. On ne distingue guère
+que du tissu fibrillaire disposé en faisceaux plus ou moins ondulés.
+A-A. Faisceaux scléreux.
+B-B. Tubes nerveux persistant.
+C. Globules hyalins.
+D. Vaisseaux.
+Les préparations qui ont donné les figures des planches XVIII et XIX proviennent d'un sujet ayant
+été atteintde foyers d'hémorrhagie cérébrale localisés successivement dans l'un et l'autre hémisphère,
+et ayant entraîné de la dégénération secondaire. Au foyer le plus ancien (droit) correspond la
+dégénération très accusée du faisceau pyramidal gauche.
+
+
+
+PLANCHE XX
+Figure 39.
+DÉGÉNÉRATION SECONDAIRE ASCENDANTE D'ORIGINE SPINALE. - Région cervicale.
+Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.
+On voit la dégénération ascendante extrêmement intense sur les cordons de Goll, et à
+peine marquée sur les faisceaux cérébelleux directs, et de Gowers.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+Il. Faisceau pyramidal intact.
+I. Faisceau postérieur normal.
+J. Cordon de Goll dégénéré.
+IC. Faisceau cérébelleux direct
+peu altéré.
+FIGURE 40.
+DÉGÉNÉRATION SECONDAIRE DESCENDANTE D'ORIGINE SPINALE. Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Weigert.
+La dégénération occupe symétriquement les faisceaux pyramidaux croisés.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure antérieure.
+F. Commissure postérieure.
+G. Sillon antérieur. ? Racine antérieure.
+/. Cordon postérieur indemne.
+.1-J. Faisceaux pyramidaux dé-
+générés.
+IL Partie respectée du faisceau Il
+anléro-latéral.
+
+
+
+PLANCHE XXI
+Figure 41.
+DÉGÉNÉRATION SECONDAIRE ASCENDANTE D'ORIGINE SPINALE. Région dorsale supérieure.
+Coupe pratiquée dans la région dorsale supérieure et colorée par la méthode de Weigert.
+La dégénération siège dans les cordons de Goll, les faisceaux cérébelleux directs et
+de Gowers.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Canal central.
+F. Commissure antérieure.
+G. Sillon antérieur.
+H. Partie indemne du faisceau
+antéro-latéral.
+1. Partie indemne du faisceau
+postérieur.
+J. Faisceau de Gowers dégénéré.
+K. Faisceau cérébelleux direct
+dégénéré.
+L. Faisceau de Goll dégénéré.
+Figure 42.
+DÉGÉNÉRATION SECONDAIRE ASCENDANTE D'ORIGINE SPINALE. - Région dorsale supérieure.
+La figure représente un point du cordon de Goll dégénéré de la préparation précédente
+coloré par la méthode de Weigert et vu à un fort grossissement (obj. 4, Vérick). On y
+voit un tissu de sclérose dans lequel persistent quelques tubes nerveux.
+A. Tissu de sclérose.
+B-B. Faisceaux ondulés du même tissu.
+C-C-C. Tubes nerveux sains.
+D. Cavité d'un vaisseau altéré.
+E. Paroi épaissie du môme faisceau.
+Les préparations qui ont fourni les planches XX et XXI viennent d'un sujet atteint de Mal de
+Pott avec compression de la moelle au niveau de la région dorsale inférieure, et dégénération ascen-
+dante au-dessus du siège de la compression, descendante au-dessous.
+
+
+
+PLANCHE XXII
+FIGURE 43.
+PARALYSIE SPINALE SUBAIGUE DE L'ADULTE (POLIOMYÉLITE). Région cervico-dorsale.
+Coupe pratiquée dans la région cervico-dorsale et colorée par la méthode de Pall.
+On y voit la lésion des cornes antérieures, et la légère dégénération correspondante
+des faisceaux pyramidaux.
+A-.4'. Cornes antérieures alté-
+rées et asymétriques.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur. 1
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+II-II. Parties indemnes des
+faisceaux antéro-latéraux.
+J. Faisceau postérieur.
+J-J. Faisceaux pyramidaux dé-
+générés.
+Figure 44.
+PARALYSIE SPINALE SUBAIGUE DE L'ADULTE (POLIOMYÉLITE). Région cervico-dorsale.
+La figure représente l'un des foyers inflammatoires des cornes antérieures de la
+préparation précédente, colorée au carmin, et vue à un fort grossissement (obj. 4, Vérick).
+On y voit les lésions des cellules et leur disparition en du tissu fibrillaire.
+A-A. Cellules altérées.
+B-B-B. Cellules peu altérées.
+C. Vaisseau.
+D. Tissu fibrillaire.
+
+
+
+PLANCHE XXIII
+Figure 45.
+PARALYSIE SPINALE SUBAIGUE DE L'ADULTE (POLIOMYÉLITE). Région cervicale.
+Coupe pratiquée dans la région cervicale et colorée par la méthode de Pall.
+On voit les lésions des cornes antérieures et la dégénéralion secondaire des faisceaux
+pyramidaux.
+A. Région peu altérée.
+A'. Région peu altérée de la
+corne antérieure.
+B. Corne postérieure.
+C. Sillon postérieur.
+D. Racine postérieure.
+E. Commissure antérieure.
+F. Commissure postérieure.
+G. Sillon antérieur.
+II. Cordon postérieur.
+1. Partie indemne du faisceau
+antéro-latéral.
+J. Faisceau cérébelleux indemne.
+K-K'. Faisceaux pyramidaux
+dégénérés.
+Les préparations qui nous ont fourni les figures 43, 44, 45, proviennent de la malade Ham... qui
+est le sujet de l'observation IV, d'un mémoire intitulé : « Poliomyélites et polynévrites » publié par
+l'un de nous en collaboration avec M. Marinesco dans la Nouvelle Iconographie de la Salpêtrière
+(1890, no6 4, 5 et 6). -
+FIGURE mi.
+PARALYSIE INFANTILE (POLIOMYÉLITE). Région cervicale.
+Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.
+On voit aisément la différence considérable du volume des deux cornes antérieures,
+la droite est presque double de la gauche. On remarque de même l'homogénéité du tissu
+(cicatriciel) de la corne altérée alors que la symétrique présente son réseau fibrillaire
+et ses cellules ganglionnaires normales. Le manteau blanc de la moelle est sain : 
+zut. Corne antérieure saine.
+A'. Corne antérieure altérée.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+Il. Faisceau postérieur.
+/. Faisceau antéro-latéral.
+J. Racines antérieures.
+
+
+
+PLANCHE XXIV - -
+FIGURE 47.
+PARALYSIE INFANTILE (POLIOMYÉLITE;. - Région lombaire.
+Coupe pratiquée au niveau du renflement lombaire et colorée par la méthode de Weigert.
+Il est aisé d'y constater l'asymétrie des deux moitiés tout entières de la moelle, et
+notamment des deux cornes antérieures, dont la droite est beaucoup plus volumineuse
+que la gauche. De plus il existe un contraste frappant entre l'aspect des deux cornes, la
+gauche étant formée d'un tissu amorphe, cicatriciel, la droite montrant son réseau
+fibrillaire et ses cellules normales.
+A. Corne saine.
+a-a-a. Ses cellules ganglion-
+naires.
+A'. Corne altérée.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure antérieure.
+F. Commissure postérieure.
+G. Sillon antérieur.
+H. Cordon latéral.
+1. Cordon postérieur.
+FIGURE 48.
+PARALYSIE INFANTILE (POLIOMYÉLITE). Corne antérieure.
+La figure montre à un fort grossissement un point de la lésion de la corne antérieure
+de la préparation précédente. On reconnaît quelques cellules très altérées dans un tissu
+formé de détritus granuleux sillonné par des vaisseaux thromboses.
+A. Cellule ganglionnaire altérée.
+B. Son noyau.
+C. Son nucléole.
+D. Ses granulations.
+E-E. Débris de cellules.
+F. Cellule très altérée.
+G-G. Lcucocythcs,
+H. Substance granuleuse. ? 7. Vaisseaux.
+J. Tissu de sclérose.
+
+
+
+PLANCHE XXV
+Figure 49.
+PARALYSIE INFANTILE (POLIOMYÉLITE). Région lombaire. -
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Weigert.
+On constate la présence de deux foyers inflammatoires, l'un plus intense dans la corne
+antérieure droite, l'autre dans la corne antérieure gauche. »
+A. Partie non altérée de la corne
+droite.
+B. Corne postérieure.
+C. Foyer myélitique droit.
+C'. Foyer myélitique gauche.
+D. Vaisseau altéré.
+E. Racine postérieure.
+F. Commissure antérieure.
+G. Canal central.
+H. Sillon postérieur.
+I. Sillon antérieur.
+J. Faisceau latéral.
+K. Faisceau postérieur.
+Toutes nos figures de paralysie infantile sont la reproduction de préparations choisies dans la
+collection léguée par le professeur Damaschino au Musée de la Salpêlrière.
+FIGURE 50.
+ATAXIE LOCOMOTRICE PROGRESSIVE. RÉGION lombaire.
+Coupe pratiquée dans la région lombaire et colorée n<r la méthode de Pall.
+Il s'agit d'un cas de tabès au début, les lésions sont cantonnées dans les zones radicu-
+laires moyennes de Burdach. -
+A. Corne antérieure.
+a. L'une de ses cellules.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure grise.
+H. Sillon antérieur.
+G. Faisceau antéro-latéral.
+II. Cordon de Goll respecté.
+I. Zone de Lissauer et zone pos-
+térieure du faisceau de Bur-
+dach indemne.
+.1. Zone de Westphal non alté-
+rée.
+K-K'. Zones de Burdach sclé-
+rosées.
+Cette pièce qui nous a été obligeamment confiée par M. Marincscô se rapporte il un cas de tabès
+au début provenant du service de Westphal. Les lésions sont tout à fait analogues à celles d'un cas
+rapporté récemment par M. Raymond (Topographie des lésions spinales du tabès au début. 
+Revue de médecine, tome XI, janvier 1891).
+
+
+
+PLANCHE XXVI
+Ffnu)OE51.
+ATAXIE LOCOMOTRICE PROGRESSIVE. Région cervicale.
+Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.
+Les lésions occupent, d'une façon classique, la presque totalité des cordons pos-
+térieurs. -
+A. Corne antérieure.
+Il. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure antérieure.
+F. Commissure postérieure.
+G. Sillon antérieur.
+Il. Faisceau latéral. -
+I. Zone antéro-externe de West-
+phal. -
+J. Cordon de Goll.
+K. Faisceau de Burdach.
+L. Zone postéro-externe de
+Westphal.
+Figure 52.
+ATAXIE LOCOMOTRICE PROGRESSIVE. Région dorsale.
+Coupe pratiquée dans la région dorsale et colorée par la méthode de Weigert.
+Cas classique dans lequel on voit la sclérose presque totale des faisceaux postérieurs.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure sclérosée.
+D. Sillon postérieur.
+E. Commissure antérieure.
+F. Commissure postérieure.
+G. Sillon antérieur.
+Il. Faisceau antéro-latéral.
+I. Cordon postérieur sclérosé.
+
+
+
+PLANCHE XXVII
+FIGURE 53.
+ATAXIE LOCOMOTRICE PROGRESSIVE. Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.
+La lésion occupe son siège habituel dans les cordons postérieurs.
+A. Corne antérieure.
+B. Corne postérieure. 1
+C. Racine postérieure sclérosée.
+D. Canal central.
+E. Commissure antérieure.
+F. Sillon postérieur.
+G. Sillon antérieur.
+H. Faisceau antérieur.
+1. Faisceau latéral.
+J. Zone antéro-externe de West-
+phal.
+K. Faisceau postérieur sclérosé.
+Figure 54.
+ATAXIE LOCOMOTRICE PROGRESSIVE. - Corne postérieure.
+La figure représente un point des cordons postérieurs sclérosés de la pièce précédente,
+mais la préparation a été colorée par le picrocarmin. On y voit le tissu de sclérose dans
+lequel persistent un assez grand nombre de tubes nerveux.
+A. Tissu de sclérose.
+B. Tube nerveux altéré.
+C-C. Tube nerveux sain.
+D. Corps granuleux.
+E. Vaisseaux.
+Les figures 51-52-53 ont trait au tabès classique, avec lésions typiques des cordons postérieurs et
+proviennent d'un sujet ayant présenté l'évolution régulière de la maladie.
+
+
+
+PLANCHE XXVIII
+Figure 55.
+ATAXIE LOCOMOTRICE PROGRESSIVE. Région cervicale.
+Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.
+Il s'agit d'un cas où les lésions étaient particulièrement intenses dans les régions
+lombaire et dorsale, aussi cette préparation montre-t-elle surtout les lésions secondaires
+du cordon de Goll, les faisceaux de Burdach étant relativement peu altérés.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+R. Faisceau antérieur.
+I. Faisceau latéral.
+J. Faisceau de Burdach.
+K. Cordon de Goll.
+Figure 56.
+ATAXIE LOCOMOTRICE PROGRESSIVE. Cordons postérieurs.
+Coupe longitudinale pratiquée sur les cordons postérieurs sclérosés et colorée au picro-carmin.
+On voit un tissu de sclérose, avec des corps hyalins, et des lésions vasculaires.
+A. Tissu de sclérose.
+B. Tube nerveux.
+C. Corps hyalin.
+D. Coupe longitudinale d'un vaisseau.
+E. Sa coupe transversale.
+F. Épaississement de sa paroi.
+G. Vaisseau thrombose.
+
+
+
+PLANCHE XXIX
+Figure 57.
+ATAXIE LOCOMOTRICE PROGRESSIVE. Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.
+On y voit la lésion particulièrement intense à la partie postérieure des cordons posté-
+rieurs, et ayant envahi les zones de Lissaüer. -
+A . Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure sclérosée.
+D. Sillon postérieur.
+E. Canal central.
+F. Sillon antérieur.
+G. Cordon latéral.
+IL Zone de Westphal moins
+altérée.
+I. Faisceau de Burdach altéré.
+J. Zone de Lissaüer altérée.
+-(a
+FIGURE 58.
+ATAXIE LOCOMOTRICE PROGRESSIVE. RÉGION cervicale.
+Coupe pratiquée au niveau du renflement cervical et colorée par la méthode de Weigert.
+La lésion, contrairement à celle de la figure précédente, a épargné la partie posté-
+rieure des faisceaux de Burdach, et les zones de Lissauer. Seul le cordon de Goll est
+altéré dans toute son étendue.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+IL Faisceau latéral.
+I. Zone antérieure de Westphal.
+J. Zone de L.issaüer.
+K. Zone postérieure de West-
+phal.
+L. Cordon de Goll.
+Les figures 55, 57 et 58 représentent des préparations de tabès dans lesquelles les lésions présentent t
+des sortes de variétés du type normal figuré dans les planches précédentes. Elles proviennent toutes
+trois de sujets différents.
+
+
+
+PLANCHE XXX
+IGU131J 59.
+ATAXIE LOCOMOTRICE PROGRESSIVE. RÉGION cervicale.
+La figure représente à un grossissement plus fort (obj. 2, Vérick) la préparation de la
+figure précédente, pour montrer le détail des lésions.
+.4. Corne antérieure.
+B. Corne postérieure.
+C. Sillon postérieur.
+D. Commissure postérieure.
+E. Commissure antérieure.
+F. Sillon antérieur.
+G-G. Zones de Lissaüer indemnes se confondant
+avec la zone postérieure des faisceaux de Bur-
+dach.
+J7. Zone antéro-externe de Westphal.
+l. Partie moyenne de la zone radiculaire sclérosée.
+.1. Lésion vasculaire.
+Figure 60.
+SCLÉROSE LATÉRALE, AMYOTROPHIQUE (MALADIE DE CHARCOT). Région cervicale
+SUPÉRIEURE.
+Coupe pratiquée dans la région cervicale supérieure et colorée par la méthode de Pall.
+La sclérose des faisceaux pyramidaux est très nettement dessinée.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+H. Partie fondamentale du fais-
+ceau antéro-latéral.
+J. Faisceau postérieur.
+J-J. Faisceaux pyramidaux sclé-
+rosés.
+
+
+
+PLANCHE XXXI
+Figure 61.
+SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Renflement cervical.
+Coupe pratiquée dans le renflement cervical et colorée par la méthode de Pall.
+La lésion est visible dans la zone des faisceaux pyramidaux.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+H.1'artie fondamentale des fais-
+ceaux antéro-latéraux.
+I. Cordons postérieurs.
+J-J. Faisceaux pyramidaux sclé-
+rosés.
+Figure 62.
+SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Faisceaux pyramidaux.
+La figure représente un point de la région sclérosée des faisceaux latéraux colorée au
+picrocarmin, vue à un grossissement fort (obj. 4, Vérick). On voit des tubes nerveux
+disparaissant dans un tissu de sclérose. -
+A. Tissu de sclérose.
+B-B. Gros tractus fibreux.
+C. Tubes nerveux détruits.
+D-D. Tubes nerveux indemnes.
+
+
+
+PLANCHE XXXII
+Figure 63.
+SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Région dorsale moyenne.
+Coupe pratiquée dans la région dorsale moyenne et colorée par la méthode de Pall.
+La lésion est strictement cantonnée dans les faisceaux pyramidaux et les cornes anté-
+rieures.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racines postérieures.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+Il. Partie fondamentale des fais-
+ceaux antéro-latéraux.
+1. Cordon postérieur.
+J-J. Faisceaux pyramidaux sclé-
+rosés.
+FIGURE 64.
+SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Corne antérieure.
+La figure montre un point de la région de la corne antérieure colorée au picrocarmin
+et vue à un grossissement fort (obj. 4, Vérick). On y distingue les lésions des cellules
+ganglionnaires des cornes antérieures.
+A. Tissu fibrillaire.
+B-B. Cellules peu altérées.
+C. Cellules atrophiées et privées de prolongements.
+D-D. Cellules très atrophiées.
+
+
+
+PLANCHE XXXIII
+Figure 65.
+SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.
+La lésion occupe toujours la zone des faisceaux pyramidaux, elle se remarque aussi
+dans la région des cornes antérieures de la substance grise.
+A. Corne antérieure. -
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+II. Partie fondamentale du fais-
+ceau antéro-latéral.
+1. Cordon postérieur.
+J-J. Faisceaux pyramidaux al-
+térés. '
+Figure 66.
+SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Faisceau pyramidal.
+Coupe longitudinale de la région sclérosée colorée par le picrocarmin et vue il un grossissement
+(ohj. 4, Vérick).
+On y voit la disposition fasciculaire du tissu scléreux, et les lésions vasculaires.
+A-A. Faisceaux fibreux.
+B. Corps granuleux.
+C. Paroi d'un vaisseau.
+D. Globules rouges.
+Toutes ces préparations de Sclérose latérale amyotrophique se rapportent a la moelle épinière d'un
+même sujet, du service de la Clinique des maladies nerveuses, le nommé Néd..., qui présenta pen-
+dant sa vie le tableau classique de la maladie de Charcot, et mourut selon l'ordinaire d'accidents
+bulbaires. L'autopsie que nous en avons faite est encore inédite.
+
+
+
+PLANCHE XXXIV
+Figure 67.
+MOELLE DE FOETUS DE CINQ MOIS. Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pâli.
+On y voit le peu de développement du manteau blanc de la moelle, et notamment des
+faisceaux postérieurs, et des faisceaux pyramidaux. Ces derniers n'existent pas encore.
+A. Corne antérieure.
+a-a-a. Cellules ganglionnaires.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Canal central.
+F. Commissure grise.
+G. Sillon antérieur.
+]J, Partie fondamentale du fais-
+ceau antéro-latéral.
+1. Région du faisceau pyramidal.
+FIGURE 68.
+MOELLE DE FOETUS DE CINQ MOIS. Région cervicale.
+Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.
+L'absence presque complète de la myéline des faisceaux pyramidaux est très nettement
+visible, ainsi que le faible développement des faisceaux de Burdach.
+A. Corne antérieure.
+a-a-a. Cellules ganglionnaires.
+B. Cornes postérieures.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Canal central.
+F. Commissure antérieure.
+G. Sillon antérieur.
+Il. Partie fondamentale des cor-
+dons antéro-latéraux.
+1. Faisceau pyramidal croisé.
+J. Cordon cérébelleux direct.
+K. Faisceau pyramidal direct.
+L. Faisceau de Burdach.
+,Il. Faisceau de Goll.
+Nous avons reproduit ici ces préparations, qui sont en quelque sorte la justification embryologique
+de la localisation des lésions dans les myélites systématiques dont nous avons présenté des
+exemples.
+
+
+
+PLANCHE XXXV
+Figure 69.
+MALADIE DE FRIEDREICH. Région cervicale.
+1
+Coupe pratiquée dans la région cervicale et colorée par la méthode de Pall.
+La distribution de la sclérose est beaucoup plus accentuée dans les cordons postérieurs
+que dans les faisceaux latéraux où elle occupe les faisceaux pyramidaux, cérébelleux
+directs, et une petite zone du faisceau de Gowers.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure postérieure.
+F. Commissure antérieure.
+G. Sillon antérieur.
+H. Partie fondamentale du fais-
+ceau antéro-latéral.
+1. Zone sclérosée du faisceau de
+Gowers.
+J. Colonne de Clarke altérée.
+K. Faisceau pyramidal altéré.
+L. Cordon postérieur altéré.
+M. Faisceau cérébelleux direct
+altéré.
+Figure 70.
+MALADIE DE FRIEDREICH. Faisceau pyramidal.
+La préparation montre un point du faisceau pyramidal faisant partie de la coupe
+représentée dans la figure précédente, vu à un fort grossissement (obj. 4, Vérick). Les
+tubes nerveux sont encore nombreux dans le tissu de Sclérose.
+A-A. Tissu de sclérose.
+B. Tube nerveux altéré.
+C. Tube nerveux sain.
+
+
+
+PLANCHE XXXVI
+. Figure 71.
+MALADIE DE FRIEDREICH. Région dorsale.
+Coupe pratiquée dans la région dorsale supérieure et colorée par la méthode de Pall.
+On y voit très nettement la distribution systématique de la lésion reproduite, de plus,
+sur le schéma. -
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Commissure antérieure.
+F. Commissure postérieure.
+G. Sillon antérieur.
+H. Cordon antérieur.
+I. Zone de Westphal indemne.
+J. Zone de Lissauer peu altérée.
+K. Partie non altérée du faisceau
+latéral.
+L. Partie altérée du faisceau de
+Gowers.
+ill. Faisceau pyramidal altéré.
+If. Faisceau cérébelleux direct
+altéré.
+0. Faisceau de Goll altéré.
+P. Faisceau de Burdach altéré.
+FIGURE 72.
+MALADIE DE FRIEDREICH.
+Vue à un fort grossissement d'une partie du faisceau de Burdach sclérosé, coloré par
+la méthode de Pall.
+A-A. Substance fibrillaire du tissu de sclérose.
+B-B. Tubes nerveux restés sains. -
+C-C-C. Tubes nerveux altérés.
+D. Vaisseau.
+
+
+
+PLANCHE XXXVII
+FIGURE 73.
+MALADIE DE FRIEDREICH. Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.
+La distribution des lésions est tout il fait conforme aux descriptions classiques.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Canal central.
+F. Commissure postérieure.
+G. Sillon antérieur.
+IL Partie fondamentale du fais-
+ceau antéro-latéral.
+1-1. Colonnes de Clarke al-
+térées.
+J. Faisceau pyramidal.
+K. Faisceau cérébelleux direct
+altéré.
+L. Faisceau postérieur altéré.
+Figure 74.
+MALADIE DE FRIEDREICH. Colonne de CLARKE.
+La figure représente la zone de la colonne de Clarke, dans la région dorsale, colorée
+au carmin et vue à un fort grossissement (obj. 7, Vérick). Les altérations des cellules s'y
+remarquent bien.
+A. Cellule peu altérée.
+B-B. Cellules très altérées.
+C. Leucocythe.
+D. Vaisseau.
+E. Tissu fibrillaire.
+Toutes les figures de maladie de Friedreich que nous reproduisons proviennent des pièces d'une
+même malade, la nommée Desch..., qui forme le sujet d'un mémoire que l'un de nous a publié en
+collaboration avec M. Marincsco et intitulé : Sur l'anatomie pathologique de la maladie de Friedreich
+(Archives de neurologie, 1890, n° 57). ,
+
+
+
+PLANCHE XXXVIII
+FIGURE 75.
+SYRINGOMYÉLIE GLIOMATEUSE. Région lombaire
+Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.
+On voit la cavité pathologique centrale et relativement considérable, ainsi que la
+sclérose secondaire des faisceaux pyramidaux.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Sillon antérieur.
+F. Commissure antérieure.
+G. Faisceau postérieur.
+IL Partie non altérée du faisceau latéral.
+I. Cavité pathologique.
+J. Paroi de la cavité.
+IL Substance du gliome.
+L. Faisceau pyramidal dégénéré.
+FIGURE 76.
+SYRINGOMYÉLIE GLIOMATEUSE. - Région dorsale inférieure.
+Coupe pratiquée dans la région dorsale et colorée par la méthode de Pall.
+Mêmes lésions, d'apparence un peu différente que dans la figure 76.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Sillon antérieur.
+F. Commissure antérieure.
+G. Cordon postérieur.
+11. Partie non altérée des faisceaux latéraux.
+I. Cavité pathologique.
+J. Paroi de la cavité.
+K. Substance du gliome.
+L. Faisceau pyramidal dégénéré.
+
+
+
+PLANCHE XXXIX
+Figure 77.
+SYRINGOMYÉLIE GLIOMATEUSE. Région dorsale.
+Coupe pratiquée dans la région dorsale moyenne et colorée par la méthode de Pall.
+Les lésions semblables sont plus accusées encore que dans la figure 76.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Sillon antérieur.
+F. Partie non altérée du faisceau latéral.
+G. Faisceau postérieur.
+IL Cavité pathologique.
+I. Commissure antérieure.
+J. Paroi de la cavité.
+K. Substance du glieme.
+L. Faisceau pyramidal altéré.
+FIGURE 78.
+SYRINGOMYÉLIE GLIOMATEUSE. Gliome.
+La préparation représente un point de la substance gliomateuse autour de la cavité
+pathologique. On distingue le revêtement cellulaire de la paroi bourgeonnante, et le
+tissu fibrillaire du gliome.
+A. Cavité pathologique.
+B-li. Cellules de revêtement de la paroi.
+C. Tissu gliomateux.
+D. Tissu nerveux sain.
+T. Bourgeon gliomateux.
+F. Vaisseau.
+
+
+
+PLANCHE XL
+FIGURE 79.
+SYRINGOMYÉLIE GLIOMATEUSE. Région CERVICO-DORSALE.
+Coupe pratiquée dans la région cervico-dorsale et colorée par la méthode de Pall.
+La moelle est presque complètement détruite par le néoplasme. Une cavité centrale
+est étalée transversalement, dans laquelle se distinguent quelques bourgeons gliomateux.
+Le reste de la substance médullaire forme les parois aplaties de celle cavité.
+A. Corne antérieure.
+B. Racine postérieure.
+C. Sillon postérieur.
+D. Partie restante du faisceau antéro-latéral.
+E. Cordon postérieur.
+F. Faisceau pyramidal dégénéré.
+G-G. Cavité pathologique.
+11. Bourgeon gliomateux.
+1. Substance du gliome.
+J. Paroi de la cavité.
+FIGURE 80.
+SYRINGOMYÉLIE GLIOMATEUSE. - Paroi de la cavité.
+La préparation montre un point de la paroi d'une coupe semblable à la précédente et
+colorée au picrocarmin. On y voit le revêtement épithélial, et l'irrégularité de la paroi.
+A. Cavité pathologique.
+B. Cellules endothéliales.
+C. Tissu gliomateux.
+D. Limite du gliome.
+E. Tissu nerveux.
+Les préparations qui ont fourni les planches XXXVIII, XXXIX et XL sont toutes empruntées aux
+pièces d'un même sujet, Augustin Iterv..., dont l'histoire est rapportée dans l'observation VI de
+la Thèse de M. Bruhl (Contribution à l'élude de la Syringomyélie. Th. de Paris, 1890, p. 145).
+Le malade a succombé depuis la publication de ce travail, et j'ai pu faire son autopsie dont les
+résultats sont encore inédits.
+
+
+
+PLANCHE XLI
+Figure 81.
+SYRINGOMYÉLIE GLIOMATEUSE. Région dorsale.
+Coupe pratiquée dans la région dorsale et colorée par la méthode de Pall.
+Cavité aplatie transversalement recouverte d'une paroi ; la moelle est réduite à un
+mince manchon de substance nerveuse.
+A. Corne antérieure.
+B. Racine postérieure.
+C. Sillon postérieur.
+D. Sillon antérieur.
+E. Cavité pathologique.
+F. Paroi de la cavité.
+Cette préparation provient dune malade dont nous avons communiqué l'observation, à M. Bruhl,
+qui l'a publiée dans sa thèse précitée (Observation II, p. 130) où l'on trouvera également leprotocole
+de l'examen nécroscopique.
+Figure 82.
+SYRINGOMYÉLIE GLIOMATEUSE. Région cervicale.
+. Coupe pratiquée dans la région cervicale et colorée au carmin.
+Ici la cavité néoplasique s'est développée dans la corne postérieure droite qu'elle a
+complètement détruite. Une masse gliomateuse solide se voit sous forme de tumeur
+proéminente dans le cordon postérieur. Il existe de plus une sclérose des cordons de
+Goll. : 1. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+0. Sillon postérieur.
+E. Commissure antérieure.
+F. Sillon antérieur.
+(1. Faisceau antérieur.
+IL Cavité pathologique.
+Il'. Canal central.
+/. Faisceau latéral.
+J. Paroi de la cavité.
+K. Masse gliomateuse.
+Cette préparation faisait partie depuis longtemps de la collection du laboratoire ; bien que nous
+n'ayons pu nous procurer de renseignements sur son origine, elle nous a paru assez intéressante
+pour mériter d'être représentée ici.
+
+
+
+PLANCHE XLII
+Figure 83.
+SYRINGOMYÉLIE GLIOMATEUSE. Région dorsale.
+Coupe pratiquée dans la région dorsale et colorée a I'llclllal0r'lllle.
+Il existe une cavité considérable centrale et cordiforme limitée par une paroi bour-
+geonnante et entourée par le gliome qui a refoulé, en la détruisant en partie, la
+substance grise. Malgré retendue de la lésion, il n'y a pas de dégénération nette des
+faisceaux blancs.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Cordon postérieur.
+D. Faisceau antérieur.
+E. Faisceau latéral.
+F. Sillon antérieur.
+G. Sillon postérieur.
+77. Cavité centrale.
+7. Paroi du âliome.
+J. Substance du gliome.
+Il a été question du sujet dont cette pièce provient dans la leçon de M. Charcot consacrée
+à la Syringomyélie (Leçons du mardi, 1889, 21c Leçon, p. 491). L'observation du malade a été
+communiquée à la Société clinique de Paris, dans la séance du 9 juillet 1883, par M. Paul
+Berbez et publiée dans la France médicale (n° 97, 20 août 1885, p. Hfi2). Les détails de l'autopsie
+pratiquer à la Salpêtrière ont été communiqués à la Société anatomique dans la séance
+du 18 février 1887 (ü2c année, p. 83) par M. Paul Blocq.
+La communication est intitulée : « Paraplégie spasmodique. - Arthropathie du coude. 
+Néphrite suppurée.  Cystite.  Perforation de la vessie.  Péritonite.  Mort.  Autopsie. 
+Syringomyélie. »
+Figure 84.
+SYRINGOMYÉLIE GLIOMATEUSE. Région lombaire.
+Coupe pratiquée dans la région lombaire et colorée par le noir d'aniline et le carmin.
+Il existe une cavité centrale de moyenne dimension ; la préparation est surtout
+très remarquable par les deux énormes masses gliomaleuses non excavées situées
+dans les faisceaux antéro-latéraux et qui ont relativement épargné la substance grise.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Faisceau antérieur.
+Û. Rariue postérieure.
+E. Sillon antérieur.
+1-. Sillon postérieur.
+G. Cordon postérieur sclérosé.
+H. Cavité centrale.
+/. Paroi du gliome.
+.1. Substance du gliome central.
+K-K. Masses gliomateuses situées dans les faisceaux
+antéro-latéraux.
+Cette coupe provient de la collection léguée par le 1 ? r Damaschino au Musée de la Sa ! pe[ ? i<jr.-\
+Les étiquettes des préparations portent la mention : « Moelle ]omJnire.  tltaxie locomotrice.
+ Octobre 1880. »
+
+
+
+PLANCHE XLIII
+Figure 85.
+SYRINGOMYÉLIE. - Région cervicale supérieure.
+Coupe pratiquée au niveau de l'entrecroisement dos pyramides et colorée par le picrocarmin.
+La cavité centrale est entourée de très peu de substance gliomateuse, et il existe une
+sclérose remarquable des faisceaux pyramidaux directs et croisés.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Canal central entouré d'un
+peu de tissu gliomateux.
+F. Commissure postérieure.
+G. Sillon antérieur.
+IL Processus réticulaire.
+I. Faisceau cérébelleux direct
+indemne.
+J. Faisceau pyramidal croisé
+altéré.
+K. Faisceau pyramidal direct
+. altéré.
+Figure 86.
+SYRINGOMYÉLIE. - Renflement cervical.
+Coupe pratiquée dans le renflement cervical et colorée par le picrocarmin.
+Il existe une cavité centrale avec paroi, et de plus un foyer cavitairc dans la substance
+grise gauche au niveau de la partie intermédiaire entre les deux cornes. La sclérose des
+faisceaux pyramidaux est également manifeste.
+.1. Corne antérieure.
+B. Corne postérieure.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Sillon antérieur.
+F. Faisceau cérébelleux direct.
+n. Faisceau postérieur.
+Il. Cavité pathologique.
+1". Substance du gliome.
+J. Foyer cutané delà substance grise
+Les pièces dont les figures de cette planche représentent les préparations viennent d'un malade
+de la clinique des maladies nerveuses, ayant donné lieu à de grandes difficultés de diagnostic pendant
+sa vie entre la Sclérose latérale amyotrophique et la Syringomyélie, ce dont rend compte l'apparence
+des lésions. L'observation ainsi que l'examen néc ? opsi(lite sont encore inédits.
+
+
+
+PLANCHE XLIV
+Figure 87.
+TUMEUR DE LA MOELLE ,FIBROME). - Région cervicale supérieure.
+Coupe pratiquée dans la région de l'entrecroisement des pyramides et colorée par la méthode do
+- Pall.
+On y voit la tumeur située à la partie postérieure, d'un aspect cordiforme, gagnant la
+substance grise centrale.
+A -.1. Cornes antérieures, celle de droite est déca-
+pitée par le passage du cordon latéral 1 qui
+gagne la région antérieure gauche.
+B-B. Cornes postérieures décapitées en partie par
+les cordons antérieurs.
+C. Sillon antérieur.
+D. Substauce ;;rise centrale.
+E. Processus réticulaire.
+F. Sillon postérieur.
+G. Pyramide antérieure.
+71. 'fumeur.
+Figure 88.
+TUMEUR DE LA MOELLE (FIBROME).
+La préparation montre une partie de la substance de la tumeur de la pièce précédente,
+colorée au picrocarmin et vue il un fort grossissement (obi. 4, Vérick). On voit très
+nettement la structure du néoplasme composé de trousseaux fibreux ondulés en diverses
+directions.
+- 4. Substance interJ1hrjl\airc.
+li-li. Trousseaux fibreux coupés longitudinalement.
+C-C. Trousseaux fibreux coupés transversalement.
+D. Vaisseau.
+
+
+
+PLANCHE XLV
+Figure 89.
+TUMEUR DE LA MOELLE (FIBROME). Région dorsale.
+Coupe pratiquée dans la région dorsale moyenne et colorée par la méthode de Pall.
+On voit que le fibrome occupe la partie centrale de la moelle, dont la substance
+tassée est considérablement réduite ; les diverses régions sont à peine reconnais-
+sables.
+A. Corne antérieure.
+B. Corne postérieure.
+C. Sillon antérieur.
+D. Sillon postérieur.
+E. Faisceau latéral droit.
+F. Faisceau latéral gauche.
+G. Tumeur.
+FIGURE 90.
+TUMEUR DE LA MOELLE (FIBROME). Région lombaire.
+Coupe pratiquée dans la région lombaire supérieure et colorée par la méthode de Pall.
+Le fibrome siège au centre de la moelle et s'étend transversalement, absorbant presque
+toute la substance grise, dont il ne reste que les extrémités des cornes antérieures et
+postérieures.
+A-A. Cornes antérieures.
+B-B. Cornes postérieures.
+C. Racine postérieure.
+D. Sillon postérieur.
+E. Sillon antérieur.
+F. Cordon antérieur.
+G. Faisceau latéral.
+Il. Faisceau postérieur.
+J. Tumeur.
+Les pièces de tumeur de la moelle (fig. 85, 86, 87, 88) se rapportent à un cas de. fibromes mul-
+tiples de la moelle recueilli dans le service de M. le Pr Charcot. Les fibromes extrêmement nombreux
+étaient disséminés dans toute la hauteur du névraxe, tantôt à la périphérie, comme dans la
+figure 85, tantôt au centre, comme dans les figures 87 et 88. Il s'agissait histologiquement d'un
+véritable fibrome, ainsi qu'en rendent compte, du reste, les préparations.
+
+
+
+PUBLICATIONS ANTÉRIEURES DU Dr PAUL BLOCQ
+DIVERS
+Note sur un cas de rétrécissement des deux orifices auriculo-ventriculaires (Paris, A. Delahaye, 1881).
+Occlusion intestinale par diverticule {Union médicale, 1883).
+D'une forme spéciale que revêt l'ecchymose dans les fractures de la rotule (Semaine médicale, 1881),
+Cas de molluscum vrai ulcéré de la grande lèvre (Progrès médical, 1881).
+Note sur des accidents occasionnés par une injection de chloroforme dans le tissu gingival (Progrès médical, 1SS'f).
+Peri-onyxis symétrique professionnel (Semaine médicale, 1884).
+Des hémorrhagies puerpérales (Thérapeutique contemporaine, 1885).
+De l'éclampsie (Thérapeutique contemporaine, 1885).
+Infection puerpérale. Endocardite ulcéreuse (Soc. anat., oct. 1885).
+Du phlegmon sous-péritonéal de la région hépatique (Progrès médical, 1885).
+D'une variété nouvelle de kystes du cou.  Kyste crico-thyroïdien (Gazette médicale de Paris, nos 12, 13, 17, 1885).
+Pleurésie rhumatismale pré-arthropathique (Société clinique, juin 1885).
+Tuberculose compliquée de pyohémie (Société clinique, 1885).
+Adénome, cirrhose et cancer primitif du foie (Société anatomique, 1885).
+Érysipèle périodique annuel (Société clinique, 188G). -
+Sur un cas de cancer primitif de la colonne vertébrale (Journal de médecine. 188G).
+Cancer primitif de la vésicule biliaire, propagé au foie (Société anatomique, 188G).
+Cancer primitif du coecum (Société anatomique, 188G).
+Tubercules solitaires massifs du foie (Société anatomique, 1887).
+Étude expérimentale de la cirrhose alcoolique du foie, en collaboration avec M. le Professeur STIIAUS (Société de Bio-
+logie et Archives de physiologie, 1887).
+Des cirrhoses graisseuses considérées comme hépatites infectieuses, eu collaboration avec M. II. GILLET (Archives
+générales de médecine, 1888).
+Le foie chez les tuberculeux (Gazelle des hôpitaux, 1889).
+Des altérations du myocarde dans les maladies infectieuses (Gazelle hebdomadaire, 1891).
+NEURO-PATHOLOGIE
+Un cas de syringomyélie (Bulletins de la Société anatomique, février 1887).
+Note sur un cas de maladie de Friedreich (Archives de Neurologie, 1887).
+Note sur la migraine ophthalmique, en collaboration avec z)1. le Dr Gilles de la Touhette (Bulletins de la Société de
+Biologie et Progrès médical, 1887).
+Sur une affection caractérisée par de l'astasie et de l'abasie (Archives de Neurologie et 1 vol. in-8 de 55 pages. Libr.
+du Progrès médical, 1888).
+Des rétractions fibro-tendineuses compliquant la contracture spasmodique (Nouvelle Iconographie de S alpé-
+trière, 1888).
+Note sur un cas d'athétose double, en collaboration avec M. E. BuN (Revue de médecine, 188S).
+Des contractures, 1 vol. in-8 de 21 pages (Libr. du Progrès médical, 1888). Travail couronné par l'Académie des sciences
+et par la Société médico-psychologique.
+Cinq cas de maladie de Friedreich, en collaboration avec MM. Huet et Gilles DE la TounETTE (Nouvelle Iconographie
+de la Salpélrière, 1888).
+Sur un cas de paralysie du nerf cubital (Bulletins de la Société clinique, 1888).
+Nouveaux faits de maladie de Friedreich (Bulletins de la Société clinique, 1888).
+Note sur une affection caractérisée par de l'astasie et de l'abasie (Journal de médecine de Paris, 1888).
+D'une forme particulière de troubles nerveux des extrémités supérieures (Nouvelle Iconographie de la Salpélrière, 1889).
+Du traitement de l'ataxie locomotrice par la suspension (Bulletin médical, 1889).
+Des contre-indications du traitement par la suspension (Bulletin médical, 1889).
+De l'astasie-abasie (Rente générale de clinique, 1889).
+Des indications de l'hypnotisme dans le traitement de l'hystérie (Bulletin médical, 1889).
+Hystérie maniaque infantile (Revue générale de clinique, 1889).
+L'Écriture médianimique. Le Spiritisme au point de vue scientifique (Bulletin médical, 1889).
+
+PUBLICATIONS ANTÉRIEURES DU Dr PAUL BLOCQ.
+De la syringomyélie (Gazette des hôpitaux, 1889).
+Migraine ophtalmique et paralysie générale (Archives de Neurologie, 1889).
+De la chorée molle (Gazette hebdomadaire, 1890).
+Des affections qui ont été rapprochées du tabès.  Pseudo-tabès (Gazette des hôpitaux, 1890).
+Hystérie et maladies organiques (Mercredi médical, 1890).
+Syringomyelia (Brain, 1890).
+Des somnambulismes (Gazette hebdomadaire, 1890). '
+Sur l'anatomie pathologique de la maladie de Friedreich, en collaboration avec M. Maiunesco (Société de Biologie et
+Archives de Neurologie, 1890).
+Nature centrale de la paralysie spinale aiguë de l'adulte (Bulletin médical, 1890).
+Grippe et maladies nerveuses (Gazelle hebdomadaire, 1890).
+Polynévrites et poliomyélites, en collaboration avec M. l\JARINESCO (Société de Biologie et Nouvelle Iconographie de la
+Salpélrière, 1890).
+Sur la morphologie des faisceaux neuro-musculaires, en collaboration avec M. Marlnesco (Bulletins de la Société de
+Biologie, I S30).
+Remarques à propos de la guérison d'un cas d'impuissance datant de trois ans (Mercredi médical, 1890).
+Une définition naturelle du crime, en collaboration avec 111. Onanoit (Revue scientifique, 1890).
+Du goitre exophtalmique (Gazette hebdomadaire, 1890). -
+Sur un cas de paralysie conjuguée de la sixième paire, en collaboration avec \I. G. GuiNoN (Archives de médecine
+expérimentale, 1531).
+La Neurasthénie et les Neurasthéniques (Gazette des hôpitaux, 1891).
+Vigilambulisme hystérique et suggestion hypnotique (Revue générale de clinique, 1891).
+Traitement de l'épilepsie par l'hydrate d'amyléne (Revue générale de clinique, 1891).
+Séméiologie du sommeil (Brain, 1891).
+De l'aphasie sous-corticale (Gazelle hebdomadaire, 1891).
+D'un syndrome caractérisé par de la « Topoalgie ».  Neurasthémie monosymptomatique. Forme douloureuse (Ga-
+zette hebdomadaire, 1891).
+Article « Salivation dans les maladies nerveuses », in Dictionary Psychological medicine de IIACK-TucKE.
+SOUS PRESSE
+Séméiologie et Diagnostic des maladies du système nerveux, en collaboration avec M. ONAKOFF (I vol. in-18 diamant,
+avec ligures daus le texte).
+CoüeetL. - Imprimerie CutTf.
+

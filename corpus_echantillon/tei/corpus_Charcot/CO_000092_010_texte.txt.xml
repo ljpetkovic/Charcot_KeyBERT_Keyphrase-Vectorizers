@@ -1,0 +1,5756 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader xmlns="">
+    <fileDesc>
+      <titleStmt>
+        <title>Anatomie pathologique de la moëlle épinière : 45 planches en héliogravure avec texte explicatif</title>
+        <author>Charcot, Jean-Martin</author>
+        <author>Londe, Albert</author>
+        <author>Blocq, Paul</author>
+      </titleStmt>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1891" />
+      </creation>
+    </profileDesc>
+  </teiHeader>
+  <text xmlns="">
+    <body>
+      <div>
+        <p>
+          <s>ANATOMIE PATHOLOGIQUE</s>
+        </p>
+        <p>
+          <s>DE LA</s>
+        </p>
+        <p>
+          <s>MOELLE ÉPINIÈRE</s>
+        </p>
+        <p>
+          <s>Droits de traduction et de reproduction réservés.</s>
+        </p>
+        <p>
+          <s>ANATOMIE PATHOLOGIQUE</s>
+        </p>
+        <p>
+          <s>])" la</s>
+        </p>
+        <p>
+          <s>r 1%</s>
+        </p>
+        <p>
+          <s>MOELLE ÉPINIÈRE</s>
+        </p>
+        <p>
+          <s>45 PLANCHES EN HÉLIOGRAVURE</s>
+        </p>
+        <p>
+          <s>AVEC TEXTE EXPLICATIF</s>
+        </p>
+        <p>
+          <s>I' : 1 H</s>
+        </p>
+        <p>
+          <s>PAUL BLOCQ</s>
+        </p>
+        <p>
+          <s>ANCIEN INTERNE DES HOPITAUX</s>
+        </p>
+        <p>
+          <s>CHEF DES TRAVAUX ANATOMO-PATIIOLOGIQUES A LA S : 1L1'I ? TRIliRE E</s>
+        </p>
+        <p>
+          <s>LAURÉAT DE L'ASSISTANCE PUBLIQUE</s>
+        </p>
+        <p>
+          <s>LAURÉAT DE LA FACULTÉ DE MÉDECINE</s>
+        </p>
+        <p>
+          <s>LAURÉAT DE LA SOCIÉTÉ MÉDICO-PRATIQUE ET DE LA SOCIÉTÉ 31ÉDIC0-PSYCIIOLOGIQUE</s>
+        </p>
+        <p>
+          <s>LAURÉAT DE L'INSTITUT (ACADÉMIE DES SCIENCES)</s>
+        </p>
+        <p>
+          <s>MEMBRE DE LA SOCIÉTÉ ANATOMIQUE, DE LA SOCIÉTÉ CLINIQUE, ETC.</s>
+        </p>
+        <p>
+          <s>ET</s>
+        </p>
+        <p>
+          <s>ALBERT LONDE</s>
+        </p>
+        <p>
+          <s>DIRECTEUR DU SERVICE PHOTOGRAPHIQUE A LA SALPITlll¡ :  : RE</s>
+        </p>
+        <p>
+          <s>OFFICIER11 DE L'INSTRUCTION PUBLIQUE</s>
+        </p>
+        <p>
+          <s>Ouvrage précédé d'une Préface de M. le Professeur CHARCOT</s>
+        </p>
+        <p>
+          <s>PARIS</s>
+        </p>
+        <p>
+          <s>G. MASSON, ÉDITEUR</s>
+        </p>
+        <p>
+          <s>LIBRAIRE DE L'ACADÉMIE DE MÉDECINE</s>
+        </p>
+        <p>
+          <s>120, boulevard Saint-Germain, en face de l'École de Médecine</s>
+        </p>
+        <p>
+          <s>1891</s>
+        </p>
+        <p>
+          <s>PRÉFACE DE M. LE PROFESSEUR CHARCOT</s>
+        </p>
+        <p>
+          <s>L'Atlas que publient MM. Paul Blocq et Albert Londe est composé de documents</s>
+        </p>
+        <p>
+          <s>recueillis, pour la plupart sous mes yeux, dans le service de la Clinique des maladies</s>
+        </p>
+        <p>
+          <s>du système nerveux à la Salpêtrière. C'est dire que le plus grand nombre des</s>
+        </p>
+        <p>
+          <s>préparations qui y sont figurées ont été examinées par moi et qu'elles concernent</s>
+        </p>
+        <p>
+          <s>des malades que j'ai étudiés cliniquement au cours de mes leçons. Cette circon-</s>
+        </p>
+        <p>
+          <s>stance me met fort à l'aise pour présenter au public cette publication et la lui</s>
+        </p>
+        <p>
+          <s>recommander, car je puis sans réserve me porter garant du soin scrupuleux que les</s>
+        </p>
+        <p>
+          <s>auteurs y ont apporté.</s>
+        </p>
+        <p>
+          <s>Lorsque j'ai sous les yeux les planches de ce beau livre, je ne puis m'empêcher</s>
+        </p>
+        <p>
+          <s>de me remettre en mémoire ce que je disais il y a presque vingt ans à propos de</s>
+        </p>
+        <p>
+          <s>l'influence de l'intervention de l'anatomie pathologique dans les choses de la</s>
+        </p>
+        <p>
+          <s>clinique, en matière de pathologie spinale. Qu'on me permette de le reproduire ici.</s>
+        </p>
+        <p>
+          <s>« L'étude de la moelle épinière à l'aide du grossissement, disais-je, a seule le pouvoir</s>
+        </p>
+        <p>
+          <s>de combler les desiderata que nous venons de signaler, à propos de l'anatomie</s>
+        </p>
+        <p>
+          <s>à l'oeil nu. Ses procédés d'ailleurs sont applicables à divers points de vue. Elle</s>
+        </p>
+        <p>
+          <s>peut, en premier lieu, se proposer de remonter jusqu'aux éléments anatomiques</s>
+        </p>
+        <p>
+          <s>eux-mêmes et chercher les modifications qu'ils subissent aux diverses phases de</s>
+        </p>
+        <p>
+          <s>l'évolution du processus morbide. On peut encore diriger à un autre point de vue</s>
+        </p>
+        <p>
+          <s>l'étude de la moelle faite a l'aide des Grossissements. Il existe en effet une sorte</s>
+        </p>
+        <p>
+          <s>d'anatomie topographique microscopique dont l'objet est d'examiner les parties</s>
+        </p>
+        <p>
+          <s>dans leurs rapports naturels, sans destruction, sans dilacération. Il s'agit alors</s>
+        </p>
+        <p>
+          <s>principalement de reconnaître d'une façon exacte, dans les faisceaux blancs</s>
+        </p>
+        <p>
+          <s>ou dans les divers départements de la substance grise, quelle est l'étendue, la confi-</s>
+        </p>
+        <p>
+          <s>guration, la répartition des altérations, de suivre leur mode d'extension lorsque,</s>
+        </p>
+        <p>
+          <s>VI PRÉFACE DE M. LE PROFESSEUR CHARCOT.</s>
+        </p>
+        <p>
+          <s>débordant au delà de leur foyer primitif, elles se propagent aux régions voisines ou</s>
+        </p>
+        <p>
+          <s>se communiquent même à des régions éloignées. »</s>
+        </p>
+        <p>
+          <s>« On doit, si je ne me trompe, à ce mode d'investigation une bonne partie des</s>
+        </p>
+        <p>
+          <s>progrès récemment accomplis dans l'histoire, longtemps presque inextricable, des</s>
+        </p>
+        <p>
+          <s>maladies spinales chroniques. Ce résultat était d'ailleurs facile à prévoir. L'expéri-</s>
+        </p>
+        <p>
+          <s>mentation sur l'animal, malgré ses procédés comparativement grossiers, avait suffi</s>
+        </p>
+        <p>
+          <s>cependant pour mettre hors de doute que, dans ce cordon mince qu'on appelle la</s>
+        </p>
+        <p>
+          <s>moelle épinière, il n'existe, pour ne parler que des faisceaux blancs, plusieurs régions</s>
+        </p>
+        <p>
+          <s>répondant en quelque sorte à autant d'organes dont les fonctions, malgré l'analogie</s>
+        </p>
+        <p>
+          <s>de composition, sont tout à fait distinctes. Dans la substance grise elle-même il y a</s>
+        </p>
+        <p>
+          <s>lieu, vous le savez, d'établir à ce point de vue un certain nombre de circonscriptions</s>
+        </p>
+        <p>
+          <s>plus ou moins nettement séparées. »</s>
+        </p>
+        <p>
+          <s>« La pathologie à son tour était venue confirmer d'une manière générale ces</s>
+        </p>
+        <p>
+          <s>données, en montrant qu'une lésion limitée à tel ou tel de ces départements se</s>
+        </p>
+        <p>
+          <s>traduit chaque fois par un ensemble particulier de symptômes; mais elle devait</s>
+        </p>
+        <p>
+          <s>encore de nos jours, avec l'aide de nouveaux moyens d'étude anatomique, aller</s>
+        </p>
+        <p>
+          <s>plus loin, devancer sur plusieurs points l'expérimentation. »</s>
+        </p>
+        <p>
+          <s>« Celle-ci en effet, même entre les mains de l'opérateur le plus habile, pourra-t-elle</s>
+        </p>
+        <p>
+          <s>jamais, dans un organe aussi délicat que l'est la moelle, déterminer des lésions</s>
+        </p>
+        <p>
+          <s>exclusivement bornées, par exemple, à certains groupes de cellules nerveuses, à cer-</s>
+        </p>
+        <p>
+          <s>tains faisceaux de fibres. Il est permis d'en douter. La maladie au contraire produit</s>
+        </p>
+        <p>
+          <s>journellement de telles lésions, et l'anatomie topographique de la moelle nous les</s>
+        </p>
+        <p>
+          <s>fait reconnaître avec la plus grande précision; elle nous permet de constater quel</s>
+        </p>
+        <p>
+          <s>groupe de cellules, quels faisceaux de fibres nerveux ont été irrités, atrophiés ou</s>
+        </p>
+        <p>
+          <s>détruits. Mettez en présence d'une anatomie aussi délicate des observations recueil-</s>
+        </p>
+        <p>
+          <s>lies avec soin, où l'analyse des symptômes se montrera d'autant plus complète,</s>
+        </p>
+        <p>
+          <s>d'autant plus profitable qu'elle aura été faite à la lumière des connaissances anato-</s>
+        </p>
+        <p>
+          <s>miques ou physiologiques préalables, et vous aurez entre les mains les conditions</s>
+        </p>
+        <p>
+          <s>d'une expérience s'opérant, si l'on peut ainsi dire, spontanément et s'opérant sur</s>
+        </p>
+        <p>
+          <s>l'homme, ce qui, dans l'espèce, est un avantage inestimable (1). »</s>
+        </p>
+        <p>
+          <s>Ailleurs, je disais encore en parlant des travaux récents à l'époque, relatifs à</s>
+        </p>
+        <p>
+          <s>l'anatomie morbide des centres nerveux : « Tous semblent en quelque sorte dominés</s>
+        </p>
+        <p>
+          <s>par ce qu'on pourrait appeler l'esprit de localisation, lequel n'est en somme qu'une</s>
+        </p>
+        <p>
+          <s>émanation de l'esprit d'analyse. L'idée de localiser n'est certainement pas chose</s>
+        </p>
+        <p>
+          <s>nouvelle en anatomie pathologique; elle est aussi vieille que cette science elle-même,</s>
+        </p>
+        <p>
+          <s>bien que Bichat l'ait, à la vérité, le premier formulée avec netteté en même temps</s>
+        </p>
+        <p>
+          <s>(1) Leçons sur les maladies du système ne)-veux, t. II, p. 6, 7. Paris, 1886.</s>
+        </p>
+        <p>
+          <s>PRÉFACE DE M. LE PROFESSEUR CH1RCOT. VII</s>
+        </p>
+        <p>
+          <s>qu'il en faisait ressortir toute la portée scientifique, mais peut-être jamais n'avait-elle</s>
+        </p>
+        <p>
+          <s>été poursuivie avec autant de vigueur et de logique. »</s>
+        </p>
+        <p>
+          <s>« Qu'entend-on en somme par ce terme : localiser ? En anatomie pathologique c'est :</s>
+        </p>
+        <p>
+          <s>déterminer dans les organes, dans les tissus, le siège, l'étendue, la configuration</s>
+        </p>
+        <p>
+          <s>des altérations matérielles et palpables; en physiologie pathologique, c'est, mettant</s>
+        </p>
+        <p>
+          <s>à profit les données de l'observation clinique et s'éclairant des données expérimen-</s>
+        </p>
+        <p>
+          <s>tales, établir les rapports entre les troubles fonctionnels constatés durant la vie</s>
+        </p>
+        <p>
+          <s>et les lésions révélées par l'autopsie.... »</s>
+        </p>
+        <p>
+          <s>« Ces deux points de vue doivent être l'objet d'une attention égale, car ce n'est pas</s>
+        </p>
+        <p>
+          <s>seulement l'anatomie pathologique contemplative, étudiant la lésion en elle-même</s>
+        </p>
+        <p>
+          <s>et pour elle-même que nous devons connaître, c'est l'anatomie pathologique mise</s>
+        </p>
+        <p>
+          <s>au service de la physiologie et de la clinique, appliquée en un mot à la solution de</s>
+        </p>
+        <p>
+          <s>tous les problèmes pathologiques qui sont de son ressort (1). »</s>
+        </p>
+        <p>
+          <s>Aujourd'hui que l'accord est fait unanimement sur ces questions, tout ce qui</s>
+        </p>
+        <p>
+          <s>précède pourra paraître un peu vieilli, un peu démodé. Cependant, toute réflexion</s>
+        </p>
+        <p>
+          <s>faite, si j'avais à reprendre le sujet, en tant qu'il s'agirait de signaler les principes et</s>
+        </p>
+        <p>
+          <s>la méthode, je ne verrais pas grand'chose à y changer; car en somme c'est bien</s>
+        </p>
+        <p>
+          <s>dans cet esprit-là qu'ont été conduits tous les travaux qui, au cours de ces dernières</s>
+        </p>
+        <p>
+          <s>années, dans la géographie de la moelle épinière, ont singulièrement rétréci l'aire</s>
+        </p>
+        <p>
+          <s>des terres inconnues.</s>
+        </p>
+        <p>
+          <s>Les anciens faisceaux postérieurs, par l'étude des lésions systématiques, avaient</s>
+        </p>
+        <p>
+          <s>été décomposés déjà en deux régions distinctes : les faisceaux de Goll et les zones</s>
+        </p>
+        <p>
+          <s>radiculaires postérieures; les faisceaux antéro-latéraux des auteurs avaient été à</s>
+        </p>
+        <p>
+          <s>leur tour divisés en trois régions : faisceaux pyramidaux, faisceaux de Turck, zones</s>
+        </p>
+        <p>
+          <s>radiculaires antérieures; aujourd'hui, pour ne parler que de la substance blanche,</s>
+        </p>
+        <p>
+          <s>nous aurions à énumérer en plus bien d'autres découvertes, à savoir : les faisceaux</s>
+        </p>
+        <p>
+          <s>de Gowers, les zones de Lissauer, les zones marginales antéro-externe et postéro-</s>
+        </p>
+        <p>
+          <s>externe de Westphal, le centre ovale de Flechsig, etc., etc. Et cette multiplication</s>
+        </p>
+        <p>
+          <s>des zones, des faisceaux, des régions plus ou moins autonomes qu'on vient de</s>
+        </p>
+        <p>
+          <s>dénommer n'est pas, tant s'en faut, l'expression d'un vain morcellement sans portée</s>
+        </p>
+        <p>
+          <s>pratique ; à chacune de ces acquisitions nouvelles correspond en effet un .perfec-</s>
+        </p>
+        <p>
+          <s>tionnement nouveau dans le domaine de la clinique. Et ainsi se trouve, une fois de</s>
+        </p>
+        <p>
+          <s>plus, démontrée d'une manière éclatante l'heureuse influence des recherches</s>
+        </p>
+        <p>
+          <s>anatomiques intimement associées aux études cliniques sur le développement de la</s>
+        </p>
+        <p>
+          <s>pathologie des centres nerveux.</s>
+        </p>
+        <p>
+          <s>(1) Leçons sur les localisations dans les maladies du cerveau et de la moelle épinière. 1887, p. 183.</s>
+        </p>
+        <p>
+          <s>VIII PRÉFACE DE M. LE PROFESSEUR CHARCOT.</s>
+        </p>
+        <p>
+          <s>Les planches de l'Atlas publié par MM. Blocq et Londe présentent la série à peu</s>
+        </p>
+        <p>
+          <s>près complète des myélopathies organiques actuellement connues.</s>
+        </p>
+        <p>
+          <s>La perfection des procédés photographiques, mis en oeuvre par M. Londe</s>
+        </p>
+        <p>
+          <s>pour reproduire la réalité, fait de chacune de ces planches autant de documents</s>
+        </p>
+        <p>
+          <s>sincères et de bon aloi que la recherche scientifique pourra mettre à profit. D'un</s>
+        </p>
+        <p>
+          <s>autre côté, le médecin praticien qui fréquemment entend parler de ces lésions, mais</s>
+        </p>
+        <p>
+          <s>n'a pas souvent l'occasion de les constater par lui-même, pourra les y étudier à</s>
+        </p>
+        <p>
+          <s>loisir et les y contempler telles ou à peu près telles qu'elles sont dans la nature.</s>
+        </p>
+        <p>
+          <s>J.-M. CHARCOT,</s>
+        </p>
+        <p>
+          <s>de l'Institut.</s>
+        </p>
+        <p>
+          <s>5 mai 1891.</s>
+        </p>
+        <p>
+          <s>INTRODUCTION</s>
+        </p>
+        <p>
+          <s>Placés par la confiance de notre maître, M. le professeur Charcot, à la tête des services</s>
+        </p>
+        <p>
+          <s>anatomique et photographique dépendants de l'incomparable clinique des maladies</s>
+        </p>
+        <p>
+          <s>nerveuses de la Salpêtrière, il nous a élé donné depuis cinq ans de recueillir sur diverses</s>
+        </p>
+        <p>
+          <s>affeclions du système nerveux, et de la moelle épinière en particulier, des documents</s>
+        </p>
+        <p>
+          <s>anatomiques assez complets.</s>
+        </p>
+        <p>
+          <s>Aussi avons-nous pensé que ce serait faire oeuvre utile que d'en vulgariser la connais-</s>
+        </p>
+        <p>
+          <s>sance. Les nouveaux procédés de la technique histologique d'une pari, les perfectionne-</s>
+        </p>
+        <p>
+          <s>ments apportés dans l'art photographique d'autre part, nous avaient permis de faire</s>
+        </p>
+        <p>
+          <s>des essais de reproduction qui paraissaient suffisants pour mener à bien celle entre-</s>
+        </p>
+        <p>
+          <s>prise (1).</s>
+        </p>
+        <p>
+          <s>On n'ignore pas enfin que les recherches relatives tout au moins à la topographie</s>
+        </p>
+        <p>
+          <s>anatomo-pathologique de la moelle épinière, sinon à l'histologie fine des lésions de cet</s>
+        </p>
+        <p>
+          <s>organe, ont abouti à des résultats considérables dans l'état actuel de la science.</s>
+        </p>
+        <p>
+          <s>L'atlas que nous publions nous semble destiné à mettre en lumière ces résultats</s>
+        </p>
+        <p>
+          <s>anatomo-pathologiques, comme aussi à en faciliter l'étude. Point n'est besoin d'insister</s>
+        </p>
+        <p>
+          <s>longuement sur l'intérêt que présente un travail du genre de celui que nous produisons,</s>
+        </p>
+        <p>
+          <s>car il est évident que le médecin aussi bien que l'étudiant tirera plus de profit de la</s>
+        </p>
+        <p>
+          <s>lecture des traités de pathologie, quand il aura eu sous les yeux l'image exacte des</s>
+        </p>
+        <p>
+          <s>lésions répondant à leurs descriptions.</s>
+        </p>
+        <p>
+          <s>La presque totalité des pièces qui ont fourni nos préparations a été recueillie par</s>
+        </p>
+        <p>
+          <s>nous dans le service de M. Charcot. Quelques-unes provenant de la même clinique nous</s>
+        </p>
+        <p>
+          <s>(1) Nous devons dire qu'un grand nombre de nos préparations n'ayant pas été faites en vue de la reproduc-</s>
+        </p>
+        <p>
+          <s>tion photographique ne nous ont pas fourni des images aussi nettes que les autres.</s>
+        </p>
+        <p>
+          <s>x</s>
+        </p>
+        <p>
+          <s>INTRODUCTION.</s>
+        </p>
+        <p>
+          <s>ont été obligeamment confiées par MM. Marie et Huet; nous en devons plusieurs autres</s>
+        </p>
+        <p>
+          <s>à nos amis Achard et Marinesco. Enfin nous avons reproduit certaines coupes emprun-</s>
+        </p>
+        <p>
+          <s>tées à la collection léguée au musée de la Salpêtrière par le regretté professeur</s>
+        </p>
+        <p>
+          <s>Damaschino.</s>
+        </p>
+        <p>
+          <s>Nous n'avons pas joint aux planches un long texte explicatif, mais seulement les</s>
+        </p>
+        <p>
+          <s>indications sommaires relatives à la nature des lésions, à leur distribution, à la région</s>
+        </p>
+        <p>
+          <s>de la moelle qu'elles occupent ; enfin, lorsque cela présentait quelque intérêt, nous avons</s>
+        </p>
+        <p>
+          <s>ajouté en peu de lignes des renseignements sur l'origine de la pièce. De plus des schémas</s>
+        </p>
+        <p>
+          <s>explicatifs que nous avons joints au texte, sur les conseils de M. Charcot, faciliteront</s>
+        </p>
+        <p>
+          <s>encore la lecture des figures.</s>
+        </p>
+        <p>
+          <s>Nos planches sont rangées dans l'ordre suivant :</s>
+        </p>
+        <p>
+          <s>INTRODUCTION. XI</s>
+        </p>
+        <p>
+          <s>planches quelques imperfections, plutôt que d'altérer le caractère d'absolue sincérité</s>
+        </p>
+        <p>
+          <s>qui constitue, en somme, leur principale valeur scientifique.</s>
+        </p>
+        <p>
+          <s>Les planches sont en effet la reproduction, à l'aide de la photogravure, des photogra-</s>
+        </p>
+        <p>
+          <s>phies de nos préparations histologiques. Pour obtenir les clichés photographiques, nous</s>
+        </p>
+        <p>
+          <s>nous sommes arrêtés, après de nombreux essais, à deux dispositifs différents, l'un pour</s>
+        </p>
+        <p>
+          <s>obtenir les faibles grossissements et l'autre les forts. -</s>
+        </p>
+        <p>
+          <s>Pour les faibles grossissements, nous nous sommes servis du microscope à projection</s>
+        </p>
+        <p>
+          <s>de J. Duboscq, qui nous permettait d'éclairer fortement la préparation et d'interposer</s>
+        </p>
+        <p>
+          <s>avec facilité des liquides colorés. L'image, reçue par un 00 de Vérick, était projetée sur</s>
+        </p>
+        <p>
+          <s>la surface sensible placée dans une chambre photographique horizontale. L'objectif a</s>
+        </p>
+        <p>
+          <s>été disposé pour recevoir divers diaphragmes plus ou moins réduits suivant les cas.</s>
+        </p>
+        <p>
+          <s>Pour les forts grossissements, nous avons supprimé le porte-objet, le porte-objectif de</s>
+        </p>
+        <p>
+          <s>l'appareil de Duboscq, ne gardant, par conséquent, que le condensateur. En avant de</s>
+        </p>
+        <p>
+          <s>celui-ci nous avons placé, dans la position horizontale, un microscope de Beck, dont la</s>
+        </p>
+        <p>
+          <s>platine tournante et à double mouvement nous permettait d'explorer avec facilité la</s>
+        </p>
+        <p>
+          <s>préparation (1). Les objectifs employés ont été le 4, le 7 et le 8 de Vérick suivant les</s>
+        </p>
+        <p>
+          <s>cas. L'image était reçue dans la même chambre photographique qui était réunie au tube</s>
+        </p>
+        <p>
+          <s>du microscope au moyen d'une enveloppe souple imperméable à la lumière. En aucun</s>
+        </p>
+        <p>
+          <s>cas nous n'avons employé l'oculaire. La source de lumière qui a servi a été la lumière</s>
+        </p>
+        <p>
+          <s>oxhydrique traversant, suivant les hypothèses, une solution bleue ou jaune. Nous nous</s>
+        </p>
+        <p>
+          <s>sommes servis avec avantage, en général, des plaques au gélatino-bromure (marque as</s>
+        </p>
+        <p>
+          <s>de trèfle), et pour certaines préparations dans lesquelles le jaune ou le rouge dominaient,</s>
+        </p>
+        <p>
+          <s>t</s>
+        </p>
+        <p>
+          <s>des plaques isochromatiques (Monckhoven) plus sensibles à ces rayons. Les temps de</s>
+        </p>
+        <p>
+          <s>pose ont été très variables depuis une fraction de seconde jusqu'à vingt minutes et plus</s>
+        </p>
+        <p>
+          <s>quelquefois. Tous les développements ont été effectués à l'acide pyrogallique par la</s>
+        </p>
+        <p>
+          <s>méthode imaginée par l'un de nous.</s>
+        </p>
+        <p>
+          <s>Nous tenons, en terminant, il adresser nos sincères remerciements il M. G. Masson</s>
+        </p>
+        <p>
+          <s>pour le soin qu'il a mis à parfaire cette édition, et à témoigner notre vive gratitude à</s>
+        </p>
+        <p>
+          <s>MM. Lumière et fils, de Lyon, qui ont exécuté nos photogravures avec autant d'empres-</s>
+        </p>
+        <p>
+          <s>sement que de talent.</s>
+        </p>
+        <p>
+          <s>Paul BLOCQ. ALBERT LONDE.</s>
+        </p>
+        <p>
+          <s>(1) Le microscope de Beck qui nous a servi pour l'exécution de ce travail nous a été obligeamment prêté par</s>
+        </p>
+        <p>
+          <s>M. le baron Boucheporn et nous lui adressons à cette occasion nos plus sincères remerciements.</s>
+        </p>
+        <p>
+          <s>COUPE SCHÉMATIQUE DE LA MOELLE NORMALE</s>
+        </p>
+        <p>
+          <s>Le schéma que nous représentons ci-dessous (schéma 1) a été dessiné sur nos indica-</s>
+        </p>
+        <p>
+          <s>tions par M. Paul Richer. Il résume la division des faisceaux blancs et des parties</s>
+        </p>
+        <p>
+          <s>différenciées de la substance grise de la moelle.</s>
+        </p>
+        <p>
+          <s>Nous avons pensé qu'il serait commode, pour faciliter l'interprétation des planches, d'y</s>
+        </p>
+        <p>
+          <s>joindre des schémas semblables sur lesquels les lésions seraient indiquées par des parties</s>
+        </p>
+        <p>
+          <s>teintées correspondant aux altérations.</s>
+        </p>
+        <p>
+          <s>Schéma 1.</s>
+        </p>
+        <p>
+          <s>EXPLICATION DU SCHEMA</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure de substance grise.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure de substance grise.</s>
+        </p>
+        <p>
+          <s>B'. Substance gélatineuse de Rolando.</s>
+        </p>
+        <p>
+          <s>C. Col de la corne postérieure.</s>
+        </p>
+        <p>
+          <s>D. Cellules de la colonne de Clarke.</s>
+        </p>
+        <p>
+          <s>E. Veines profondes de la moelle.</s>
+        </p>
+        <p>
+          <s>F. Groupe antéro-interne des cellules ganglion-</s>
+        </p>
+        <p>
+          <s>naires de la corde antérieure.</s>
+        </p>
+        <p>
+          <s>G. Groupe antérieur des cellules ganglionnaires de</s>
+        </p>
+        <p>
+          <s>la corne antérieure.</s>
+        </p>
+        <p>
+          <s>H. Groupe antéro-externe des cellules ganglion-</s>
+        </p>
+        <p>
+          <s>naires de la corne antérieure.</s>
+        </p>
+        <p>
+          <s>I. Canal central.</s>
+        </p>
+        <p>
+          <s>J. Racines antérieures.</s>
+        </p>
+        <p>
+          <s>K. Racines postérieures.</s>
+        </p>
+        <p>
+          <s>L. Commissure antérieure (blanche).</s>
+        </p>
+        <p>
+          <s>M. Commissure postérieure (grise).</s>
+        </p>
+        <p>
+          <s>N. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>0. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>P. Faisceau de Tii1'li, ou pyramidal direct.</s>
+        </p>
+        <p>
+          <s>Q. Faisceau antéro-latéral fondamental.</s>
+        </p>
+        <p>
+          <s>R. Faisceau de Gowers.</s>
+        </p>
+        <p>
+          <s>S. Faisceau cérébelleux direct.</s>
+        </p>
+        <p>
+          <s>T. Faisceau pyramidal croisé.</s>
+        </p>
+        <p>
+          <s>U. Zone marginale externe, ou faisceau profond du</s>
+        </p>
+        <p>
+          <s>cordon latéral.</s>
+        </p>
+        <p>
+          <s>V. Zone externe de LissallC1',</s>
+        </p>
+        <p>
+          <s>W. Zone interne de Lissauc1',</s>
+        </p>
+        <p>
+          <s>X. Zone marginale antéro-externe de Wcstphal.</s>
+        </p>
+        <p>
+          <s>X'. Zone marginale postéro-externe de Westplrol.</s>
+        </p>
+        <p>
+          <s>Y. Faisceau de Burdach, ou zone radiculaire du</s>
+        </p>
+        <p>
+          <s>faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>Z. Faisceau de Goll, ou cordon grèle.</s>
+        </p>
+        <p>
+          <s>Z'. Centre ovale de Flechsig.</s>
+        </p>
+        <p>
+          <s>PLANCHE I</s>
+        </p>
+        <p>
+          <s>FIGURE 1.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE. RÉGION cervicale supérieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale supérieure à / millimètre au-dessous de l'ent1'8-cl'oisement</s>
+        </p>
+        <p>
+          <s>des pyramides, et colorée par la méthode de Pull.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>D. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>E. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>H. Canal central.</s>
+        </p>
+        <p>
+          <s>1. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>J. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>IC. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>Figure 2.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE. Cellules ganglionnaires de la substance grise de la corne antérieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par le picro-carmin.</s>
+        </p>
+        <p>
+          <s>Les cellules vues un fort grossissement (obj. 4, Vérick) appartiennent au groupe</s>
+        </p>
+        <p>
+          <s>antéro-externe.</s>
+        </p>
+        <p>
+          <s>A. Cellule multipolaire.</s>
+        </p>
+        <p>
+          <s>B. Noyau d'une autre cellule.</s>
+        </p>
+        <p>
+          <s>C. Nucléole.</s>
+        </p>
+        <p>
+          <s>D. Prolongement ramifié.</s>
+        </p>
+        <p>
+          <s>E. Prolongement de Deiters non ramifié.</s>
+        </p>
+        <p>
+          <s>E'. Prolongement de Deiters d'une autre cellule.</s>
+        </p>
+        <p>
+          <s>F. Réseau fibrillaire de la région.</s>
+        </p>
+        <p>
+          <s>G. Coupe transversale d'un tube nerveux.</s>
+        </p>
+        <p>
+          <s>H. Coupe longitudinale d'un tube nerveux.</s>
+        </p>
+        <p>
+          <s>L Espace vacuolaire péri-cellulaire.</s>
+        </p>
+        <p>
+          <s>PLANCHE II</s>
+        </p>
+        <p>
+          <s>Figure 3.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE. Renflement cervical.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région du renflement cervical, et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racines antérieures.</s>
+        </p>
+        <p>
+          <s>D. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>E. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Faisceau postérieur (zone radiculaire).</s>
+        </p>
+        <p>
+          <s>H. Cordon de Coll.</s>
+        </p>
+        <p>
+          <s>I. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>J. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>K. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>L. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>Figure 4.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE. Canal central.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale supérieure, et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>Le canal central et ses cellules y sont vues à un fort grossissement (obj. 4, Vérick).</s>
+        </p>
+        <p>
+          <s>A. Cavité du canal. D. Substance grise entourant le canal.</s>
+        </p>
+        <p>
+          <s>B. Cellule cylindrique revêtant la paroi du canal. E. Tubes nerveux de la commissure antérieure.</s>
+        </p>
+        <p>
+          <s>C. Plateau des cellules. F. Vaisseau.</s>
+        </p>
+        <p>
+          <s>PLANCHE III</s>
+        </p>
+        <p>
+          <s>FIGURE 5.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE. Région dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale moyenne et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>D. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>E. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>II. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>I. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>J. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>Figure 6.</s>
+        </p>
+        <p>
+          <s>Portion du faisceau latéral de la coupe précédente, vue à un fort grossissement</s>
+        </p>
+        <p>
+          <s>(obj. 4, Vérick).</s>
+        </p>
+        <p>
+          <s>A-A. Tubes nerveux coupés transversalement.</s>
+        </p>
+        <p>
+          <s>B. Gaine de myéline colorée en noir.</s>
+        </p>
+        <p>
+          <s>C. Cylindre axe.</s>
+        </p>
+        <p>
+          <s>D. Cloison secondaire.</s>
+        </p>
+        <p>
+          <s>E. Cloison pie-mérienne contenant un vaisseau.</s>
+        </p>
+        <p>
+          <s>F. Tissu névrotique.</s>
+        </p>
+        <p>
+          <s>PLANCHE IV</s>
+        </p>
+        <p>
+          <s>Figure 7.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE. Région lombaire supérieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire supérieure et colorée par la méthode de Pali,</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>7J. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>I. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>J. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>Figure 8.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE.  Corne postérieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La corne postérieure est vue au grossissement de l'obj. 2, Vérick.</s>
+        </p>
+        <p>
+          <s>A. Col de la corne.</s>
+        </p>
+        <p>
+          <s>B. Réseau fibrillaire.</s>
+        </p>
+        <p>
+          <s>C. Substance gélatineuse de Rolando.</s>
+        </p>
+        <p>
+          <s>D. Fibres nerveuses se rendant dans la colonne de</s>
+        </p>
+        <p>
+          <s>Clarke.</s>
+        </p>
+        <p>
+          <s>E. Entrée directe de fibres nerveuses dans la corne.</s>
+        </p>
+        <p>
+          <s>F. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>G. Coupe transversale des tubes nerveux de la</s>
+        </p>
+        <p>
+          <s>substance blanche coiiiiguë.</s>
+        </p>
+        <p>
+          <s>PLANCHE V</s>
+        </p>
+        <p>
+          <s>Figure 9.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE. Renflement lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région du renflement lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Cordon antérieur.</s>
+        </p>
+        <p>
+          <s>D. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>E. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>F. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>II. Canal central.</s>
+        </p>
+        <p>
+          <s>1. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>J. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>Jt. Cellule de la corne antérieure.</s>
+        </p>
+        <p>
+          <s>Figure 10.</s>
+        </p>
+        <p>
+          <s>MOELLE NORMALE. Cellules nerveuses de la colonne de Clarke.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par le picro-carmin.</s>
+        </p>
+        <p>
+          <s>Les cellules sont vues à un fort grossissement (obj. 4, Vérick). En comparant à la</s>
+        </p>
+        <p>
+          <s>figure 2, qui représente les cellules des cornes antérieures de la même moelle, préparées</s>
+        </p>
+        <p>
+          <s>par le même procédé, et observées au même grossissement, on jugera de leurs</s>
+        </p>
+        <p>
+          <s>différences.</s>
+        </p>
+        <p>
+          <s>A-A-A. Cellules ovoïdes.</s>
+        </p>
+        <p>
+          <s>B. Noyau.</s>
+        </p>
+        <p>
+          <s>C. Nucléole d'une autre de ces cellules.</s>
+        </p>
+        <p>
+          <s>D. Espace vacuolaire péri-cellulaire.</s>
+        </p>
+        <p>
+          <s>E. Réseau fibrillaire.</s>
+        </p>
+        <p>
+          <s>Toutes nos préparations de moelle normale, planches 1,11,111, IV,V, proviennent de)a même moelle.</s>
+        </p>
+        <p>
+          <s>La pièce a été recueillie sur une femme de quarante-sept ans ayant succombé à l'infirmerie de la</s>
+        </p>
+        <p>
+          <s>Salpêtrière des suites d'une pneumonie, sans avoir présenté pendant sa vie aucun symptôme d'une</s>
+        </p>
+        <p>
+          <s>affection spinale. C'est par le même procédé de durcissement et de coloration qu'ont été obtenues</s>
+        </p>
+        <p>
+          <s>les préparations des diverses régions : les figures sont également faites à un grossissement</s>
+        </p>
+        <p>
+          <s>identique.</s>
+        </p>
+        <p>
+          <s>PLANCHE VI</s>
+        </p>
+        <p>
+          <s>Figure 1' .</s>
+        </p>
+        <p>
+          <s>MOELLE D'AMPUTÉ. - Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale inférieure et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>On y voit l'asymétrie des deux moitiés de la moelle, le segment droit étant plus petit</s>
+        </p>
+        <p>
+          <s>que le gauche, et la déformation de la corne antérieure droite par rapport il sa symétrique.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure droite.</s>
+        </p>
+        <p>
+          <s>A'. Corne antérieure gauche.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure droite.</s>
+        </p>
+        <p>
+          <s>B'. Corne postérieure gauche.</s>
+        </p>
+        <p>
+          <s>C. Commissure blanche.</s>
+        </p>
+        <p>
+          <s>D. Commissure grise.</s>
+        </p>
+        <p>
+          <s>E. Cordon de Goll.</s>
+        </p>
+        <p>
+          <s>F. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>G. Racine antérieure.</s>
+        </p>
+        <p>
+          <s>II. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>/. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>J. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>Figure 12.</s>
+        </p>
+        <p>
+          <s>MOELLE D'AMPUTÉ. - CELLULES de la corne antérieure de substance grise atrophiée.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale inférieure et colorée par le picro-carmin.</s>
+        </p>
+        <p>
+          <s>A-A. Cellules restées normales.</s>
+        </p>
+        <p>
+          <s>-R-B. Cellules atrophiées.</s>
+        </p>
+        <p>
+          <s>C. Coupe transversale de tubes nerveux.</s>
+        </p>
+        <p>
+          <s>D. Coupe longitudinale de tubes nerveux.</s>
+        </p>
+        <p>
+          <s>E. Réseau fibrillaire.</s>
+        </p>
+        <p>
+          <s>Ces préparations proviennent d'un sujet ayant succombé - au cours d'une maladie aiguë  dix-</s>
+        </p>
+        <p>
+          <s>huit ans après avoir subi l'amputation du bras droit au tiers supérieur.</s>
+        </p>
+        <p>
+          <s>PLANCHE VII</s>
+        </p>
+        <p>
+          <s>FIGURE 13.</s>
+        </p>
+        <p>
+          <s>MYÉLITE AIGUË DIFFUSE. Région cEpvico-DORSALE.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervico-dorsale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La diffusion de l'inflammation très nette sur la figure est indiquée sur le schéma</s>
+        </p>
+        <p>
+          <s>par les parties teintées. Les lésions vasculaires se voient également, même à ce</s>
+        </p>
+        <p>
+          <s>faible grossissement.</s>
+        </p>
+        <p>
+          <s>=1. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>D. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>E. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Faisceau postérieur sain.</s>
+        </p>
+        <p>
+          <s>1-J. Zones enflammées des cor-</s>
+        </p>
+        <p>
+          <s>dons antérieurs.</s>
+        </p>
+        <p>
+          <s>K. Zone altérée du cordon posté-</s>
+        </p>
+        <p>
+          <s>rieur.</s>
+        </p>
+        <p>
+          <s>L. Zone altérée du cordon laté-</s>
+        </p>
+        <p>
+          <s>ral gauche.</s>
+        </p>
+        <p>
+          <s>M. Coupe longitudinale d'un</s>
+        </p>
+        <p>
+          <s>vaisseau altéré.</s>
+        </p>
+        <p>
+          <s>JV. Coupe transversale d'un vais-</s>
+        </p>
+        <p>
+          <s>seau altéré.</s>
+        </p>
+        <p>
+          <s>0. Zone peu lésée du cordon la-</s>
+        </p>
+        <p>
+          <s>téral droit.</s>
+        </p>
+        <p>
+          <s>Figure 14.</s>
+        </p>
+        <p>
+          <s>MYÉLITE DIFFUSE. Zone moyennement enflammée.</s>
+        </p>
+        <p>
+          <s>La figure représente un point du cordon latéral droit de la préparation de la figure</s>
+        </p>
+        <p>
+          <s>précédente, vue à un fort grossissement (ohj. 4, Vcrick).</s>
+        </p>
+        <p>
+          <s>A. Cavité d'un vaisseau enflammé.</s>
+        </p>
+        <p>
+          <s>B. Sa paroi.</s>
+        </p>
+        <p>
+          <s>C. Espace périvasculaire infiltré de leucocythes.</s>
+        </p>
+        <p>
+          <s>D-D-D-D. Coupes de vaisseau altérés.</s>
+        </p>
+        <p>
+          <s>7 : . Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>F. Tubes nerveux conservés.</s>
+        </p>
+        <p>
+          <s>G-G. Partie de la préparation très peu altérée.</s>
+        </p>
+        <p>
+          <s>Ces préparations proviennent de pièces qui nous ont été obligeamment confiées par notre ami</s>
+        </p>
+        <p>
+          <s>le Dr Achard. Elles ont fourni à cet auteur l'occasion d'un mémoire intitulé : Sur un cas de myélite</s>
+        </p>
+        <p>
+          <s>aiguë diffuse avec double névrite optique, publié dans les Archives de médecine expérimentale</s>
+        </p>
+        <p>
+          <s>el d'anatomie pathologique, 1.°r septembre 1889, n° 5, p. 6fHi.</s>
+        </p>
+        <p>
+          <s>PLANCHE VIII</s>
+        </p>
+        <p>
+          <s>Figure 15.</s>
+        </p>
+        <p>
+          <s>MYÉLITE DIFFUSE. Région dorsale inférieure.</s>
+        </p>
+        <p>
+          <s>- Coupe pratiquée dans la région dorsale inférieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Les lésions sont disséminées et atteignent leur summum d'intensité dans le cordon</s>
+        </p>
+        <p>
+          <s>postérieur gauche. Les altérations vasculaires sont remarquables dans le faisceau latéral</s>
+        </p>
+        <p>
+          <s>gauche.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Faisceau latéral droit un peu</s>
+        </p>
+        <p>
+          <s>altéré.</s>
+        </p>
+        <p>
+          <s>D. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>E. Canal central.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>JI, Racine postérieure.</s>
+        </p>
+        <p>
+          <s>1. Cordon antérieur sain.</s>
+        </p>
+        <p>
+          <s>/. Faisceau latéral altéré.</s>
+        </p>
+        <p>
+          <s>K. Coupe de vaisseau altéré.</s>
+        </p>
+        <p>
+          <s>L'. Faisceau postérieur sclérosé.</s>
+        </p>
+        <p>
+          <s>CI. Corne postérieure gauche</s>
+        </p>
+        <p>
+          <s>altérée.</s>
+        </p>
+        <p>
+          <s>Figure 16.</s>
+        </p>
+        <p>
+          <s>- MYÉLITE CAVITAIRE. Région cervicale inférieure. '</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale inférieure, et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Les lésions sont presque exclusivement cantonnées dans les cornes antérieures en des</s>
+        </p>
+        <p>
+          <s>zones presque symétriques.</s>
+        </p>
+        <p>
+          <s>A-A. Zones saines des cornes</s>
+        </p>
+        <p>
+          <s>antérieures.</s>
+        </p>
+        <p>
+          <s>B-B. Régions altérées.</s>
+        </p>
+        <p>
+          <s>C. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>D. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>E. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>F. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>G. Cordon latéral. ? Racine postérieure.</s>
+        </p>
+        <p>
+          <s>I. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>J. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>PLANCHE IX</s>
+        </p>
+        <p>
+          <s>Figure 17.</s>
+        </p>
+        <p>
+          <s>MYÉLITE CAVITAIRE. Région lombaire inférieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire supérieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Les lésions sont localisées dans la partie centrale de la substance grise des cornes</s>
+        </p>
+        <p>
+          <s>antérieures, et consistent en une inflammation diffuse avec désintégration et formation</s>
+        </p>
+        <p>
+          <s>d'une petite cavité.</s>
+        </p>
+        <p>
+          <s>ri. Région non altérée de la</s>
+        </p>
+        <p>
+          <s>corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Groupe de cellules ganglion-</s>
+        </p>
+        <p>
+          <s>naires respectées.</s>
+        </p>
+        <p>
+          <s>C. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>D. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>7. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>J. Racine antérieure.</s>
+        </p>
+        <p>
+          <s>K. Cavité pathologique de la</s>
+        </p>
+        <p>
+          <s>corne antérieure gauche.</s>
+        </p>
+        <p>
+          <s>L. Cavité pathologique de la</s>
+        </p>
+        <p>
+          <s>corne antérieure droite.</s>
+        </p>
+        <p>
+          <s>,Il. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>Figure 18.</s>
+        </p>
+        <p>
+          <s>MYÉLITE CAVITAIRE. -- Région lombaire supérieure.</s>
+        </p>
+        <p>
+          <s>La figure représente une partie de la corne antérieure gauche d'une préparation</s>
+        </p>
+        <p>
+          <s>analogue à celle de la figure précédente, colorée par le picro-carmin et vue à un grossis-</s>
+        </p>
+        <p>
+          <s>sement moyen (obj. 2, Vérick).</s>
+        </p>
+        <p>
+          <s>A ? 1.-fl. Cellules ganglionnaires indemnes.</s>
+        </p>
+        <p>
+          <s>B. Cellule altérée.</s>
+        </p>
+        <p>
+          <s>C.-C. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>D. Substance fibrillaire du tissu altéré.</s>
+        </p>
+        <p>
+          <s>E. Coupe de tubes nerveux sains.</s>
+        </p>
+        <p>
+          <s>Les pièces qui nous ont fourni ces préparations de myélite cavitaire (fig. 16, 4 et, 18) on[</s>
+        </p>
+        <p>
+          <s>recueillies sur une femme âgée de cinquante et un ans, malade pendant vingt-huit ans, ayant, soufferL</s>
+        </p>
+        <p>
+          <s>de paraplégie douloureuse amyotrophique, puis d'atrophie musculaire des membres supérieurs</s>
+        </p>
+        <p>
+          <s>(Marie Bes..., salle Rayer, n° 1, service de M. le pl' Charcot).</s>
+        </p>
+        <p>
+          <s>PLANCHE X</s>
+        </p>
+        <p>
+          <s>Figure 19.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE EN PLAQUES. Région cervicale lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale supérieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On voit une petite plaque de sclérose très prononcée dans la zone radiculaire posté-</s>
+        </p>
+        <p>
+          <s>rieure droite. Presque tout le cordon latéral gauche est envahi également, mais les</s>
+        </p>
+        <p>
+          <s>lésions y sont moins accentuées, elles existent plus faibles encore dans le cordon latéral</s>
+        </p>
+        <p>
+          <s>droit.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Partie saine du cordon anté-</s>
+        </p>
+        <p>
+          <s>ro-latéral.</s>
+        </p>
+        <p>
+          <s>D. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>II. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>I. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>J. Partie sclérosée du cordon la-</s>
+        </p>
+        <p>
+          <s>téral droit.</s>
+        </p>
+        <p>
+          <s>K. Partie sclérosée du cordon</s>
+        </p>
+        <p>
+          <s>antéro-latéral gauche.</s>
+        </p>
+        <p>
+          <s>L. Plaque de sclérose du cordon</s>
+        </p>
+        <p>
+          <s>latéral gauche.</s>
+        </p>
+        <p>
+          <s>M. Plaque de sclérose de la zone</s>
+        </p>
+        <p>
+          <s>radiculaire.</s>
+        </p>
+        <p>
+          <s>Figure 20.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE EN PLAQUES. Région cervicale.</s>
+        </p>
+        <p>
+          <s>La figure représente un point delà région peu sclérosée, du cordon latéral droit de la</s>
+        </p>
+        <p>
+          <s>préparation précédente colorée par la méthode de Pall. On y voit la persistance de</s>
+        </p>
+        <p>
+          <s>nombreux tubes nerveux indemnes dans le tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>A-A-A. Tissu scléreux.</s>
+        </p>
+        <p>
+          <s>B-B-B. Tubes nerveux indemnes.</s>
+        </p>
+        <p>
+          <s>C. Tube nerveux altéré, privé de sa myéline et ré-</s>
+        </p>
+        <p>
+          <s>duit au cylinder-axis.</s>
+        </p>
+        <p>
+          <s>D. Tube nerveux moins altéré</s>
+        </p>
+        <p>
+          <s>]. Vaisseau.</s>
+        </p>
+        <p>
+          <s>Ces pièces proviennent d'une malade, la nommée Guil..., dont il a été question dans les leçons</s>
+        </p>
+        <p>
+          <s>cliniques de M. le Pr Charcot</s>
+        </p>
+        <p>
+          <s>PLANCHE XI</s>
+        </p>
+        <p>
+          <s>Figure 21.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE EN PLAQUES. RÉGION cervico-dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervico-dorsale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La sclérose occupe la presque totalité de la coupe, la partie indemne de la moelle est</s>
+        </p>
+        <p>
+          <s>réduite à deux zones marginales latérales presque symétriques. On reconnaît encore,</s>
+        </p>
+        <p>
+          <s>mais peu distincte, la substance grise englobée dans la plaque scléreuse.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>n. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Canal central.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>II-II. Parties indemnes des cor-</s>
+        </p>
+        <p>
+          <s>dons antéro-latéraux.</s>
+        </p>
+        <p>
+          <s>1-I. Zones slérosées des mêmes</s>
+        </p>
+        <p>
+          <s>cordons.</s>
+        </p>
+        <p>
+          <s>J. Cordons postérieurs sclérosés.</s>
+        </p>
+        <p>
+          <s>Figure 22.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE EN PLAQUES. Région cervicale inférieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale inférieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On y voit la distribution très irrégulière des plaques de sclérose disséminées dans les</s>
+        </p>
+        <p>
+          <s>cordons postérieurs, la substance grise, et la plus grande partie du cordon antéco-laléral</s>
+        </p>
+        <p>
+          <s>gauche.</s>
+        </p>
+        <p>
+          <s>A. Partie indemne de la corne</s>
+        </p>
+        <p>
+          <s>antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure altérée.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Canal central.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Cordon antérieur normal.</s>
+        </p>
+        <p>
+          <s>H. Partie indemne du cordon</s>
+        </p>
+        <p>
+          <s>postérieur.</s>
+        </p>
+        <p>
+          <s>1. Cordon latéral droit indemne.</s>
+        </p>
+        <p>
+          <s>J. Zone altérée du cordon anté-</s>
+        </p>
+        <p>
+          <s>rieur gauche.</s>
+        </p>
+        <p>
+          <s>K. Sclérose latérale gauche.</s>
+        </p>
+        <p>
+          <s>L. Partie moins altérée de la</s>
+        </p>
+        <p>
+          <s>même plaque.</s>
+        </p>
+        <p>
+          <s>M. Zone sclérosée du faisceau</s>
+        </p>
+        <p>
+          <s>postérieur.</s>
+        </p>
+        <p>
+          <s>Ces deux préparations sont prises sur la même moelle provenant d'un autre sujet que celles qui</s>
+        </p>
+        <p>
+          <s>ont fourni la planche X. ,</s>
+        </p>
+        <p>
+          <s>PLANCHE XII</s>
+        </p>
+        <p>
+          <s>FIGURE 23.</s>
+        </p>
+        <p>
+          <s>. SCLÉROSE EN PLAQUES. Région cervicale inférieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale inférieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On voit des plaques de sclérose extrêmement étendues, occupant la moitié droite de</s>
+        </p>
+        <p>
+          <s>la moelle presque tout entière, et deux zones irrégulières dans la moitié gauche.</s>
+        </p>
+        <p>
+          <s>.iL Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Faisceau postérieur sain.</s>
+        </p>
+        <p>
+          <s>I. Zone respectée du faisceau</s>
+        </p>
+        <p>
+          <s>antéro-latéral droit.</s>
+        </p>
+        <p>
+          <s>J. Plaque sclérosée du faisceau</s>
+        </p>
+        <p>
+          <s>antérieur gauche.</s>
+        </p>
+        <p>
+          <s>K. Partie de la corne gauche en-</s>
+        </p>
+        <p>
+          <s>vahie par la plaque de sclérose.</s>
+        </p>
+        <p>
+          <s>L. Partie de cette plaque située</s>
+        </p>
+        <p>
+          <s>dans le faisceau lat. gauche.</s>
+        </p>
+        <p>
+          <s>M. Zone sclérosée du faisceau</s>
+        </p>
+        <p>
+          <s>postérieur.</s>
+        </p>
+        <p>
+          <s>N. Zone sclérosée du faisceau</s>
+        </p>
+        <p>
+          <s>latéral droit.</s>
+        </p>
+        <p>
+          <s>Figure 24.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE EN PLAQUES. Région cervicale.</s>
+        </p>
+        <p>
+          <s>La figure représente un point de la région très sclérosée du cordon latéral gauche de</s>
+        </p>
+        <p>
+          <s>la préparation précédente, colorée par la méthode de Pall. 11 n'existe guère que du tissu</s>
+        </p>
+        <p>
+          <s>de nouvelle formation, les tubes nerveux ont presque complètement disparu, sauf en</s>
+        </p>
+        <p>
+          <s>haut et à droite, partie moins altérée de la préparation.</s>
+        </p>
+        <p>
+          <s>A. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B-B. Région moins altérée où persistent un grand</s>
+        </p>
+        <p>
+          <s>nombre de tubes nerveux.</s>
+        </p>
+        <p>
+          <s>G'-C. Tubes nerveux, encore reconnaissables, dé-</s>
+        </p>
+        <p>
+          <s>pourvus de myéline.</s>
+        </p>
+        <p>
+          <s>D. Tube intact ayant persisté.</s>
+        </p>
+        <p>
+          <s>E. Vaisseau.</s>
+        </p>
+        <p>
+          <s>PLANCHE XIII</s>
+        </p>
+        <p>
+          <s>FIGURE 25.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE EN PLAQUES. RÉGION dorsale supérieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale supérieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Les plaques de sclérose sont disséminées dans presque toutes les régions de la moelle</s>
+        </p>
+        <p>
+          <s>qu'elles affectent avec une intensité variable plus marquée dans les cordons postérieurs.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure altérée.</s>
+        </p>
+        <p>
+          <s>A'. Corne antérieure indemne.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure altérée.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>fl. Racine antérieure.</s>
+        </p>
+        <p>
+          <s>I. Partie saine du cordon antéro-</s>
+        </p>
+        <p>
+          <s>latéral.</s>
+        </p>
+        <p>
+          <s>J. Partie saine du cordon posté-</s>
+        </p>
+        <p>
+          <s>rieur.</s>
+        </p>
+        <p>
+          <s>K. Zone saine du cordon antéro-</s>
+        </p>
+        <p>
+          <s>latéral droit.</s>
+        </p>
+        <p>
+          <s>L. Zone altérée du même cordon.</s>
+        </p>
+        <p>
+          <s>il/. Zone sclérosée du cordon pos-</s>
+        </p>
+        <p>
+          <s>térieur droit.</s>
+        </p>
+        <p>
+          <s>N. - Zone sclérosée du cordon</s>
+        </p>
+        <p>
+          <s>postérieur gauche.</s>
+        </p>
+        <p>
+          <s>0. Zone sclérosée du cordon an-</s>
+        </p>
+        <p>
+          <s>térieur gauche.</s>
+        </p>
+        <p>
+          <s>P. Zone sclérosée du cordon</s>
+        </p>
+        <p>
+          <s>latéral gauche.</s>
+        </p>
+        <p>
+          <s>FIGURE 26.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE EN PLAQUES. Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale (pièce provenant d'un autre sujet que la précédente) et</s>
+        </p>
+        <p>
+          <s>colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>Les altérations sont extrêmement intenses : seules les zones marginales et une partie</s>
+        </p>
+        <p>
+          <s>de la substance fondamenlale des cordons antéro-latéraux sont respectés par la lésion</s>
+        </p>
+        <p>
+          <s>qui de plus présente celte particularité d'être presque symétrique.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur très épaissi.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Cordon antérieur sain.</s>
+        </p>
+        <p>
+          <s>II. Cordon postérieur peu altéré.</s>
+        </p>
+        <p>
+          <s>I. Cordon latéral sain.</s>
+        </p>
+        <p>
+          <s>J. Zone très altérée du cordon</s>
+        </p>
+        <p>
+          <s>postérieur.</s>
+        </p>
+        <p>
+          <s>IC. Faisceau latéral gauche sclé-</s>
+        </p>
+        <p>
+          <s>rosé.</s>
+        </p>
+        <p>
+          <s>G-61. Partie sclérosée des cor-</s>
+        </p>
+        <p>
+          <s>dons antérieurs.</s>
+        </p>
+        <p>
+          <s>N. Zone sclérosée du faisceau</s>
+        </p>
+        <p>
+          <s>latéral gauche.</s>
+        </p>
+        <p>
+          <s>Les figures 23, 25 et 26 représentent des coupes de moelle empruntées chacune à des sujets</s>
+        </p>
+        <p>
+          <s>différents.</s>
+        </p>
+        <p>
+          <s>PLANCHE XIV</s>
+        </p>
+        <p>
+          <s>FIGURE 27.</s>
+        </p>
+        <p>
+          <s>LÉSION COMBINÉE. Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe 1"dtICLIÉB dans la région cervicale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Il s'agit d'une lésion des cornes antérieures combinée à une sclérose des cordons</s>
+        </p>
+        <p>
+          <s>postérieurs.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Cordon antéro-latéral.</s>
+        </p>
+        <p>
+          <s>I. Cordon antérieur.</s>
+        </p>
+        <p>
+          <s>J. Zone marginale peu altérée</s>
+        </p>
+        <p>
+          <s>du cordon postérieur.</s>
+        </p>
+        <p>
+          <s>A'. Zone sclérosée des cordons</s>
+        </p>
+        <p>
+          <s>postérieurs.</s>
+        </p>
+        <p>
+          <s>FIGURE 28.</s>
+        </p>
+        <p>
+          <s>LESION COMBINÉE. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>La figure représente à un plus fort grossissement (obj. 2, Vérick) la corne antérieure</s>
+        </p>
+        <p>
+          <s>d'une préparation analogue à la précédente et colorée par le picro-carmin. On y voit la</s>
+        </p>
+        <p>
+          <s>diminution de nombre et l'altération des cellules ganglionnaires.</s>
+        </p>
+        <p>
+          <s>A. Racines antérieures.</s>
+        </p>
+        <p>
+          <s>B. Commissure grise.</s>
+        </p>
+        <p>
+          <s>C-C. Tubes nerveux coupés transversalement de</s>
+        </p>
+        <p>
+          <s>la substance blanche avoisinante.</s>
+        </p>
+        <p>
+          <s>D. Cellule ganglionnaire restée saine.</s>
+        </p>
+        <p>
+          <s>E-E-E. Cellules ganglionnaires diversement alté-</s>
+        </p>
+        <p>
+          <s>rées.</s>
+        </p>
+        <p>
+          <s>PLANCHE XV</s>
+        </p>
+        <p>
+          <s>. Figure 29.</s>
+        </p>
+        <p>
+          <s>LÉSION COMBINÉE. Région dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale, et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La pièce appartient au même sujet que celle de la planche précédente, c'est-à-dire</s>
+        </p>
+        <p>
+          <s>qu'il existe de la sclérose postérieure et des altérations des cellules des cornes anté-</s>
+        </p>
+        <p>
+          <s>rieures.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure droite moins</s>
+        </p>
+        <p>
+          <s>altérée que</s>
+        </p>
+        <p>
+          <s>J. Corne antérieure gauche.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racines antérieures.</s>
+        </p>
+        <p>
+          <s>D. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>E. Canal central.</s>
+        </p>
+        <p>
+          <s>F. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>1. Cordon latéral.</s>
+        </p>
+        <p>
+          <s>E-Z. Cordons postérieurs sclé-</s>
+        </p>
+        <p>
+          <s>rosés.</s>
+        </p>
+        <p>
+          <s>FIGURE 30.</s>
+        </p>
+        <p>
+          <s>LÉSION COMBINÉE.  Cordons postérieurs.</s>
+        </p>
+        <p>
+          <s>La figure représente un point des cordons postérieurs sclérosés de la préparation pré-</s>
+        </p>
+        <p>
+          <s>cédente, vu à un fort grossissement (obj. 4). On y voit les tubes nerveux disséminés dans</s>
+        </p>
+        <p>
+          <s>un tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>A-A-A. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B. Tubes nerveux restés indemnes, coupés transver-</s>
+        </p>
+        <p>
+          <s>salement.</s>
+        </p>
+        <p>
+          <s>C. Tubes nerveux, coupés obliquement.</s>
+        </p>
+        <p>
+          <s>/). Vaisseau à paroi épaissie.</s>
+        </p>
+        <p>
+          <s>Les préparations qui ont fourni les planches XIV et XV proviennent de pièces qui nous ont été</s>
+        </p>
+        <p>
+          <s>obligeamment confiées par M. P. Marie. Elles se rapportent il la malade Sulz... qui est le sujet de</s>
+        </p>
+        <p>
+          <s>l'observation V, du mémoire intitulé : « Sur une forme particulière d'atrophie musculaire progressive</s>
+        </p>
+        <p>
+          <s>souvent familiale débutant par les pieds et les jamhes, et atteignant plus lard les mains », publié par</s>
+        </p>
+        <p>
+          <s>MM. Charcot et Marie dans la Revue de médecine (tome VI, février 1886, p. 114). Le compte rendu</s>
+        </p>
+        <p>
+          <s>de l'autopsie de cette malade est encore inédit.</s>
+        </p>
+        <p>
+          <s>PLANCHE XVI</s>
+        </p>
+        <p>
+          <s>Figure 31 .</s>
+        </p>
+        <p>
+          <s>SCLÉROSE COMBINÉE. - RÉGION dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La sclérose occupe les cordons postérieurs et la presque totalité des faisceaux anléro-</s>
+        </p>
+        <p>
+          <s>latéraux.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Racine antérieure.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>l. Zone de Westphal du cordon</s>
+        </p>
+        <p>
+          <s>postérieur indemne.</s>
+        </p>
+        <p>
+          <s>J. Partie saine du cordon latéral.</s>
+        </p>
+        <p>
+          <s>K. Partie saine du cordon anté-</s>
+        </p>
+        <p>
+          <s>rieur.</s>
+        </p>
+        <p>
+          <s>L. Faisceau de Gowers sclérosé.</s>
+        </p>
+        <p>
+          <s>if. Faisceau cérébelleux sclérosé.</s>
+        </p>
+        <p>
+          <s>N. Faisceau postérieur sclérosé.</s>
+        </p>
+        <p>
+          <s>0. Faisceau pyramidal sclérosé.</s>
+        </p>
+        <p>
+          <s>FIGURE 32.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE COMBINÉE. - Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La sclérose est cantonnée dans des zones analogues à celles de la préparation précé-</s>
+        </p>
+        <p>
+          <s>dente, mais y est plus limitée.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>A'. Cellules de la corne.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Canal central.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>Il. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>1. Faisceau antérieur respecté.</s>
+        </p>
+        <p>
+          <s>J. Faisceau de Gowers sclérosé.</s>
+        </p>
+        <p>
+          <s>K. Faisceau pyramidal sclérosé.</s>
+        </p>
+        <p>
+          <s>L. Faisceau postérieur sclérosé.</s>
+        </p>
+        <p>
+          <s>M. Zone de Westphal respectée.</s>
+        </p>
+        <p>
+          <s>Les deux préparations qui ont donné les figures de cette planche proviennent du même sujet.</s>
+        </p>
+        <p>
+          <s>PLANCHE XVII</s>
+        </p>
+        <p>
+          <s>- FIGURE 33.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE DESCENDANTE D'ORIGINE CÉRÉBRALE. - Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode au carmin.</s>
+        </p>
+        <p>
+          <s>On y voit la dégénération du faisceau pyramidal direct et du faisceau pyramidal croisé</s>
+        </p>
+        <p>
+          <s>correspondant. 1</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Cordon antérieur sain.</s>
+        </p>
+        <p>
+          <s>I. Faisceau postérieur sain.</s>
+        </p>
+        <p>
+          <s>J. Faisceau cérébelleux direct</s>
+        </p>
+        <p>
+          <s>sain.</s>
+        </p>
+        <p>
+          <s>K. Faisceau pyramidal croisé</s>
+        </p>
+        <p>
+          <s>dégénéré.</s>
+        </p>
+        <p>
+          <s>J. Faisceau pyramidal direct dé-</s>
+        </p>
+        <p>
+          <s>généré.</s>
+        </p>
+        <p>
+          <s>K'. Faisceau symétrique in-</s>
+        </p>
+        <p>
+          <s>demne.</s>
+        </p>
+        <p>
+          <s>FIGURE 34.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE DESCENDANTE D'ORIGINE CÉRÉBRALE. Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On voit la dégénération portant sur le faisceau pyramidal.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>I. Faisceau postérieur sain.</s>
+        </p>
+        <p>
+          <s>J. Faisceau cérébelleux direct</s>
+        </p>
+        <p>
+          <s>sain.</s>
+        </p>
+        <p>
+          <s>K. Faisceau pyramidal dégé-</s>
+        </p>
+        <p>
+          <s>nère.</s>
+        </p>
+        <p>
+          <s>K'. Faisceau symétrique in-</s>
+        </p>
+        <p>
+          <s>demne.</s>
+        </p>
+        <p>
+          <s>Les pièces qui ont fourni ces préparations proviennent d'un sujet atteint d'hémorrliagie cérébrale</s>
+        </p>
+        <p>
+          <s>avec hémiplégie et contracture secondaire, liée à la dégénération consécutive du faisceau pyra-</s>
+        </p>
+        <p>
+          <s>midal.</s>
+        </p>
+        <p>
+          <s>PLANCHE XVIII</s>
+        </p>
+        <p>
+          <s>Figure 35.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE DESCENDANTE DOUBLE D'ORIGINE CÉRÉBRALE. - Région</s>
+        </p>
+        <p>
+          <s>cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>La dégénération plus ancienne est très prononcée à gauche, où le faisceau pyramidal</s>
+        </p>
+        <p>
+          <s>croisé et le faisceau pyramidal direct sont très affectés; elle est à peine marquée sur le seul</s>
+        </p>
+        <p>
+          <s>faisceau pyramidal croisé droit.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Faisceau pyramidal croisé</s>
+        </p>
+        <p>
+          <s>gauche tout à fait dégénéré.</s>
+        </p>
+        <p>
+          <s>I. Faisceau pyramidal direct dé-</s>
+        </p>
+        <p>
+          <s>généré.</s>
+        </p>
+        <p>
+          <s>J. Faisceau pyramidal croisé</s>
+        </p>
+        <p>
+          <s>droit peu affecté.</s>
+        </p>
+        <p>
+          <s>Figure 36.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE DESCENDANTE. - Région cervicale.</s>
+        </p>
+        <p>
+          <s>La figure représente un point du faisceau pyramidal croisé gauche dégénéré, de la</s>
+        </p>
+        <p>
+          <s>préparation précédente, vu à un fort grossissement (obj. 4, Vérick). On y voit la dispa-</s>
+        </p>
+        <p>
+          <s>rition des tubes nerveux remplacés par du tissu de sclérose, ainsi que des lésions vascu-</s>
+        </p>
+        <p>
+          <s>laires.</s>
+        </p>
+        <p>
+          <s>A-A. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B. Corpuscule hyalin.</s>
+        </p>
+        <p>
+          <s>C. Tube nerveux peu altéré.</s>
+        </p>
+        <p>
+          <s>D-D. Tubes nerveux respectés.</s>
+        </p>
+        <p>
+          <s>E-E. Vaisseaux sclérosés.</s>
+        </p>
+        <p>
+          <s>PLANCHE XIX</s>
+        </p>
+        <p>
+          <s>FIGURE 37.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE DESCENDANTE DOUBLE D'ORIGINE CÉRÉBRALE. Région</s>
+        </p>
+        <p>
+          <s>dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>La dégénération plus ancienne est très prononcée à gauche, où le faisceau pyramidal</s>
+        </p>
+        <p>
+          <s>croisé et le faisceau pyramidal direct sont très affectés; elle est à peine marquée sur le</s>
+        </p>
+        <p>
+          <s>seul faisceau pyramidal croisé droit.</s>
+        </p>
+        <p>
+          <s>.ri. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>H. Faisceau de Turck droit dé-</s>
+        </p>
+        <p>
+          <s>généré.</s>
+        </p>
+        <p>
+          <s>I. Faisceau pyramidal gauche</s>
+        </p>
+        <p>
+          <s>dégénéré.</s>
+        </p>
+        <p>
+          <s>J. Faisceau pyramidal droit peu</s>
+        </p>
+        <p>
+          <s>atteint.</s>
+        </p>
+        <p>
+          <s>FIGURE 38.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE DESCENDANTE. Région dorsale.</s>
+        </p>
+        <p>
+          <s>La préparation montre un point du faisceau pyramidal gauche dégénéré, coupé longi-</s>
+        </p>
+        <p>
+          <s>tudinalement, coloré par le carmin, vu il un fort grossissement. On ne distingue guère</s>
+        </p>
+        <p>
+          <s>que du tissu fibrillaire disposé en faisceaux plus ou moins ondulés.</s>
+        </p>
+        <p>
+          <s>A-A. Faisceaux scléreux.</s>
+        </p>
+        <p>
+          <s>B-B. Tubes nerveux persistant.</s>
+        </p>
+        <p>
+          <s>C. Globules hyalins.</s>
+        </p>
+        <p>
+          <s>D. Vaisseaux.</s>
+        </p>
+        <p>
+          <s>Les préparations qui ont donné les figures des planches XVIII et XIX proviennent d'un sujet ayant</s>
+        </p>
+        <p>
+          <s>été atteintde foyers d'hémorrhagie cérébrale localisés successivement dans l'un et l'autre hémisphère,</s>
+        </p>
+        <p>
+          <s>et ayant entraîné de la dégénération secondaire. Au foyer le plus ancien (droit) correspond la</s>
+        </p>
+        <p>
+          <s>dégénération très accusée du faisceau pyramidal gauche.</s>
+        </p>
+        <p>
+          <s>PLANCHE XX</s>
+        </p>
+        <p>
+          <s>Figure 39.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE ASCENDANTE D'ORIGINE SPINALE. - Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>On voit la dégénération ascendante extrêmement intense sur les cordons de Goll, et à</s>
+        </p>
+        <p>
+          <s>peine marquée sur les faisceaux cérébelleux directs, et de Gowers.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Faisceau pyramidal intact.</s>
+        </p>
+        <p>
+          <s>I. Faisceau postérieur normal.</s>
+        </p>
+        <p>
+          <s>J. Cordon de Goll dégénéré.</s>
+        </p>
+        <p>
+          <s>IC. Faisceau cérébelleux direct</s>
+        </p>
+        <p>
+          <s>peu altéré.</s>
+        </p>
+        <p>
+          <s>FIGURE 40.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE DESCENDANTE D'ORIGINE SPINALE. Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>La dégénération occupe symétriquement les faisceaux pyramidaux croisés.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur. ? Racine antérieure.</s>
+        </p>
+        <p>
+          <s>/. Cordon postérieur indemne.</s>
+        </p>
+        <p>
+          <s>.1-J. Faisceaux pyramidaux dé-</s>
+        </p>
+        <p>
+          <s>générés.</s>
+        </p>
+        <p>
+          <s>IL Partie respectée du faisceau Il</s>
+        </p>
+        <p>
+          <s>anléro-latéral.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXI</s>
+        </p>
+        <p>
+          <s>Figure 41.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE ASCENDANTE D'ORIGINE SPINALE. Région dorsale supérieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale supérieure et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>La dégénération siège dans les cordons de Goll, les faisceaux cérébelleux directs et</s>
+        </p>
+        <p>
+          <s>de Gowers.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Canal central.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Partie indemne du faisceau</s>
+        </p>
+        <p>
+          <s>antéro-latéral.</s>
+        </p>
+        <p>
+          <s>1. Partie indemne du faisceau</s>
+        </p>
+        <p>
+          <s>postérieur.</s>
+        </p>
+        <p>
+          <s>J. Faisceau de Gowers dégénéré.</s>
+        </p>
+        <p>
+          <s>K. Faisceau cérébelleux direct</s>
+        </p>
+        <p>
+          <s>dégénéré.</s>
+        </p>
+        <p>
+          <s>L. Faisceau de Goll dégénéré.</s>
+        </p>
+        <p>
+          <s>Figure 42.</s>
+        </p>
+        <p>
+          <s>DÉGÉNÉRATION SECONDAIRE ASCENDANTE D'ORIGINE SPINALE. - Région dorsale supérieure.</s>
+        </p>
+        <p>
+          <s>La figure représente un point du cordon de Goll dégénéré de la préparation précédente</s>
+        </p>
+        <p>
+          <s>coloré par la méthode de Weigert et vu à un fort grossissement (obj. 4, Vérick). On y</s>
+        </p>
+        <p>
+          <s>voit un tissu de sclérose dans lequel persistent quelques tubes nerveux.</s>
+        </p>
+        <p>
+          <s>A. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B-B. Faisceaux ondulés du même tissu.</s>
+        </p>
+        <p>
+          <s>C-C-C. Tubes nerveux sains.</s>
+        </p>
+        <p>
+          <s>D. Cavité d'un vaisseau altéré.</s>
+        </p>
+        <p>
+          <s>E. Paroi épaissie du môme faisceau.</s>
+        </p>
+        <p>
+          <s>Les préparations qui ont fourni les planches XX et XXI viennent d'un sujet atteint de Mal de</s>
+        </p>
+        <p>
+          <s>Pott avec compression de la moelle au niveau de la région dorsale inférieure, et dégénération ascen-</s>
+        </p>
+        <p>
+          <s>dante au-dessus du siège de la compression, descendante au-dessous.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXII</s>
+        </p>
+        <p>
+          <s>FIGURE 43.</s>
+        </p>
+        <p>
+          <s>PARALYSIE SPINALE SUBAIGUE DE L'ADULTE (POLIOMYÉLITE). Région cervico-dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervico-dorsale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On y voit la lésion des cornes antérieures, et la légère dégénération correspondante</s>
+        </p>
+        <p>
+          <s>des faisceaux pyramidaux.</s>
+        </p>
+        <p>
+          <s>A-.4'. Cornes antérieures alté-</s>
+        </p>
+        <p>
+          <s>rées et asymétriques.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur. 1</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>II-II. Parties indemnes des</s>
+        </p>
+        <p>
+          <s>faisceaux antéro-latéraux.</s>
+        </p>
+        <p>
+          <s>J. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>J-J. Faisceaux pyramidaux dé-</s>
+        </p>
+        <p>
+          <s>générés.</s>
+        </p>
+        <p>
+          <s>Figure 44.</s>
+        </p>
+        <p>
+          <s>PARALYSIE SPINALE SUBAIGUE DE L'ADULTE (POLIOMYÉLITE). Région cervico-dorsale.</s>
+        </p>
+        <p>
+          <s>La figure représente l'un des foyers inflammatoires des cornes antérieures de la</s>
+        </p>
+        <p>
+          <s>préparation précédente, colorée au carmin, et vue à un fort grossissement (obj. 4, Vérick).</s>
+        </p>
+        <p>
+          <s>On y voit les lésions des cellules et leur disparition en du tissu fibrillaire.</s>
+        </p>
+        <p>
+          <s>A-A. Cellules altérées.</s>
+        </p>
+        <p>
+          <s>B-B-B. Cellules peu altérées.</s>
+        </p>
+        <p>
+          <s>C. Vaisseau.</s>
+        </p>
+        <p>
+          <s>D. Tissu fibrillaire.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXIII</s>
+        </p>
+        <p>
+          <s>Figure 45.</s>
+        </p>
+        <p>
+          <s>PARALYSIE SPINALE SUBAIGUE DE L'ADULTE (POLIOMYÉLITE). Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On voit les lésions des cornes antérieures et la dégénéralion secondaire des faisceaux</s>
+        </p>
+        <p>
+          <s>pyramidaux.</s>
+        </p>
+        <p>
+          <s>A. Région peu altérée.</s>
+        </p>
+        <p>
+          <s>A'. Région peu altérée de la</s>
+        </p>
+        <p>
+          <s>corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>D. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>II. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>1. Partie indemne du faisceau</s>
+        </p>
+        <p>
+          <s>antéro-latéral.</s>
+        </p>
+        <p>
+          <s>J. Faisceau cérébelleux indemne.</s>
+        </p>
+        <p>
+          <s>K-K'. Faisceaux pyramidaux</s>
+        </p>
+        <p>
+          <s>dégénérés.</s>
+        </p>
+        <p>
+          <s>Les préparations qui nous ont fourni les figures 43, 44, 45, proviennent de la malade Ham... qui</s>
+        </p>
+        <p>
+          <s>est le sujet de l'observation IV, d'un mémoire intitulé : « Poliomyélites et polynévrites » publié par</s>
+        </p>
+        <p>
+          <s>l'un de nous en collaboration avec M. Marinesco dans la Nouvelle Iconographie de la Salpêtrière</s>
+        </p>
+        <p>
+          <s>(1890, no6 4, 5 et 6). -</s>
+        </p>
+        <p>
+          <s>FIGURE mi.</s>
+        </p>
+        <p>
+          <s>PARALYSIE INFANTILE (POLIOMYÉLITE). Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>On voit aisément la différence considérable du volume des deux cornes antérieures,</s>
+        </p>
+        <p>
+          <s>la droite est presque double de la gauche. On remarque de même l'homogénéité du tissu</s>
+        </p>
+        <p>
+          <s>(cicatriciel) de la corne altérée alors que la symétrique présente son réseau fibrillaire</s>
+        </p>
+        <p>
+          <s>et ses cellules ganglionnaires normales. Le manteau blanc de la moelle est sain :</s>
+        </p>
+        <p>
+          <s>zut. Corne antérieure saine.</s>
+        </p>
+        <p>
+          <s>A'. Corne antérieure altérée.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>/. Faisceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>J. Racines antérieures.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXIV - -</s>
+        </p>
+        <p>
+          <s>FIGURE 47.</s>
+        </p>
+        <p>
+          <s>PARALYSIE INFANTILE (POLIOMYÉLITE;. - Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée au niveau du renflement lombaire et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>Il est aisé d'y constater l'asymétrie des deux moitiés tout entières de la moelle, et</s>
+        </p>
+        <p>
+          <s>notamment des deux cornes antérieures, dont la droite est beaucoup plus volumineuse</s>
+        </p>
+        <p>
+          <s>que la gauche. De plus il existe un contraste frappant entre l'aspect des deux cornes, la</s>
+        </p>
+        <p>
+          <s>gauche étant formée d'un tissu amorphe, cicatriciel, la droite montrant son réseau</s>
+        </p>
+        <p>
+          <s>fibrillaire et ses cellules normales.</s>
+        </p>
+        <p>
+          <s>A. Corne saine.</s>
+        </p>
+        <p>
+          <s>a-a-a. Ses cellules ganglion-</s>
+        </p>
+        <p>
+          <s>naires.</s>
+        </p>
+        <p>
+          <s>A'. Corne altérée.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Cordon latéral.</s>
+        </p>
+        <p>
+          <s>1. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>FIGURE 48.</s>
+        </p>
+        <p>
+          <s>PARALYSIE INFANTILE (POLIOMYÉLITE). Corne antérieure.</s>
+        </p>
+        <p>
+          <s>La figure montre à un fort grossissement un point de la lésion de la corne antérieure</s>
+        </p>
+        <p>
+          <s>de la préparation précédente. On reconnaît quelques cellules très altérées dans un tissu</s>
+        </p>
+        <p>
+          <s>formé de détritus granuleux sillonné par des vaisseaux thromboses.</s>
+        </p>
+        <p>
+          <s>A. Cellule ganglionnaire altérée.</s>
+        </p>
+        <p>
+          <s>B. Son noyau.</s>
+        </p>
+        <p>
+          <s>C. Son nucléole.</s>
+        </p>
+        <p>
+          <s>D. Ses granulations.</s>
+        </p>
+        <p>
+          <s>E-E. Débris de cellules.</s>
+        </p>
+        <p>
+          <s>F. Cellule très altérée.</s>
+        </p>
+        <p>
+          <s>G-G. Lcucocythcs,</s>
+        </p>
+        <p>
+          <s>H. Substance granuleuse. ? 7. Vaisseaux.</s>
+        </p>
+        <p>
+          <s>J. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXV</s>
+        </p>
+        <p>
+          <s>Figure 49.</s>
+        </p>
+        <p>
+          <s>PARALYSIE INFANTILE (POLIOMYÉLITE). Région lombaire. -</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>On constate la présence de deux foyers inflammatoires, l'un plus intense dans la corne</s>
+        </p>
+        <p>
+          <s>antérieure droite, l'autre dans la corne antérieure gauche. »</s>
+        </p>
+        <p>
+          <s>A. Partie non altérée de la corne</s>
+        </p>
+        <p>
+          <s>droite.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Foyer myélitique droit.</s>
+        </p>
+        <p>
+          <s>C'. Foyer myélitique gauche.</s>
+        </p>
+        <p>
+          <s>D. Vaisseau altéré.</s>
+        </p>
+        <p>
+          <s>E. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Canal central.</s>
+        </p>
+        <p>
+          <s>H. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>I. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>J. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>K. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>Toutes nos figures de paralysie infantile sont la reproduction de préparations choisies dans la</s>
+        </p>
+        <p>
+          <s>collection léguée par le professeur Damaschino au Musée de la Salpêlrière.</s>
+        </p>
+        <p>
+          <s>FIGURE 50.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. RÉGION lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée n&lt;r la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Il s'agit d'un cas de tabès au début, les lésions sont cantonnées dans les zones radicu-</s>
+        </p>
+        <p>
+          <s>laires moyennes de Burdach. -</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>a. L'une de ses cellules.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure grise.</s>
+        </p>
+        <p>
+          <s>H. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Faisceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>II. Cordon de Goll respecté.</s>
+        </p>
+        <p>
+          <s>I. Zone de Lissauer et zone pos-</s>
+        </p>
+        <p>
+          <s>térieure du faisceau de Bur-</s>
+        </p>
+        <p>
+          <s>dach indemne.</s>
+        </p>
+        <p>
+          <s>.1. Zone de Westphal non alté-</s>
+        </p>
+        <p>
+          <s>rée.</s>
+        </p>
+        <p>
+          <s>K-K'. Zones de Burdach sclé-</s>
+        </p>
+        <p>
+          <s>rosées.</s>
+        </p>
+        <p>
+          <s>Cette pièce qui nous a été obligeamment confiée par M. Marincscô se rapporte il un cas de tabès</s>
+        </p>
+        <p>
+          <s>au début provenant du service de Westphal. Les lésions sont tout à fait analogues à celles d'un cas</s>
+        </p>
+        <p>
+          <s>rapporté récemment par M. Raymond (Topographie des lésions spinales du tabès au début.</s>
+        </p>
+        <p>
+          <s>Revue de médecine, tome XI, janvier 1891).</s>
+        </p>
+        <p>
+          <s>PLANCHE XXVI</s>
+        </p>
+        <p>
+          <s>Ffnu)OE51.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>Les lésions occupent, d'une façon classique, la presque totalité des cordons pos-</s>
+        </p>
+        <p>
+          <s>térieurs. -</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>Il. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Faisceau latéral. -</s>
+        </p>
+        <p>
+          <s>I. Zone antéro-externe de West-</s>
+        </p>
+        <p>
+          <s>phal. -</s>
+        </p>
+        <p>
+          <s>J. Cordon de Goll.</s>
+        </p>
+        <p>
+          <s>K. Faisceau de Burdach.</s>
+        </p>
+        <p>
+          <s>L. Zone postéro-externe de</s>
+        </p>
+        <p>
+          <s>Westphal.</s>
+        </p>
+        <p>
+          <s>Figure 52.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. Région dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>Cas classique dans lequel on voit la sclérose presque totale des faisceaux postérieurs.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure sclérosée.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Faisceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>I. Cordon postérieur sclérosé.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXVII</s>
+        </p>
+        <p>
+          <s>FIGURE 53.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La lésion occupe son siège habituel dans les cordons postérieurs.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure. 1</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure sclérosée.</s>
+        </p>
+        <p>
+          <s>D. Canal central.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>1. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>J. Zone antéro-externe de West-</s>
+        </p>
+        <p>
+          <s>phal.</s>
+        </p>
+        <p>
+          <s>K. Faisceau postérieur sclérosé.</s>
+        </p>
+        <p>
+          <s>Figure 54.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. - Corne postérieure.</s>
+        </p>
+        <p>
+          <s>La figure représente un point des cordons postérieurs sclérosés de la pièce précédente,</s>
+        </p>
+        <p>
+          <s>mais la préparation a été colorée par le picrocarmin. On y voit le tissu de sclérose dans</s>
+        </p>
+        <p>
+          <s>lequel persistent un assez grand nombre de tubes nerveux.</s>
+        </p>
+        <p>
+          <s>A. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B. Tube nerveux altéré.</s>
+        </p>
+        <p>
+          <s>C-C. Tube nerveux sain.</s>
+        </p>
+        <p>
+          <s>D. Corps granuleux.</s>
+        </p>
+        <p>
+          <s>E. Vaisseaux.</s>
+        </p>
+        <p>
+          <s>Les figures 51-52-53 ont trait au tabès classique, avec lésions typiques des cordons postérieurs et</s>
+        </p>
+        <p>
+          <s>proviennent d'un sujet ayant présenté l'évolution régulière de la maladie.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXVIII</s>
+        </p>
+        <p>
+          <s>Figure 55.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>Il s'agit d'un cas où les lésions étaient particulièrement intenses dans les régions</s>
+        </p>
+        <p>
+          <s>lombaire et dorsale, aussi cette préparation montre-t-elle surtout les lésions secondaires</s>
+        </p>
+        <p>
+          <s>du cordon de Goll, les faisceaux de Burdach étant relativement peu altérés.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>R. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>I. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>J. Faisceau de Burdach.</s>
+        </p>
+        <p>
+          <s>K. Cordon de Goll.</s>
+        </p>
+        <p>
+          <s>Figure 56.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. Cordons postérieurs.</s>
+        </p>
+        <p>
+          <s>Coupe longitudinale pratiquée sur les cordons postérieurs sclérosés et colorée au picro-carmin.</s>
+        </p>
+        <p>
+          <s>On voit un tissu de sclérose, avec des corps hyalins, et des lésions vasculaires.</s>
+        </p>
+        <p>
+          <s>A. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B. Tube nerveux.</s>
+        </p>
+        <p>
+          <s>C. Corps hyalin.</s>
+        </p>
+        <p>
+          <s>D. Coupe longitudinale d'un vaisseau.</s>
+        </p>
+        <p>
+          <s>E. Sa coupe transversale.</s>
+        </p>
+        <p>
+          <s>F. Épaississement de sa paroi.</s>
+        </p>
+        <p>
+          <s>G. Vaisseau thrombose.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXIX</s>
+        </p>
+        <p>
+          <s>Figure 57.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On y voit la lésion particulièrement intense à la partie postérieure des cordons posté-</s>
+        </p>
+        <p>
+          <s>rieurs, et ayant envahi les zones de Lissaüer. -</s>
+        </p>
+        <p>
+          <s>A . Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure sclérosée.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Canal central.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Cordon latéral.</s>
+        </p>
+        <p>
+          <s>IL Zone de Westphal moins</s>
+        </p>
+        <p>
+          <s>altérée.</s>
+        </p>
+        <p>
+          <s>I. Faisceau de Burdach altéré.</s>
+        </p>
+        <p>
+          <s>J. Zone de Lissaüer altérée.</s>
+        </p>
+        <p>
+          <s>-(a</s>
+        </p>
+        <p>
+          <s>FIGURE 58.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. RÉGION cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée au niveau du renflement cervical et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>La lésion, contrairement à celle de la figure précédente, a épargné la partie posté-</s>
+        </p>
+        <p>
+          <s>rieure des faisceaux de Burdach, et les zones de Lissauer. Seul le cordon de Goll est</s>
+        </p>
+        <p>
+          <s>altéré dans toute son étendue.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>IL Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>I. Zone antérieure de Westphal.</s>
+        </p>
+        <p>
+          <s>J. Zone de L.issaüer.</s>
+        </p>
+        <p>
+          <s>K. Zone postérieure de West-</s>
+        </p>
+        <p>
+          <s>phal.</s>
+        </p>
+        <p>
+          <s>L. Cordon de Goll.</s>
+        </p>
+        <p>
+          <s>Les figures 55, 57 et 58 représentent des préparations de tabès dans lesquelles les lésions présentent t</s>
+        </p>
+        <p>
+          <s>des sortes de variétés du type normal figuré dans les planches précédentes. Elles proviennent toutes</s>
+        </p>
+        <p>
+          <s>trois de sujets différents.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXX</s>
+        </p>
+        <p>
+          <s>IGU131J 59.</s>
+        </p>
+        <p>
+          <s>ATAXIE LOCOMOTRICE PROGRESSIVE. RÉGION cervicale.</s>
+        </p>
+        <p>
+          <s>La figure représente à un grossissement plus fort (obj. 2, Vérick) la préparation de la</s>
+        </p>
+        <p>
+          <s>figure précédente, pour montrer le détail des lésions.</s>
+        </p>
+        <p>
+          <s>.4. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>D. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G-G. Zones de Lissaüer indemnes se confondant</s>
+        </p>
+        <p>
+          <s>avec la zone postérieure des faisceaux de Bur-</s>
+        </p>
+        <p>
+          <s>dach.</s>
+        </p>
+        <p>
+          <s>J7. Zone antéro-externe de Westphal.</s>
+        </p>
+        <p>
+          <s>l. Partie moyenne de la zone radiculaire sclérosée.</s>
+        </p>
+        <p>
+          <s>.1. Lésion vasculaire.</s>
+        </p>
+        <p>
+          <s>Figure 60.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE LATÉRALE, AMYOTROPHIQUE (MALADIE DE CHARCOT). Région cervicale</s>
+        </p>
+        <p>
+          <s>SUPÉRIEURE.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale supérieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La sclérose des faisceaux pyramidaux est très nettement dessinée.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Partie fondamentale du fais-</s>
+        </p>
+        <p>
+          <s>ceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>J. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>J-J. Faisceaux pyramidaux sclé-</s>
+        </p>
+        <p>
+          <s>rosés.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXI</s>
+        </p>
+        <p>
+          <s>Figure 61.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Renflement cervical.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans le renflement cervical et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La lésion est visible dans la zone des faisceaux pyramidaux.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H.1'artie fondamentale des fais-</s>
+        </p>
+        <p>
+          <s>ceaux antéro-latéraux.</s>
+        </p>
+        <p>
+          <s>I. Cordons postérieurs.</s>
+        </p>
+        <p>
+          <s>J-J. Faisceaux pyramidaux sclé-</s>
+        </p>
+        <p>
+          <s>rosés.</s>
+        </p>
+        <p>
+          <s>Figure 62.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Faisceaux pyramidaux.</s>
+        </p>
+        <p>
+          <s>La figure représente un point de la région sclérosée des faisceaux latéraux colorée au</s>
+        </p>
+        <p>
+          <s>picrocarmin, vue à un grossissement fort (obj. 4, Vérick). On voit des tubes nerveux</s>
+        </p>
+        <p>
+          <s>disparaissant dans un tissu de sclérose. -</s>
+        </p>
+        <p>
+          <s>A. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B-B. Gros tractus fibreux.</s>
+        </p>
+        <p>
+          <s>C. Tubes nerveux détruits.</s>
+        </p>
+        <p>
+          <s>D-D. Tubes nerveux indemnes.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXII</s>
+        </p>
+        <p>
+          <s>Figure 63.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Région dorsale moyenne.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale moyenne et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La lésion est strictement cantonnée dans les faisceaux pyramidaux et les cornes anté-</s>
+        </p>
+        <p>
+          <s>rieures.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racines postérieures.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Partie fondamentale des fais-</s>
+        </p>
+        <p>
+          <s>ceaux antéro-latéraux.</s>
+        </p>
+        <p>
+          <s>1. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>J-J. Faisceaux pyramidaux sclé-</s>
+        </p>
+        <p>
+          <s>rosés.</s>
+        </p>
+        <p>
+          <s>FIGURE 64.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Corne antérieure.</s>
+        </p>
+        <p>
+          <s>La figure montre un point de la région de la corne antérieure colorée au picrocarmin</s>
+        </p>
+        <p>
+          <s>et vue à un grossissement fort (obj. 4, Vérick). On y distingue les lésions des cellules</s>
+        </p>
+        <p>
+          <s>ganglionnaires des cornes antérieures.</s>
+        </p>
+        <p>
+          <s>A. Tissu fibrillaire.</s>
+        </p>
+        <p>
+          <s>B-B. Cellules peu altérées.</s>
+        </p>
+        <p>
+          <s>C. Cellules atrophiées et privées de prolongements.</s>
+        </p>
+        <p>
+          <s>D-D. Cellules très atrophiées.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXIII</s>
+        </p>
+        <p>
+          <s>Figure 65.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La lésion occupe toujours la zone des faisceaux pyramidaux, elle se remarque aussi</s>
+        </p>
+        <p>
+          <s>dans la région des cornes antérieures de la substance grise.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure. -</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>II. Partie fondamentale du fais-</s>
+        </p>
+        <p>
+          <s>ceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>1. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>J-J. Faisceaux pyramidaux al-</s>
+        </p>
+        <p>
+          <s>térés. '</s>
+        </p>
+        <p>
+          <s>Figure 66.</s>
+        </p>
+        <p>
+          <s>SCLÉROSE LATÉRALE AMYOTROPHIQUE (MALADIE DE CHARCOT). Faisceau pyramidal.</s>
+        </p>
+        <p>
+          <s>Coupe longitudinale de la région sclérosée colorée par le picrocarmin et vue il un grossissement</s>
+        </p>
+        <p>
+          <s>(ohj. 4, Vérick).</s>
+        </p>
+        <p>
+          <s>On y voit la disposition fasciculaire du tissu scléreux, et les lésions vasculaires.</s>
+        </p>
+        <p>
+          <s>A-A. Faisceaux fibreux.</s>
+        </p>
+        <p>
+          <s>B. Corps granuleux.</s>
+        </p>
+        <p>
+          <s>C. Paroi d'un vaisseau.</s>
+        </p>
+        <p>
+          <s>D. Globules rouges.</s>
+        </p>
+        <p>
+          <s>Toutes ces préparations de Sclérose latérale amyotrophique se rapportent a la moelle épinière d'un</s>
+        </p>
+        <p>
+          <s>même sujet, du service de la Clinique des maladies nerveuses, le nommé Néd..., qui présenta pen-</s>
+        </p>
+        <p>
+          <s>dant sa vie le tableau classique de la maladie de Charcot, et mourut selon l'ordinaire d'accidents</s>
+        </p>
+        <p>
+          <s>bulbaires. L'autopsie que nous en avons faite est encore inédite.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXIV</s>
+        </p>
+        <p>
+          <s>Figure 67.</s>
+        </p>
+        <p>
+          <s>MOELLE DE FOETUS DE CINQ MOIS. Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pâli.</s>
+        </p>
+        <p>
+          <s>On y voit le peu de développement du manteau blanc de la moelle, et notamment des</s>
+        </p>
+        <p>
+          <s>faisceaux postérieurs, et des faisceaux pyramidaux. Ces derniers n'existent pas encore.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>a-a-a. Cellules ganglionnaires.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Canal central.</s>
+        </p>
+        <p>
+          <s>F. Commissure grise.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>]J, Partie fondamentale du fais-</s>
+        </p>
+        <p>
+          <s>ceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>1. Région du faisceau pyramidal.</s>
+        </p>
+        <p>
+          <s>FIGURE 68.</s>
+        </p>
+        <p>
+          <s>MOELLE DE FOETUS DE CINQ MOIS. Région cervicale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode de Weigert.</s>
+        </p>
+        <p>
+          <s>L'absence presque complète de la myéline des faisceaux pyramidaux est très nettement</s>
+        </p>
+        <p>
+          <s>visible, ainsi que le faible développement des faisceaux de Burdach.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>a-a-a. Cellules ganglionnaires.</s>
+        </p>
+        <p>
+          <s>B. Cornes postérieures.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Canal central.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>Il. Partie fondamentale des cor-</s>
+        </p>
+        <p>
+          <s>dons antéro-latéraux.</s>
+        </p>
+        <p>
+          <s>1. Faisceau pyramidal croisé.</s>
+        </p>
+        <p>
+          <s>J. Cordon cérébelleux direct.</s>
+        </p>
+        <p>
+          <s>K. Faisceau pyramidal direct.</s>
+        </p>
+        <p>
+          <s>L. Faisceau de Burdach.</s>
+        </p>
+        <p>
+          <s>,Il. Faisceau de Goll.</s>
+        </p>
+        <p>
+          <s>Nous avons reproduit ici ces préparations, qui sont en quelque sorte la justification embryologique</s>
+        </p>
+        <p>
+          <s>de la localisation des lésions dans les myélites systématiques dont nous avons présenté des</s>
+        </p>
+        <p>
+          <s>exemples.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXV</s>
+        </p>
+        <p>
+          <s>Figure 69.</s>
+        </p>
+        <p>
+          <s>MALADIE DE FRIEDREICH. Région cervicale.</s>
+        </p>
+        <p>
+          <s>1</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervicale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La distribution de la sclérose est beaucoup plus accentuée dans les cordons postérieurs</s>
+        </p>
+        <p>
+          <s>que dans les faisceaux latéraux où elle occupe les faisceaux pyramidaux, cérébelleux</s>
+        </p>
+        <p>
+          <s>directs, et une petite zone du faisceau de Gowers.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Partie fondamentale du fais-</s>
+        </p>
+        <p>
+          <s>ceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>1. Zone sclérosée du faisceau de</s>
+        </p>
+        <p>
+          <s>Gowers.</s>
+        </p>
+        <p>
+          <s>J. Colonne de Clarke altérée.</s>
+        </p>
+        <p>
+          <s>K. Faisceau pyramidal altéré.</s>
+        </p>
+        <p>
+          <s>L. Cordon postérieur altéré.</s>
+        </p>
+        <p>
+          <s>M. Faisceau cérébelleux direct</s>
+        </p>
+        <p>
+          <s>altéré.</s>
+        </p>
+        <p>
+          <s>Figure 70.</s>
+        </p>
+        <p>
+          <s>MALADIE DE FRIEDREICH. Faisceau pyramidal.</s>
+        </p>
+        <p>
+          <s>La préparation montre un point du faisceau pyramidal faisant partie de la coupe</s>
+        </p>
+        <p>
+          <s>représentée dans la figure précédente, vu à un fort grossissement (obj. 4, Vérick). Les</s>
+        </p>
+        <p>
+          <s>tubes nerveux sont encore nombreux dans le tissu de Sclérose.</s>
+        </p>
+        <p>
+          <s>A-A. Tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B. Tube nerveux altéré.</s>
+        </p>
+        <p>
+          <s>C. Tube nerveux sain.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXVI</s>
+        </p>
+        <p>
+          <s>. Figure 71.</s>
+        </p>
+        <p>
+          <s>MALADIE DE FRIEDREICH. Région dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale supérieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On y voit très nettement la distribution systématique de la lésion reproduite, de plus,</s>
+        </p>
+        <p>
+          <s>sur le schéma. -</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>H. Cordon antérieur.</s>
+        </p>
+        <p>
+          <s>I. Zone de Westphal indemne.</s>
+        </p>
+        <p>
+          <s>J. Zone de Lissauer peu altérée.</s>
+        </p>
+        <p>
+          <s>K. Partie non altérée du faisceau</s>
+        </p>
+        <p>
+          <s>latéral.</s>
+        </p>
+        <p>
+          <s>L. Partie altérée du faisceau de</s>
+        </p>
+        <p>
+          <s>Gowers.</s>
+        </p>
+        <p>
+          <s>ill. Faisceau pyramidal altéré.</s>
+        </p>
+        <p>
+          <s>If. Faisceau cérébelleux direct</s>
+        </p>
+        <p>
+          <s>altéré.</s>
+        </p>
+        <p>
+          <s>0. Faisceau de Goll altéré.</s>
+        </p>
+        <p>
+          <s>P. Faisceau de Burdach altéré.</s>
+        </p>
+        <p>
+          <s>FIGURE 72.</s>
+        </p>
+        <p>
+          <s>MALADIE DE FRIEDREICH.</s>
+        </p>
+        <p>
+          <s>Vue à un fort grossissement d'une partie du faisceau de Burdach sclérosé, coloré par</s>
+        </p>
+        <p>
+          <s>la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>A-A. Substance fibrillaire du tissu de sclérose.</s>
+        </p>
+        <p>
+          <s>B-B. Tubes nerveux restés sains. -</s>
+        </p>
+        <p>
+          <s>C-C-C. Tubes nerveux altérés.</s>
+        </p>
+        <p>
+          <s>D. Vaisseau.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXVII</s>
+        </p>
+        <p>
+          <s>FIGURE 73.</s>
+        </p>
+        <p>
+          <s>MALADIE DE FRIEDREICH. Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La distribution des lésions est tout il fait conforme aux descriptions classiques.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Canal central.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>IL Partie fondamentale du fais-</s>
+        </p>
+        <p>
+          <s>ceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>1-1. Colonnes de Clarke al-</s>
+        </p>
+        <p>
+          <s>térées.</s>
+        </p>
+        <p>
+          <s>J. Faisceau pyramidal.</s>
+        </p>
+        <p>
+          <s>K. Faisceau cérébelleux direct</s>
+        </p>
+        <p>
+          <s>altéré.</s>
+        </p>
+        <p>
+          <s>L. Faisceau postérieur altéré.</s>
+        </p>
+        <p>
+          <s>Figure 74.</s>
+        </p>
+        <p>
+          <s>MALADIE DE FRIEDREICH. Colonne de CLARKE.</s>
+        </p>
+        <p>
+          <s>La figure représente la zone de la colonne de Clarke, dans la région dorsale, colorée</s>
+        </p>
+        <p>
+          <s>au carmin et vue à un fort grossissement (obj. 7, Vérick). Les altérations des cellules s'y</s>
+        </p>
+        <p>
+          <s>remarquent bien.</s>
+        </p>
+        <p>
+          <s>A. Cellule peu altérée.</s>
+        </p>
+        <p>
+          <s>B-B. Cellules très altérées.</s>
+        </p>
+        <p>
+          <s>C. Leucocythe.</s>
+        </p>
+        <p>
+          <s>D. Vaisseau.</s>
+        </p>
+        <p>
+          <s>E. Tissu fibrillaire.</s>
+        </p>
+        <p>
+          <s>Toutes les figures de maladie de Friedreich que nous reproduisons proviennent des pièces d'une</s>
+        </p>
+        <p>
+          <s>même malade, la nommée Desch..., qui forme le sujet d'un mémoire que l'un de nous a publié en</s>
+        </p>
+        <p>
+          <s>collaboration avec M. Marincsco et intitulé : Sur l'anatomie pathologique de la maladie de Friedreich</s>
+        </p>
+        <p>
+          <s>(Archives de neurologie, 1890, n° 57). ,</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXVIII</s>
+        </p>
+        <p>
+          <s>FIGURE 75.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. Région lombaire</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On voit la cavité pathologique centrale et relativement considérable, ainsi que la</s>
+        </p>
+        <p>
+          <s>sclérose secondaire des faisceaux pyramidaux.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>IL Partie non altérée du faisceau latéral.</s>
+        </p>
+        <p>
+          <s>I. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>J. Paroi de la cavité.</s>
+        </p>
+        <p>
+          <s>IL Substance du gliome.</s>
+        </p>
+        <p>
+          <s>L. Faisceau pyramidal dégénéré.</s>
+        </p>
+        <p>
+          <s>FIGURE 76.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. - Région dorsale inférieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Mêmes lésions, d'apparence un peu différente que dans la figure 76.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>F. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>G. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>11. Partie non altérée des faisceaux latéraux.</s>
+        </p>
+        <p>
+          <s>I. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>J. Paroi de la cavité.</s>
+        </p>
+        <p>
+          <s>K. Substance du gliome.</s>
+        </p>
+        <p>
+          <s>L. Faisceau pyramidal dégénéré.</s>
+        </p>
+        <p>
+          <s>PLANCHE XXXIX</s>
+        </p>
+        <p>
+          <s>Figure 77.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. Région dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale moyenne et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Les lésions semblables sont plus accusées encore que dans la figure 76.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>F. Partie non altérée du faisceau latéral.</s>
+        </p>
+        <p>
+          <s>G. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>IL Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>I. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>J. Paroi de la cavité.</s>
+        </p>
+        <p>
+          <s>K. Substance du glieme.</s>
+        </p>
+        <p>
+          <s>L. Faisceau pyramidal altéré.</s>
+        </p>
+        <p>
+          <s>FIGURE 78.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. Gliome.</s>
+        </p>
+        <p>
+          <s>La préparation représente un point de la substance gliomateuse autour de la cavité</s>
+        </p>
+        <p>
+          <s>pathologique. On distingue le revêtement cellulaire de la paroi bourgeonnante, et le</s>
+        </p>
+        <p>
+          <s>tissu fibrillaire du gliome.</s>
+        </p>
+        <p>
+          <s>A. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>B-li. Cellules de revêtement de la paroi.</s>
+        </p>
+        <p>
+          <s>C. Tissu gliomateux.</s>
+        </p>
+        <p>
+          <s>D. Tissu nerveux sain.</s>
+        </p>
+        <p>
+          <s>T. Bourgeon gliomateux.</s>
+        </p>
+        <p>
+          <s>F. Vaisseau.</s>
+        </p>
+        <p>
+          <s>PLANCHE XL</s>
+        </p>
+        <p>
+          <s>FIGURE 79.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. Région CERVICO-DORSALE.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région cervico-dorsale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>La moelle est presque complètement détruite par le néoplasme. Une cavité centrale</s>
+        </p>
+        <p>
+          <s>est étalée transversalement, dans laquelle se distinguent quelques bourgeons gliomateux.</s>
+        </p>
+        <p>
+          <s>Le reste de la substance médullaire forme les parois aplaties de celle cavité.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>C. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>D. Partie restante du faisceau antéro-latéral.</s>
+        </p>
+        <p>
+          <s>E. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>F. Faisceau pyramidal dégénéré.</s>
+        </p>
+        <p>
+          <s>G-G. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>11. Bourgeon gliomateux.</s>
+        </p>
+        <p>
+          <s>1. Substance du gliome.</s>
+        </p>
+        <p>
+          <s>J. Paroi de la cavité.</s>
+        </p>
+        <p>
+          <s>FIGURE 80.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. - Paroi de la cavité.</s>
+        </p>
+        <p>
+          <s>La préparation montre un point de la paroi d'une coupe semblable à la précédente et</s>
+        </p>
+        <p>
+          <s>colorée au picrocarmin. On y voit le revêtement épithélial, et l'irrégularité de la paroi.</s>
+        </p>
+        <p>
+          <s>A. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>B. Cellules endothéliales.</s>
+        </p>
+        <p>
+          <s>C. Tissu gliomateux.</s>
+        </p>
+        <p>
+          <s>D. Limite du gliome.</s>
+        </p>
+        <p>
+          <s>E. Tissu nerveux.</s>
+        </p>
+        <p>
+          <s>Les préparations qui ont fourni les planches XXXVIII, XXXIX et XL sont toutes empruntées aux</s>
+        </p>
+        <p>
+          <s>pièces d'un même sujet, Augustin Iterv..., dont l'histoire est rapportée dans l'observation VI de</s>
+        </p>
+        <p>
+          <s>la Thèse de M. Bruhl (Contribution à l'élude de la Syringomyélie. Th. de Paris, 1890, p. 145).</s>
+        </p>
+        <p>
+          <s>Le malade a succombé depuis la publication de ce travail, et j'ai pu faire son autopsie dont les</s>
+        </p>
+        <p>
+          <s>résultats sont encore inédits.</s>
+        </p>
+        <p>
+          <s>PLANCHE XLI</s>
+        </p>
+        <p>
+          <s>Figure 81.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. Région dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Cavité aplatie transversalement recouverte d'une paroi ; la moelle est réduite à un</s>
+        </p>
+        <p>
+          <s>mince manchon de substance nerveuse.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>C. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>D. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>E. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>F. Paroi de la cavité.</s>
+        </p>
+        <p>
+          <s>Cette préparation provient dune malade dont nous avons communiqué l'observation, à M. Bruhl,</s>
+        </p>
+        <p>
+          <s>qui l'a publiée dans sa thèse précitée (Observation II, p. 130) où l'on trouvera également leprotocole</s>
+        </p>
+        <p>
+          <s>de l'examen nécroscopique.</s>
+        </p>
+        <p>
+          <s>Figure 82.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. Région cervicale.</s>
+        </p>
+        <p>
+          <s>. Coupe pratiquée dans la région cervicale et colorée au carmin.</s>
+        </p>
+        <p>
+          <s>Ici la cavité néoplasique s'est développée dans la corne postérieure droite qu'elle a</s>
+        </p>
+        <p>
+          <s>complètement détruite. Une masse gliomateuse solide se voit sous forme de tumeur</s>
+        </p>
+        <p>
+          <s>proéminente dans le cordon postérieur. Il existe de plus une sclérose des cordons de</s>
+        </p>
+        <p>
+          <s>Goll. : 1. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>0. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Commissure antérieure.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>(1. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>IL Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>Il'. Canal central.</s>
+        </p>
+        <p>
+          <s>/. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>J. Paroi de la cavité.</s>
+        </p>
+        <p>
+          <s>K. Masse gliomateuse.</s>
+        </p>
+        <p>
+          <s>Cette préparation faisait partie depuis longtemps de la collection du laboratoire ; bien que nous</s>
+        </p>
+        <p>
+          <s>n'ayons pu nous procurer de renseignements sur son origine, elle nous a paru assez intéressante</s>
+        </p>
+        <p>
+          <s>pour mériter d'être représentée ici.</s>
+        </p>
+        <p>
+          <s>PLANCHE XLII</s>
+        </p>
+        <p>
+          <s>Figure 83.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. Région dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale et colorée a I'llclllal0r'lllle.</s>
+        </p>
+        <p>
+          <s>Il existe une cavité considérable centrale et cordiforme limitée par une paroi bour-</s>
+        </p>
+        <p>
+          <s>geonnante et entourée par le gliome qui a refoulé, en la détruisant en partie, la</s>
+        </p>
+        <p>
+          <s>substance grise. Malgré retendue de la lésion, il n'y a pas de dégénération nette des</s>
+        </p>
+        <p>
+          <s>faisceaux blancs.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Cordon postérieur.</s>
+        </p>
+        <p>
+          <s>D. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>E. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>F. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>77. Cavité centrale.</s>
+        </p>
+        <p>
+          <s>7. Paroi du âliome.</s>
+        </p>
+        <p>
+          <s>J. Substance du gliome.</s>
+        </p>
+        <p>
+          <s>Il a été question du sujet dont cette pièce provient dans la leçon de M. Charcot consacrée</s>
+        </p>
+        <p>
+          <s>à la Syringomyélie (Leçons du mardi, 1889, 21c Leçon, p. 491). L'observation du malade a été</s>
+        </p>
+        <p>
+          <s>communiquée à la Société clinique de Paris, dans la séance du 9 juillet 1883, par M. Paul</s>
+        </p>
+        <p>
+          <s>Berbez et publiée dans la France médicale (n° 97, 20 août 1885, p. Hfi2). Les détails de l'autopsie</s>
+        </p>
+        <p>
+          <s>pratiquer à la Salpêtrière ont été communiqués à la Société anatomique dans la séance</s>
+        </p>
+        <p>
+          <s>du 18 février 1887 (ü2c année, p. 83) par M. Paul Blocq.</s>
+        </p>
+        <p>
+          <s>La communication est intitulée : « Paraplégie spasmodique. - Arthropathie du coude.</s>
+        </p>
+        <p>
+          <s>Néphrite suppurée.  Cystite.  Perforation de la vessie.  Péritonite.  Mort.  Autopsie.</s>
+        </p>
+        <p>
+          <s>Syringomyélie. »</s>
+        </p>
+        <p>
+          <s>Figure 84.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE GLIOMATEUSE. Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire et colorée par le noir d'aniline et le carmin.</s>
+        </p>
+        <p>
+          <s>Il existe une cavité centrale de moyenne dimension ; la préparation est surtout</s>
+        </p>
+        <p>
+          <s>très remarquable par les deux énormes masses gliomaleuses non excavées situées</s>
+        </p>
+        <p>
+          <s>dans les faisceaux antéro-latéraux et qui ont relativement épargné la substance grise.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Faisceau antérieur.</s>
+        </p>
+        <p>
+          <s>Û. Rariue postérieure.</s>
+        </p>
+        <p>
+          <s>E. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>1-. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>G. Cordon postérieur sclérosé.</s>
+        </p>
+        <p>
+          <s>H. Cavité centrale.</s>
+        </p>
+        <p>
+          <s>/. Paroi du gliome.</s>
+        </p>
+        <p>
+          <s>.1. Substance du gliome central.</s>
+        </p>
+        <p>
+          <s>K-K. Masses gliomateuses situées dans les faisceaux</s>
+        </p>
+        <p>
+          <s>antéro-latéraux.</s>
+        </p>
+        <p>
+          <s>Cette coupe provient de la collection léguée par le 1 ? r Damaschino au Musée de la Sa ! pe[ ? i&lt;jr.-\</s>
+        </p>
+        <p>
+          <s>Les étiquettes des préparations portent la mention : « Moelle ]omJnire.  tltaxie locomotrice.</s>
+        </p>
+        <p>
+          <s>Octobre 1880. »</s>
+        </p>
+        <p>
+          <s>PLANCHE XLIII</s>
+        </p>
+        <p>
+          <s>Figure 85.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE. - Région cervicale supérieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée au niveau de l'entrecroisement dos pyramides et colorée par le picrocarmin.</s>
+        </p>
+        <p>
+          <s>La cavité centrale est entourée de très peu de substance gliomateuse, et il existe une</s>
+        </p>
+        <p>
+          <s>sclérose remarquable des faisceaux pyramidaux directs et croisés.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Canal central entouré d'un</s>
+        </p>
+        <p>
+          <s>peu de tissu gliomateux.</s>
+        </p>
+        <p>
+          <s>F. Commissure postérieure.</s>
+        </p>
+        <p>
+          <s>G. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>IL Processus réticulaire.</s>
+        </p>
+        <p>
+          <s>I. Faisceau cérébelleux direct</s>
+        </p>
+        <p>
+          <s>indemne.</s>
+        </p>
+        <p>
+          <s>J. Faisceau pyramidal croisé</s>
+        </p>
+        <p>
+          <s>altéré.</s>
+        </p>
+        <p>
+          <s>K. Faisceau pyramidal direct</s>
+        </p>
+        <p>
+          <s>. altéré.</s>
+        </p>
+        <p>
+          <s>Figure 86.</s>
+        </p>
+        <p>
+          <s>SYRINGOMYÉLIE. - Renflement cervical.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans le renflement cervical et colorée par le picrocarmin.</s>
+        </p>
+        <p>
+          <s>Il existe une cavité centrale avec paroi, et de plus un foyer cavitairc dans la substance</s>
+        </p>
+        <p>
+          <s>grise gauche au niveau de la partie intermédiaire entre les deux cornes. La sclérose des</s>
+        </p>
+        <p>
+          <s>faisceaux pyramidaux est également manifeste.</s>
+        </p>
+        <p>
+          <s>.1. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>F. Faisceau cérébelleux direct.</s>
+        </p>
+        <p>
+          <s>n. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>Il. Cavité pathologique.</s>
+        </p>
+        <p>
+          <s>1". Substance du gliome.</s>
+        </p>
+        <p>
+          <s>J. Foyer cutané delà substance grise</s>
+        </p>
+        <p>
+          <s>Les pièces dont les figures de cette planche représentent les préparations viennent d'un malade</s>
+        </p>
+        <p>
+          <s>de la clinique des maladies nerveuses, ayant donné lieu à de grandes difficultés de diagnostic pendant</s>
+        </p>
+        <p>
+          <s>sa vie entre la Sclérose latérale amyotrophique et la Syringomyélie, ce dont rend compte l'apparence</s>
+        </p>
+        <p>
+          <s>des lésions. L'observation ainsi que l'examen néc ? opsi(lite sont encore inédits.</s>
+        </p>
+        <p>
+          <s>PLANCHE XLIV</s>
+        </p>
+        <p>
+          <s>Figure 87.</s>
+        </p>
+        <p>
+          <s>TUMEUR DE LA MOELLE ,FIBROME). - Région cervicale supérieure.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région de l'entrecroisement des pyramides et colorée par la méthode do</s>
+        </p>
+        <p>
+          <s>- Pall.</s>
+        </p>
+        <p>
+          <s>On y voit la tumeur située à la partie postérieure, d'un aspect cordiforme, gagnant la</s>
+        </p>
+        <p>
+          <s>substance grise centrale.</s>
+        </p>
+        <p>
+          <s>A -.1. Cornes antérieures, celle de droite est déca-</s>
+        </p>
+        <p>
+          <s>pitée par le passage du cordon latéral 1 qui</s>
+        </p>
+        <p>
+          <s>gagne la région antérieure gauche.</s>
+        </p>
+        <p>
+          <s>B-B. Cornes postérieures décapitées en partie par</s>
+        </p>
+        <p>
+          <s>les cordons antérieurs.</s>
+        </p>
+        <p>
+          <s>C. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>D. Substauce ;;rise centrale.</s>
+        </p>
+        <p>
+          <s>E. Processus réticulaire.</s>
+        </p>
+        <p>
+          <s>F. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>G. Pyramide antérieure.</s>
+        </p>
+        <p>
+          <s>71. 'fumeur.</s>
+        </p>
+        <p>
+          <s>Figure 88.</s>
+        </p>
+        <p>
+          <s>TUMEUR DE LA MOELLE (FIBROME).</s>
+        </p>
+        <p>
+          <s>La préparation montre une partie de la substance de la tumeur de la pièce précédente,</s>
+        </p>
+        <p>
+          <s>colorée au picrocarmin et vue il un fort grossissement (obi. 4, Vérick). On voit très</s>
+        </p>
+        <p>
+          <s>nettement la structure du néoplasme composé de trousseaux fibreux ondulés en diverses</s>
+        </p>
+        <p>
+          <s>directions.</s>
+        </p>
+        <p>
+          <s>- 4. Substance interJ1hrjl\airc.</s>
+        </p>
+        <p>
+          <s>li-li. Trousseaux fibreux coupés longitudinalement.</s>
+        </p>
+        <p>
+          <s>C-C. Trousseaux fibreux coupés transversalement.</s>
+        </p>
+        <p>
+          <s>D. Vaisseau.</s>
+        </p>
+        <p>
+          <s>PLANCHE XLV</s>
+        </p>
+        <p>
+          <s>Figure 89.</s>
+        </p>
+        <p>
+          <s>TUMEUR DE LA MOELLE (FIBROME). Région dorsale.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région dorsale moyenne et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>On voit que le fibrome occupe la partie centrale de la moelle, dont la substance</s>
+        </p>
+        <p>
+          <s>tassée est considérablement réduite ; les diverses régions sont à peine reconnais-</s>
+        </p>
+        <p>
+          <s>sables.</s>
+        </p>
+        <p>
+          <s>A. Corne antérieure.</s>
+        </p>
+        <p>
+          <s>B. Corne postérieure.</s>
+        </p>
+        <p>
+          <s>C. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Faisceau latéral droit.</s>
+        </p>
+        <p>
+          <s>F. Faisceau latéral gauche.</s>
+        </p>
+        <p>
+          <s>G. Tumeur.</s>
+        </p>
+        <p>
+          <s>FIGURE 90.</s>
+        </p>
+        <p>
+          <s>TUMEUR DE LA MOELLE (FIBROME). Région lombaire.</s>
+        </p>
+        <p>
+          <s>Coupe pratiquée dans la région lombaire supérieure et colorée par la méthode de Pall.</s>
+        </p>
+        <p>
+          <s>Le fibrome siège au centre de la moelle et s'étend transversalement, absorbant presque</s>
+        </p>
+        <p>
+          <s>toute la substance grise, dont il ne reste que les extrémités des cornes antérieures et</s>
+        </p>
+        <p>
+          <s>postérieures.</s>
+        </p>
+        <p>
+          <s>A-A. Cornes antérieures.</s>
+        </p>
+        <p>
+          <s>B-B. Cornes postérieures.</s>
+        </p>
+        <p>
+          <s>C. Racine postérieure.</s>
+        </p>
+        <p>
+          <s>D. Sillon postérieur.</s>
+        </p>
+        <p>
+          <s>E. Sillon antérieur.</s>
+        </p>
+        <p>
+          <s>F. Cordon antérieur.</s>
+        </p>
+        <p>
+          <s>G. Faisceau latéral.</s>
+        </p>
+        <p>
+          <s>Il. Faisceau postérieur.</s>
+        </p>
+        <p>
+          <s>J. Tumeur.</s>
+        </p>
+        <p>
+          <s>Les pièces de tumeur de la moelle (fig. 85, 86, 87, 88) se rapportent à un cas de. fibromes mul-</s>
+        </p>
+        <p>
+          <s>tiples de la moelle recueilli dans le service de M. le Pr Charcot. Les fibromes extrêmement nombreux</s>
+        </p>
+        <p>
+          <s>étaient disséminés dans toute la hauteur du névraxe, tantôt à la périphérie, comme dans la</s>
+        </p>
+        <p>
+          <s>figure 85, tantôt au centre, comme dans les figures 87 et 88. Il s'agissait histologiquement d'un</s>
+        </p>
+        <p>
+          <s>véritable fibrome, ainsi qu'en rendent compte, du reste, les préparations.</s>
+        </p>
+        <p>
+          <s>PUBLICATIONS ANTÉRIEURES DU Dr PAUL BLOCQ</s>
+        </p>
+        <p>
+          <s>DIVERS</s>
+        </p>
+        <p>
+          <s>Note sur un cas de rétrécissement des deux orifices auriculo-ventriculaires (Paris, A. Delahaye, 1881).</s>
+        </p>
+        <p>
+          <s>Occlusion intestinale par diverticule {Union médicale, 1883).</s>
+        </p>
+        <p>
+          <s>D'une forme spéciale que revêt l'ecchymose dans les fractures de la rotule (Semaine médicale, 1881),</s>
+        </p>
+        <p>
+          <s>Cas de molluscum vrai ulcéré de la grande lèvre (Progrès médical, 1881).</s>
+        </p>
+        <p>
+          <s>Note sur des accidents occasionnés par une injection de chloroforme dans le tissu gingival (Progrès médical, 1SS'f).</s>
+        </p>
+        <p>
+          <s>Peri-onyxis symétrique professionnel (Semaine médicale, 1884).</s>
+        </p>
+        <p>
+          <s>Des hémorrhagies puerpérales (Thérapeutique contemporaine, 1885).</s>
+        </p>
+        <p>
+          <s>De l'éclampsie (Thérapeutique contemporaine, 1885).</s>
+        </p>
+        <p>
+          <s>Infection puerpérale. Endocardite ulcéreuse (Soc. anat., oct. 1885).</s>
+        </p>
+        <p>
+          <s>Du phlegmon sous-péritonéal de la région hépatique (Progrès médical, 1885).</s>
+        </p>
+        <p>
+          <s>D'une variété nouvelle de kystes du cou.  Kyste crico-thyroïdien (Gazette médicale de Paris, nos 12, 13, 17, 1885).</s>
+        </p>
+        <p>
+          <s>Pleurésie rhumatismale pré-arthropathique (Société clinique, juin 1885).</s>
+        </p>
+        <p>
+          <s>Tuberculose compliquée de pyohémie (Société clinique, 1885).</s>
+        </p>
+        <p>
+          <s>Adénome, cirrhose et cancer primitif du foie (Société anatomique, 1885).</s>
+        </p>
+        <p>
+          <s>Érysipèle périodique annuel (Société clinique, 188G). -</s>
+        </p>
+        <p>
+          <s>Sur un cas de cancer primitif de la colonne vertébrale (Journal de médecine. 188G).</s>
+        </p>
+        <p>
+          <s>Cancer primitif de la vésicule biliaire, propagé au foie (Société anatomique, 188G).</s>
+        </p>
+        <p>
+          <s>Cancer primitif du coecum (Société anatomique, 188G).</s>
+        </p>
+        <p>
+          <s>Tubercules solitaires massifs du foie (Société anatomique, 1887).</s>
+        </p>
+        <p>
+          <s>Étude expérimentale de la cirrhose alcoolique du foie, en collaboration avec M. le Professeur STIIAUS (Société de Bio-</s>
+        </p>
+        <p>
+          <s>logie et Archives de physiologie, 1887).</s>
+        </p>
+        <p>
+          <s>Des cirrhoses graisseuses considérées comme hépatites infectieuses, eu collaboration avec M. II. GILLET (Archives</s>
+        </p>
+        <p>
+          <s>générales de médecine, 1888).</s>
+        </p>
+        <p>
+          <s>Le foie chez les tuberculeux (Gazelle des hôpitaux, 1889).</s>
+        </p>
+        <p>
+          <s>Des altérations du myocarde dans les maladies infectieuses (Gazelle hebdomadaire, 1891).</s>
+        </p>
+        <p>
+          <s>NEURO-PATHOLOGIE</s>
+        </p>
+        <p>
+          <s>Un cas de syringomyélie (Bulletins de la Société anatomique, février 1887).</s>
+        </p>
+        <p>
+          <s>Note sur un cas de maladie de Friedreich (Archives de Neurologie, 1887).</s>
+        </p>
+        <p>
+          <s>Note sur la migraine ophthalmique, en collaboration avec z)1. le Dr Gilles de la Touhette (Bulletins de la Société de</s>
+        </p>
+        <p>
+          <s>Biologie et Progrès médical, 1887).</s>
+        </p>
+        <p>
+          <s>Sur une affection caractérisée par de l'astasie et de l'abasie (Archives de Neurologie et 1 vol. in-8 de 55 pages. Libr.</s>
+        </p>
+        <p>
+          <s>du Progrès médical, 1888).</s>
+        </p>
+        <p>
+          <s>Des rétractions fibro-tendineuses compliquant la contracture spasmodique (Nouvelle Iconographie de S alpé-</s>
+        </p>
+        <p>
+          <s>trière, 1888).</s>
+        </p>
+        <p>
+          <s>Note sur un cas d'athétose double, en collaboration avec M. E. BuN (Revue de médecine, 188S).</s>
+        </p>
+        <p>
+          <s>Des contractures, 1 vol. in-8 de 21 pages (Libr. du Progrès médical, 1888). Travail couronné par l'Académie des sciences</s>
+        </p>
+        <p>
+          <s>et par la Société médico-psychologique.</s>
+        </p>
+        <p>
+          <s>Cinq cas de maladie de Friedreich, en collaboration avec MM. Huet et Gilles DE la TounETTE (Nouvelle Iconographie</s>
+        </p>
+        <p>
+          <s>de la Salpélrière, 1888).</s>
+        </p>
+        <p>
+          <s>Sur un cas de paralysie du nerf cubital (Bulletins de la Société clinique, 1888).</s>
+        </p>
+        <p>
+          <s>Nouveaux faits de maladie de Friedreich (Bulletins de la Société clinique, 1888).</s>
+        </p>
+        <p>
+          <s>Note sur une affection caractérisée par de l'astasie et de l'abasie (Journal de médecine de Paris, 1888).</s>
+        </p>
+        <p>
+          <s>D'une forme particulière de troubles nerveux des extrémités supérieures (Nouvelle Iconographie de la Salpélrière, 1889).</s>
+        </p>
+        <p>
+          <s>Du traitement de l'ataxie locomotrice par la suspension (Bulletin médical, 1889).</s>
+        </p>
+        <p>
+          <s>Des contre-indications du traitement par la suspension (Bulletin médical, 1889).</s>
+        </p>
+        <p>
+          <s>De l'astasie-abasie (Rente générale de clinique, 1889).</s>
+        </p>
+        <p>
+          <s>Des indications de l'hypnotisme dans le traitement de l'hystérie (Bulletin médical, 1889).</s>
+        </p>
+        <p>
+          <s>Hystérie maniaque infantile (Revue générale de clinique, 1889).</s>
+        </p>
+        <p>
+          <s>L'Écriture médianimique. Le Spiritisme au point de vue scientifique (Bulletin médical, 1889).</s>
+        </p>
+        <p>
+          <s>PUBLICATIONS ANTÉRIEURES DU Dr PAUL BLOCQ.</s>
+        </p>
+        <p>
+          <s>De la syringomyélie (Gazette des hôpitaux, 1889).</s>
+        </p>
+        <p>
+          <s>Migraine ophtalmique et paralysie générale (Archives de Neurologie, 1889).</s>
+        </p>
+        <p>
+          <s>De la chorée molle (Gazette hebdomadaire, 1890).</s>
+        </p>
+        <p>
+          <s>Des affections qui ont été rapprochées du tabès.  Pseudo-tabès (Gazette des hôpitaux, 1890).</s>
+        </p>
+        <p>
+          <s>Hystérie et maladies organiques (Mercredi médical, 1890).</s>
+        </p>
+        <p>
+          <s>Syringomyelia (Brain, 1890).</s>
+        </p>
+        <p>
+          <s>Des somnambulismes (Gazette hebdomadaire, 1890). '</s>
+        </p>
+        <p>
+          <s>Sur l'anatomie pathologique de la maladie de Friedreich, en collaboration avec M. Maiunesco (Société de Biologie et</s>
+        </p>
+        <p>
+          <s>Archives de Neurologie, 1890).</s>
+        </p>
+        <p>
+          <s>Nature centrale de la paralysie spinale aiguë de l'adulte (Bulletin médical, 1890).</s>
+        </p>
+        <p>
+          <s>Grippe et maladies nerveuses (Gazelle hebdomadaire, 1890).</s>
+        </p>
+        <p>
+          <s>Polynévrites et poliomyélites, en collaboration avec M. l\JARINESCO (Société de Biologie et Nouvelle Iconographie de la</s>
+        </p>
+        <p>
+          <s>Salpélrière, 1890).</s>
+        </p>
+        <p>
+          <s>Sur la morphologie des faisceaux neuro-musculaires, en collaboration avec M. Marlnesco (Bulletins de la Société de</s>
+        </p>
+        <p>
+          <s>Biologie, I S30).</s>
+        </p>
+        <p>
+          <s>Remarques à propos de la guérison d'un cas d'impuissance datant de trois ans (Mercredi médical, 1890).</s>
+        </p>
+        <p>
+          <s>Une définition naturelle du crime, en collaboration avec 111. Onanoit (Revue scientifique, 1890).</s>
+        </p>
+        <p>
+          <s>Du goitre exophtalmique (Gazette hebdomadaire, 1890). -</s>
+        </p>
+        <p>
+          <s>Sur un cas de paralysie conjuguée de la sixième paire, en collaboration avec \I. G. GuiNoN (Archives de médecine</s>
+        </p>
+        <p>
+          <s>expérimentale, 1531).</s>
+        </p>
+        <p>
+          <s>La Neurasthénie et les Neurasthéniques (Gazette des hôpitaux, 1891).</s>
+        </p>
+        <p>
+          <s>Vigilambulisme hystérique et suggestion hypnotique (Revue générale de clinique, 1891).</s>
+        </p>
+        <p>
+          <s>Traitement de l'épilepsie par l'hydrate d'amyléne (Revue générale de clinique, 1891).</s>
+        </p>
+        <p>
+          <s>Séméiologie du sommeil (Brain, 1891).</s>
+        </p>
+        <p>
+          <s>De l'aphasie sous-corticale (Gazelle hebdomadaire, 1891).</s>
+        </p>
+        <p>
+          <s>D'un syndrome caractérisé par de la « Topoalgie ».  Neurasthémie monosymptomatique. Forme douloureuse (Ga-</s>
+        </p>
+        <p>
+          <s>zette hebdomadaire, 1891).</s>
+        </p>
+        <p>
+          <s>Article « Salivation dans les maladies nerveuses », in Dictionary Psychological medicine de IIACK-TucKE.</s>
+        </p>
+        <p>
+          <s>SOUS PRESSE</s>
+        </p>
+        <p>
+          <s>Séméiologie et Diagnostic des maladies du système nerveux, en collaboration avec M. ONAKOFF (I vol. in-18 diamant,</s>
+        </p>
+        <p>
+          <s>avec ligures daus le texte).</s>
+        </p>
+        <p>
+          <s>CoüeetL. - Imprimerie CutTf.</s>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+

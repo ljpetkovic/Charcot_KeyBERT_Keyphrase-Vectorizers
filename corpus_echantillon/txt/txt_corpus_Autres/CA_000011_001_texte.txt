@@ -1,0 +1,197 @@
+<Titre>Atlas schématique du système nerveux : origines, ramifications, anastomoses des nerfs : leur distribution dans les muscles et la peau</Titre>
+<Auteur>Flower, William Henry</Auteur>
+<Auteur>Duprat, A.</Auteur>
+<Date>1888</Date>
+<Cote>CA_000011_001</Cote>
+
+ATLAS SCHÉMATIQUE
+1) V
+SYSTÈME NERVEUX
+ORIGINES, RAMIFICATIONS, ANASTOMOSES DES NERFS
+LEUR DISTRIBUTION DANS LES MUSCLES ET LA PEAU
+l'AR
+W. H. FLOWER, F. R. S.
+traduit sur la troisième édition anglaise et augmenté
+Par A. DUPRAÏ (du Brésil)
+EXTERNE DES HOPITAUX DR PARIS
+PRÉCÉDÉ D'UNE I3 R É F A G E P A R
+M. DEJERINE
+MÉDECI.N DES HOPITAUX
+PROFESSEUR AGRÉGÉ A LA FACULTÉ DE MEDECINE
+PARIS
+G. MASSON, ÉDITEUR
+l I r r a l r e de l ' a c a d é m I e d e m é d e c I n e 120, Boulevard Saint-Germain, en face de l'École de Médecine
+
+PRÉFACE
+L'anatomie topographique, chirurgicale et médicale, a toujours occupé une très grande place dans les œuvres des anatomistes de notre pays.
+Par rapport au système nerveux, toutefois, une lacune restait à combler, car si nous possédons, aujourd'hui, nombre d'ouvrages et d'atlas traitant de l'anatomie de ce système, ce sont là des ouvrages d'anatomie surtout descriptive, et qui, malgré leur importance considérable, ne s'adaptent pas d'une façon absolument complète au but que se propose le clinicien.
+Aujourd'hui, en effet, l'anatomie du système nerveux périphérique est connue dans ses moindres détails, la distribution collatérale et terminale des nerfs établie avec une précision et une rigueur qui ne seront guère dépassées à l'avenir, mais nous manquions encore dans notre littérature d'un atlas qui vînt compléter les tentatives de Duchenne (de Boulogne) et de Erb, en nous donnant un aperçu complet et exact du système nerveux périphérique, depuis ses origines centrales, radiculaires, jusqu'à ses terminaisons.
+L'atlas de M. Flower me paraît très bien compris et parfaitement conforme au but que s'était proposé son auteur.
+Quoique cet atlas soit en partie schématique (particularité qui ne peut guère être évitée dans un ouvrage de ce genre), les dessins en sont d'une exactitude parfaite, et trahissent la main d'un anatomiste consommé, qui ne s'est point laissé rebuter parles dissections les plus pénibles et les plus délicates.
+Le plan général de l'ouvrage est le suivant :
+Les nerfs sont représentés, à partir de leur origine apparente, jusqu'à leurs terminaisons dans la peau et les muscles, les plexus intermédiaires y compris, de telle sorte qu'en jetant un coup d'œil sur chaque planche, on voit immédiatement à quel tronc, à quel plexus, et partant à quel groupe de racines appartient tel ou tel filet collatéral ou terminal, se rendant à tel muscle, ou à telle partie de la peau. Deux planches sont consacrées aux nerfs crâniens, et deux autres aux nerfs rachidiens.
+Dans une planche consacrée uniquement à l'étude de la sensibilité cutanée, l'innervation de
+
+chaque partie du tégument, et par suite les plexus ou les nerfs originels correspondants, sont indiqués avec soin. Une dernière planche, enfin, comprend l'origine et la distribution du système grand sympathique.
+M. Duprat, externe des hôpitaux de Paris, qui a traduit de l'anglais l'ouvrage de Flower, a eu l'heureuse idée d'ajouter à l'original une planche d'anatomie topographique crânio-cérébrale, en se basant sur les travaux de Broca et de Ch. Féré. C'était là un complément nécessaire dans un ouvrage de ce genre.
+L'atlas de M. Flower, cela est certain, n'apprendra rien de nouveau aux anatomistcs, car les planches qu'il contient se retrouvent, en partie du moins, dans nos traités classiques. Ce qui tait, je le répète, le mérite de cet ouvrage, c'est qu'il nous donne, dans chaque planche, une vue d'ensemble de la distribution collatérale et terminale des nerfs, à partir de leurs origines. C'est là pour le clinicien une particularité précieuse et qui lui facilitera beaucoup sa tâche, dans nombre de cas de paralysies isolées ou dissociées, de la motilité et de la sensibilité, et je ne doute pas que le public médical ne fasse à cet ouvrage l'accueil favorable qu'il mérite.
+Paris, 9 août 1883.
+J. DEJERINE.
+
+PRÉFACE
+DE LA TROISIÈME ÉDITION ANGLAISE
+Ces diagrammes ont été publiés pour la première fois en 1860. Ils ont été dessinés par l'auteur lors de son enseignement d'anatomie à l'École de médecine du Middlesex Hospital. En les publiant l'auteur n'a pas eu l'intention d'élargir les limites des connaissances sur ce sujet; il pense seulement pouvoir arriver à présenter l'étude du système nerveux sous une forme facilement accessible et à la portée des étudiants et de ceux auxquels leurs occupations ne permettent pas de faire des investigations personnelles.
+La distribution de tous les nerfs de l'économie, partout où ils ont reçu un nom, se trouve représentée dans les planches, de même que leur terminaison dans les muscles et les diverses régions de la peau. Afin de rendre la lecture plus facile, les noms des muscles sont écrits en rouge et ceux des nerfs en noir.
+Il est bien entendu que les présentes planches ne sont que des diagrammes ou schémas représentant îi plat des organes qui sont en réalité superposés à des distances variables, quelquefois à direction croisée; les rapports réciproques et les proportions des nerfs sont donc modifiés.
+Pour les plexus et autres parties variables suivant les sujets on a eu recours, tout en donnant une description exacte, à la disposition la plus simple; quant aux parties sur lesquelles on n'est pas encore fixé, telles que les anastomoses des nerfs crâniens, elles ont été passées sous silence pour laisser place aux faits sur lesquels il n'existe aucun doute.
+Comme en général les nomenclatures diverses ont entre autres inconvénients celui d'embarrasser l'étudiant, nous avons pour plus de facilité adopté celle de la 6e édition de Quain's Eléments of Anatomy, par Dl Sliarpey et M. Ellie.
+Les matériaux qui ont servi à l'exécution de ces diagrammes ont été fournis surtout par des préparations anatomiques : l'auteur a cependant eu recours non seulement à l'ouvrage d'anatomie ci-dessus mentionné, mais aussi à celui de Sivan et au magnifique Atlas de MM. Ilirschfeld et Leveillé.
+
+Dans la deuxième édition publiée en 1872, on a considérablement réduit, pour plus de commodité, la grandeur des planches sans que toutefois leur clarté et leur exactitude aient subi la moindre altération. En révisant les planches, l'auteur a pris en considération quelques indications dues à la bienveillance des professeurs Turner d'Edimbourg et J. Beswich Perrin. Quelques modifications ont donc été apportées à la présente édition.
+Royal Collège of Surgeons of England.
+Décembre 1880.
+
+PLANCHE I
+Cette planche, qui n'existe pas dans l'édition originale, a pour but de donner une idée d'ensemble sur le cerveau. La figure 4 est destinée à montrer les rapports des circonvolutions cérébrales avec les os du crâne; la figure 2 est surtout affectée aux rapports des ventricules cérébraux entre eux. L'une et l'autre de ces figures sont en partie schématiques, toutefois nous les avons construites d'après nature et par suite nous avons subordonné nos schémas aux faits et non pas à des idées théoriques préconçues.
+Pour la figure 1 nous nous sommes inspirés en plus des données de topographie crânio-cérébrale devenues classiques, dues surtout à Broca et à M. Ch. Féré, dont voici le résumé :
+« La scissure de Rolando se trouve en arrière de la suture coronale à une distance de 45 millimètres en moyenne; l'extrémité inférieure de celte scissure se trouve à 4 ou 5 millimètres au-dessus de la suture pariéto-temporale et à 26 millimètres environ en arrière de la suture fronto-pariétale. La suture de Sylvius à son point de départ est à 5 millimètres environ en arrière du ptérion, et son trajet moyen est parallèle à la suture temporo-pariétale. La scissure perpendiculaire externe, la plupart des fois, coïncide avec la suture lambdoïde. Enfin la scissure sous-occipitale correspond à peu de chose près à la suture occipito-temporo-pariétale. » — Quelques auteurs affirment que la scissure de Rolando ne descend jamais jusqu'à la scissure de Sylvius ; quand ce ne serait qu'à titre d'anomalie nous croyons devoir prévenir le lecteur que parmi les cerveaux que nous avons examinés nous avons, dans quelques cas, rencontré la scissure de Rolando se prolongeant jusqu'à la scissure de Sylvius, de telle sorte que les circonvolutions ascendantes se trouvaient nettement séparées. Dans la figure 2 de notre planche nous avons représenté la partie terminale de la scissure de Rolando, quoique cependant nous ayons constaté que sur certains cerveaux cette scissure se terminait supérieurement en angle, n'intéressant pas la surface interne du cerveau et venant se perdre, après un très court trajet, sur la face antéro-externe de l'organe.
+La seconde partie de cette planche (fig. 2) est destinée à montrer, comme nous l'avons dit plus haut, les rapports qu'affectent entre eux les ventricules du cerveau.
+Ces ventricules sont au nombre de cinq : deux latéraux, un moyen, un inférieur ou quatrième et un antéro-supérieur médian, cinquième ventricule, ou ventricule de la cloison.
+
+Pour bien comprendre leur disposition, il est de toute nécessité d'avoir recours au développement embryonnaire du cerveau. La masse encéphalo-médullairc procède de la gouttière, dite gouttière médullaire, de la manière suivante : les bords de celte gouttière s'adossent d'abord, puis se soudent et donnent lieu ;i un canal creux ; plus tard, l'épaississement des parois de ce canal sera le point de départ des différents centres nerveux, en même temps que sa cavité persistera pour constituer le canal de l'épendyme dans la moelle et les cavités venlriculaires dans l'encéphale.
+Lorsque la fusion des bords de la gouttière médullaire commence à avoir lieu et avant que cette fusion ne soit complète, on voit se produire, à l'extrémité supérieure de la gouttière, trois renflements auxquels on a donné le nom de vésicules cérébrales primitives ; ce n'est qu'après l'apparition de ces trois vésicules que la gouttière se transforme en un canal parfait.
+Peu après leur apparition, ces trois ampoules subissent des modifications de forme et de situation. Primitivement à la suite les unes des autres, elles affectent ultérieurement la disposition suivante : la vésicule antérieure ou supérieure devient antéro-inférieure ; la vésicule moyenne devient supérieure et correspond au sommet de la tête ; finalement la vésicule inférieure ou postérieure, située au-dessous de la précédente, forme avec la future moelle un angle très saillant à sommet postéro-supérieur. D'abord homogènes, elles ne restent pas longtemps telles, car un sillon transversal vient diviser la vésicule antérieure en deux parties : une antérieure [cerveau antérieur) et une autre postérieure [cerveau intermédiaire) plus petite que la précédente ; la vésicule moyenne ne subit aucune division ; de même que l'antérieure, la vésicule postérieure sera divisée par un sillon également transversal en deux parties : une antérieure [cerveau postérieur) et une autre postérieure [arrière-cerveau).
+Ces différents changements, comme tous ceux que nous allons voir par la suite, ont lieu ici par l'épaississement des parois du canal médullaire, ailleurs par leur amincissement.
+De même que les vésicules primitives, la cavité du canal médullaire subit d'importantes modifications; unique à son origine, nous la voyons se subdiviser, par les étranglements transversaux qui limitent les ampoules, en des cavités disposées en série linéaire qui sont : le canal de la moelle, et trois autres auxquelles en allant d'arrière en avant nous pourrions donner les noms de : 1° ventricule primitif postérieur; 2° ventricule primitif moyen; 3° enfin de ventricule primitif antérieur; de ces trois ventricules primitifs seul le dernier subit encore une subdivision; en effet, à un certain moment du développement embryonnaire un étranglement antèro-postérieur [scissure interhémisphérique) vient diviser le cerveau antérieur en deux moitiés distinctes et latérales [hémisphères cérébraux), en même temps que la cavité qui lui correspond (ventricule primitif antérieur) se trouve également divisée en deux portions distinctes (ventricules latéraux) : cette scission n'étant pas complète (trou de Monro), elle n'interceptera pas la communication de ces cavités avec le ventricule primitif moyen (troisième ventricule).
+Le tableau ci-dessous, emprunté à Huguenin, contient les différentes parties de l'encéphale qui
+
+dans le cours du développement embryonnaire de cet organe prennent naissance des parties ci-dessus décrites :
+Cerveau antérieur (vésicule des hémisphères) : hémisphères cérébraux ; corps striés, noyau lenticulaire, corps calleux ; trigone cérébral.
+Cerveau intermédiaire (vésicule des couches optiques) : tubercules mamillaires ; infundibulum ; substance perforée postérieure.
+Cerveau moyen (vésicule des tubercules quadrijumeaux) : tubercules quadrijumeaux ; protubérance, pédoncules cérébelleux supérieurs ; pédoncules cérébraux.
+Cerveau postérieur : cervelet.
+Arrière-cerveau : bulbe.
+La partie en pointillé de la figure 2 représente les ventricules latéraux ; afin de ne pas surcharger trop notre figure, nous avons inscrit la corne inférieure du ventricule latéral plus bas qu'elle ne se trouve normalement.
+Pour la description détaillée des différents ventricules nous renvoyons aux traités classiques, ne pouvant la donner ici, le cadre de notre travail ne comportant pas de tels développements.
+1, Trou de Monro faisant communiquer les ventricules latéraux avec le troisième ventricule ou ventricule moyen. —2, Coupe de la commissure cérébrale antérieure. — 3, Coupe du nerf optique. — 4, Glande pituitaire. —¦ 4', Tige pituitaire ou infundibulum. — 5, Tuber cinereum. — 6, Tubercule pisiforme. — 7, Nerf oculo-moteur commun. —8, Espace perforé médian. — 9, Coupe de la glande pinéale. — 10, Fente de Bicbat. — 11, Tubercules quadrijumeaux. — 12, Coucbe optique. — 13, Coupe d'un pédoncule cérébral. — 13", Coupe du bulbe rachidien. — 13', Coupe de la protubérance. — 14, Aqueduc de Sylvius. — 15, Valvule de
+• Vieussens. — 16, Quatrième ventricule. — 17, 17, 17, 17, Trigone cérébral, voûte à trois piliers. — 18, Cloison transparente {ventricule de la cloison). — 19, Corps calleux, son genou et bec, 19". — Son bourrelet, 19. — 20, 20, 20, Sinus du corps calleux.
+
+PLANCHES II ET III
+NERFS CRANIENS.
+On comprend sous ce nom les douze paires de nerfs émanant de l'axe cérébro-spinal et sortant par les trous de la base du crâne pour se rendre aux diverses régions auxquelles elles sont destinées.
+La nomenclature des nerfs crâniens introduite par Willis a pris tellement corps dans notre littérature médicale, analomique et physiologique, avant qu'on ne lui ait reconnu des défauts, qu'il nous est impossible de nous en défaire entièrement. La nomenclature de Sœmmering, dans laquelle les septième et huitième paires de Willis ont été séparées en cinq paires distinctes, est plus exacte et plus généralement adoptée. Dans les diagrammes nous avons mis les deux nomenclatures en regard afin qu'on puisse les comparer.
+Dans la première colonne explicative de chaque planche nous n'avons donné que l'origine apparente des nerfs ; quoique d'une très grande importance physiologique, nous avons passé sous silence l'origine réelle des nerfs, car outre leur complexité il existe encore une grande dissidence à ce sujet (1).
+Plusieurs des nerfs crâniens sont en connexion par de petits filets avec des branches du grand sympathique. Ces communications n'étant pas assez bien interprétées au point de vue physiologique, les mots venant du et vers le qui leur sont appliqués doivent être pris seulement dans le sens anato -inique et non pas comme voulant exprimer la direction présumée du courant nerveux.
+La deuxième planche représente la distribution des six premières paires des nerfs crâniens.
+I. Le nerf olfactif est destiné spécialement au sens de l'odorat. Il est ordinairement décrit comme un nerf; cependant, à cause du grand développement de son extrémité antérieure, on pourrait plutôt le considérer comme une expansion de l'encéphale, et de plus il contient beaucoup de substance grise, ne possède pas de névrilème et est analogue aux lobes olfactifs des animaux inférieurs.
+De la face inférieure du cerveau partent environ vingt petits nerfs qui traversent les trous de la lame criblée de l'ethmoïde et se distribuent à la membrane muqueuse des fosses nasales dans ses deux tiers supérieurs.
+(1) Nous avons cru toutefois devoir la donner telle qu'elle est admise généralement. M. D. T.
+
+II. Le nerf optique est le nerf spécial de la vision, il se termine dans la rétine. Le nerf optique d'un coté se réunit à celui du côté opposé dans le chiasma des nerfs optiques. Depuis son origine jusqu'au chiasma il a la forme d'une bandelette appelée bandelette optique.
+III. Le moteur oculaire commun (troisième paire) est un nerf entièrement moteur. Il fournit des branches à cinq des muscles de l'orbite et une (courte racine) au ganglion ophtalmique, par l'intermédiaire duquel il donne des mouvements à l'iris.
+IV. Le pathétique ou trochléaire (quatrième paire) est le plus petit des nerfs crâniens et se termine dans le muscle grand oblique de l'œil auquel il est spécialement destiné. Il s'anastomose avec le sympathique et très souvent avec la branche ophtalmique de la cinquième paire, et d'après Bidder dont les observations ont été confirmées par Hirschfeld, il envoie une petite branche à la dure-mère.
+V. Le trijumeau ou trifacial (cinquième paire) ressemble aux nerfs rachidiens par les deux racines qui lui donnent naissance, une sensitive et l'autre motrice. C'est à peu près à cela que se réduit la ressemblance, car la racine motrice est courte et sa distribution est très limitée.
+La grosse racine constitue le principal nerf de la sensibilité générale et musculaire de la face; elle innerve les muscles masticateurs, et une de ses branches contient des ramifications affectées au sens du goût. Comme les nerfs rachidiens la racine sensitive présente un rendement gangliforme (ganglion de Casser) d'où partent les trois branches principales du nerf.
+Les deux branches supérieures sont simplement des nerfs de sensibilité générale, tandis que l'inférieure vers laquelle se rend la racine motrice présente un caractère plus complexe, car parmi ses branches elle a :
+1° De simples nerfs de sensibilité (dentaire inférieur, auriculo-temporal, buccal);
+2° Des nerfs moteurs qui, probablement comme les nerfs spinaux, contiennent aussi des fibres sensitives ;
+3° Un nerf de sensibilité ordinaire et d'un sens spécial (gustation), lequel, par son anastomose avec la corde du tympan venant de la septième paire, contient des fibres motrices.
+Les branches de la cinquième paire vers leur terminaison s'anastomosent très souvent avec des branches de la septième paire et communiquent la sensibilité à la peau au-dessus des muscles innervés par la septième paire.
+Quatre petits ganglions contenant de la substance grise sont en connexion avec ce nerf : chacun d'eux est en communication avec un nerf moteur et un nerf sensitif, et avec le grand sympathique et donne des branches aux régions voisines.
+VI. Le moteur oculaire externe (sixième paire) est le nerf moteur du muscle droit externe de l'œil. La planche III représente les six dernières paires crâniennes.
+VIL Le facial (septième paire) ou portion dure de la septième paire de Willis est un nerf purement moteur et se distribue aux muscles de la face. Outre les anastomoses indiquées dans la planche, le nerf facial se rend par le grand pétreux superficiel (lequel après accolement avec un filet du grand
+
+sympathique prend le nom de nerf Vidien et va dans le ganglion de Meckel constituer une de ses racines) à des muscles du voile du palais (1) et par l'intermédiaire de la corde du tympan aux fibres musculaires intrinsèques de la langue. À leur terminaison dans les muscles ses fibres s'anastomosent avec la cinquième paire.
+VIII. Le nerf auditif (huitième paire), portion molle de la septième paire de Willis, est un nerf destiné à l'audition; il se distribue dans l'oreille interne.
+IX. Le glosso-pharyngien (neuvième paire) donne de petites branches à l'oreille moyenne, mais il se distribue surtout dans la muqueuse de la partie supérieure du pharynx, à la trompe d'Eustache, aux piliers du voile du palais, aux amygdales et aux côtés de la partie postérieure de la langue.
+C'est le nerf du sens du goût, de sensibilité ordinaire pour les parties auxquelles il se distribue et le principal nerf centripète de la déglutition. Il est douteux qu'il contienne des fibres motrices ne venant pas des nerfs avec lesquels il s'anastomose.
+X. Le pneumogastrique ou vague (dixième paire), paire vague de Willis, donne des branches au pharynx, au larynx, à la trachée, aux poumons, au cœur, à l'œsophage et à l'estomac. Son tronc principal ayant une certaine longueur, nous lui avons donné une direction curviligne afin de l'adapter à la grandeur de la planche. Il a beaucoup d'anastomoses avec d'autres nerfs crâniens, rachidiens ou du système du grand sympathique; ses fonctions présentent un caractère mixte : tantôt sensitive, tantôt motrice, tantôt semblable à celle du grand sympathique.
+XL Le spinal (onzième paire) est un nerf entièrement moteur.
+Il part de la partie supérieure de la moelle, il s'anastomose en grande partie avec le pneumogastrique (de là son nom accessoire de nerf vague).
+Il se distribue au sterno-cléido-masloïdien et au trapèze.
+XII. Le grand hypoglosse (douzième paire) représente la neuvième paire de Willis, il innerve toutes les fibres extrinsèques de la langue. Sa fonction est exclusivement motrice, car la sensibilité qu'il paraît donner vient probablement des nombreuses anastomoses avec les nerfs rachidiens.
+(1) Avec Vulpian nous ferons remarquer que l'innervation du voile du palais est due non pas au facial, mais au spinal et au pneumogastrique, tout au moins chez les animaux. N. D. T.
+
+PLANCHES IV ET V
+NERFS RAGHIDIENS OU SPINAUX.
+Les nerfs venant de la moelle ont chacun deux racines. La postérieure est plus considérable que l'antérieure; elle possède un ganglion et est composée uniquement de fibres destinées à transmettre les impressions sensitives au cerveau. La racine antérieure qui ne possède pas de ganglion est composée de fibres qui transmettent le mouvement aux différents muscles de l'économie.
+Le nerf qui résulte de la réunion de ces deux racines a une fonction mixte, car il est composé de fibres motrices et de fibres sensitives.
+Aussitôt sortis des trous de conjugaison, les nerfs se divisent en deux branches, une relativement petite se dirige vers la partie postérieure du tronc et se rend aux muscles et à la peau du dos. Les branches antérieures forment les gros nerfs qui vont se distribuer au cou, aux parties latérales et antérieures du tronc et aux membres.
+Comme les nerfs crâniens les nerfs rachidiens sont symétriquement disposés de chaque côté du corps.
+Ils sont au nombre de trente et une paires divisées, d'après la région vertébrale d'où ils émergent, en : paires cervicales au nombre de huit; paires dorsales au nombre de douze; paires lombaires au nombre de cinq; paires sacrées au nombre de cinq; et finalement paire coccygienne unique.
+La distribution des paires cervicales et des paires dorsales se trouve indiquée dans la planche III.
+Les quatre premières branches supérieures constituent le plexus cervical; les branches antérieures des quatre paires cervicales inférieures avec la branche antérieure de la première dorsale forment
+le plexus brachial.
+Les branches antérieures des paires dorsales sont appelées nerfs intercostaux.
+A partir du troisième nerf intercostal nous ne les avons pas fait figurer sur le diagramme, parce qu'ils se ressemblent tous et ont le même trajet entre les côtes, innervant les muscles intercostaux et donnant des branches antérieures et latérales pour la surface du thorax.
+Les petites fibres émanant des nerfs rachidiens près de leur origine et se rendant aux ganglions du grand sympathique ont été omises ici pour la clarté de la planche, mais on pourra les voir à la planche VI.
+
+La planche V complète la distribution des nerfs rachidiens. Les branches antérieures des trois premiers nerfs lombaires et une grande partie de la quatrième constituent le plexus lombaire.
+Le plexus nerveux formé par une partie de la branche antérieure de la quatrième paire lombaire, la branche antérieure de la cinquième lombaire, avec celles des trois premières et une partie de la quatrième sacrée constituent le plexus sacré.
+
+PLANCHE VI
+SYSTÈME DU GRAND SYMPATHIQUE
+Les nerfs de ce système, aussi appelé trisplanchnique, système ganglionnaire ou système nerveux de la vie organique, sont destinés à innerver les viscères; ils communiquent par de nombreuses anastomoses avec le système des nerfs cérébro-rachidiens. Les petits ganglions en connexion avec la cinquième paire crânienne sont considérés comme appartenant au système du grand sympathique; comme ils ont été figurés dans la planche I, ils sont omis ici.
+Sont encore considérés comme appartenant à ce système, les ganglions en communication avec le nerf glosso-pharyngien et le nerf pneumogastrique, ainsi que ceux des veines postérieures des nerfs rachidiens.
+A part les ganglions ci-dessus mentionnés, le système du grand sympathique consiste surtout (et c'est ce que représente cette planche) en deux chaînes ganglionnaires anastomosées entre elles, situées à la partie profonde du cou, du thorax et de la cavité abdominale, une de chaque côté de la colonne vertébrale, étendues depuis la partie supérieure de la région cervicale jusqu'à la région coccygienne, où elles se terminent en un ganglion (ganglion impair).
+Chaque chaîne est généralement constituée par vingt-quatre ou vingt-cinq ganglions, symétriquement disposés de chaque côté de la colonne vertébrale.
+Chaque ganglion est en communication avec celui qui se trouve au-dessus et celui qui se trouve au-dessous; extérieurement il est en communication avec un ou plusieurs nerfs rachidiens; intérieurement il envoie des branches qui entrent dans la formation des plexus (prévertébraux), situés sur la ligne médiane dans les cavités viscérales.
+Ceux-ci, après avoir été plus loin renforcés par des branches des nerfs rachidiens, envoient des branches aux divers organes du cou, du thorax, de l'abdomen et de la cavité pelvienne.
+Dans ces plexus sont situés plusieurs ganglions, dont chacun est considéré comme un centre de formation ou de modification de la force nerveuse (1).
+Les diverses branches, dans leur parcours, entourent les vaisseaux sanguins à la manière d'un
+(1) On peut, ce nous semble, considérer les ganglions du grand sympathique comme des centres à? automatisât ion du fonctionnement des viscères, ce dont rend compte, à notre avis, l'aclion du curare sur le système nerveux. — N. D. T.
+
+filet. Dans ce diagramme, afin d'éviter d'inutiles répétitions, de la confusion, le système du grand sympathique, qui est double, a été représenté d'un seul côté.
+Le plexus cardiaque, ainsi que l'organe auquel il se distribue, est unique; les nerfs cardiaques de chaque côté convergent vers lui.
+Les plexus solaire et hypogaslrique sont aussi uniques et situés à peu près sur la ligne médiane.
+De chaque côté du plexus solaire, au point où l'atteint le nerf grand splanchnique, se trouve placé le ganglion semi-lunaire; des plexus secondaires qui en dérivent: le diaphragmatique, le sous-rénal, le rénal et le spermatique sont doubles comme les artères qu'ils accompagnent; mais l'hépatique, le coronaire, le splénique, Je mésentérique supérieur, le mésentérique inférieur et l'aortique sont uniques et dissimétriques.
+Le plexus hypogastrique se divise en deux parties situées de chaque côté de la cavité pelvienne, et donne le plexus hemorrhoidal inférieur, le plexus vesical, avec des branches prostatiques et caverneuses ou ovariennes, vaginales et utérines, suivant les sexes.
+Celte partie du système du grand sympathique est considérablement renforcée par des branches venant directement des nerfs sacrés.
+
+PLANCHE VII
+DISTRIBUTION DES NERFS CUTANÉS.
+Ce diagramme est destiné à montrer d'où dérive la sensibilité des différentes régions cutanées.
+Les espaces limités par les lignes pointillées ne sont qu'approximatifs, car ils sont très variables suivant les sujets, l'anastomose et le croisement des différents nerfs. Pour indiquer le rapport qui existe entre les différentes surfaces cutanées et l'axe cérébro-spinal, après le nom de chaque branche nous avons inscrit en abrégé leur origine.
+Ci-dessous nous donnons explication de ces abréviations :
+1. V. Première (ophtalmique) branche de la cinquième paire.
+2. V. Deuxième (maxillaire supérieur) branche de la cinquième paire.
+3. V. Troisième (maxillaire inférieur) branche de la cinquième paire. P. C. Plexus cervical.
+P. L. Plexus lombaire. P. S. Plexus sacré.
+Nous avons ajouté à cette planche l'innervation spéciale de la main; dans les deux figures qui constituent l'original, nous avons figuré à leur place l'innervation dorsale et l'innervation palmaire: afin de mieux appeler l'attention sur ce point, l'innervation dorsale de la main, que nous avons fait figurer dans le corps de la figure, représente celle qui est généralement décrite quoiqu'inexacte ; sur la main qui se trouve isolée au bas de la planche nous avons cherché à représenter, d'après les recherches de Henle et Richelot, la vraie innervation dorsale de la main, la seule qui puisse d'ailleurs donner la clef de certains cas cliniques, que l'ancienne description laissait sans explication.
+Le pointillé représente par transparence l'innervation palmaire, laquelle est partagée par les nerfs médian et cubital de la façon suivante: le cubital anime un doigt et demi (le petit doigt et la moitié interne de l'annulaire), le reste de la main étant suppléé par le médian.
+A la face dorsale la distribution nerveuse devient plus complexe, car elle ne se fait pas à égalité de domaine entre le cubital et le radial (ancienne description); en effet, les branches collatérales provenant du nerf radial s'arrêtent à l'indicateur, et la moitié externe du médius à la première phalange de ces doigts; il en est de même des branches collatérales, que le nerf cubital fournit à l'annulaire et la moitié interne du médius. Les deux autres phalanges de ces deux doigts et demi
+
+(indicateur, médius et moitié externe de l'annulaire) reçoivent leur innervation dorsale du nerf médian, comme il suit : au niveau du pli interdigital, les collatéraux palmaires de l'indicateur du médius et de la moitié externe de l'annulaire se bifurquent; une branche constituera le collatéral palmaire, l'autre branche contourne le bord de la première phalange, atteint la face dorsale du doigt sur laquelle elle chemine jusqu'à la dernière phalange, où elle s'anaslamose avec le filet sous-unguéal, et constitue le vrai collatéral dorsal. Il résulte de cette disposition que tandis que les deux doigts de chaque côté du médius sont innervés par deux nerfs seulement : cubital et médian pour le côté interne, radial et médian pour le côlé externe, le médius, lui, se trouve innervé par trois nerfs : le médian, qui lui fournit ses collatéraux palmaires et ses collatéraux dorsaux de premier ordre ; enfin le cubital et le radial, l'un du côté interne, l'autre du côté externe, qui lui fournissent ses collatéraux dorsaux de second ordre, c'est-à-dire qui n'atteignent que la première phalange.
+
+Fig. 1
+PLANCHE I
+
+Fig. 2
+Imp. Monrocq, Paris.
+
+PLANCHE II
+Imp. Monrocq, Paris.
+
+PLANCHE III
+Imp. Monrocq, Paris.
+
+PLEXUS BRACHIAL
+PLEXUS CERVICAL
+Imp. Monrocq, Paris.
+
+PLEXUS SACRE
+PLEXUS LOMBAIRE
+PLANCHE V.
+Imp. Monrocq, Paris.
+
+PLANCHE VI.
+Imp. Monrocq, Paris.
+
+Ganglions cervicaux
+GANGLIONS THORACIQUES
+GANGLIONS LOMBAIRES
+GANGLIONS SACRÉS
+GANGLION IMPAIR OU COCCIGIEN
+PLANCHE VII.
+Imp. Monrocq, Paris.
+
