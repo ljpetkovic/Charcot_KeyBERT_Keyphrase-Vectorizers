@@ -17,7 +17,7 @@ import spacy
 nlp = spacy.load("fr_core_news_lg")
 
 # Convert spaCy's stop words to a list
-french_stop_words = list(nlp.Defaults.stop_words)
+# french_stop_words = list(nlp.Defaults.stop_words)
 
 # Set input/output paths
 input_path = "/Users/ljudmilapetkovic/Library/CloudStorage/Dropbox/ObTIC/CHARCOT/Charcot_KeyBERT_Keyphrase-Vectorizers/corpus/txt_corpus_Autres/"
@@ -30,11 +30,17 @@ kw_model = KeyBERT(model=TransformerDocumentEmbeddings("camembert-base"))
 vectorizer = KeyphraseCountVectorizer(
     spacy_pipeline=nlp,
     pos_pattern=(
-        "<N.*><ADJ.*>*|"  # NOUN + optional ADJECTIVE(s)
-        "<N.*><P.*><N.*><ADJ.*>*"  # NOUN + PREPOSITION + NOUN + optional ADJECTIVE(s)
-    ),
-    stop_words=french_stop_words
+       # "<NOUN>+"                                 # NOM ou plusieurs NOM
+        "<NOUN>+<NOUN>+"                         # NOM + NOM
+        "|<NOUN>+<ADJ>+"                          # NOM + ADJ
+        "|<NOUN>+<ADJ>+<ADJ>*"                    # NOM + plusieurs ADJ
+        "|<NOUN>+<ADP><NOUN>+"                    # NOM + PRÉP + NOM
+        "|<NOUN>+<ADP><NOUN>+<ADJ>*"              # NOM + PRÉP + NOM + (ADJ*)
+        "|<NOUN>+<ADP><NOUN>+<ADJ>+<ADJ>*"        # NOM + PRÉP + NOM + plusieurs ADJ
+    )
+    # stop_words=french_stop_words
 )
+
 
 # Get all .txt files in the input directory
 input_files = glob.glob(os.path.join(input_path, "*.txt"))
@@ -80,4 +86,4 @@ with open(output_file_name, "w", encoding="utf-8", newline="") as csv_file:
                 except ValueError as e:
                     print(f"Error processing {input_file_name} at end of file: {e}")
 
-print(f"✅ Keyphrases saved to {output_file_name}")
+print(f"Keyphrases saved to {output_file_name}")
