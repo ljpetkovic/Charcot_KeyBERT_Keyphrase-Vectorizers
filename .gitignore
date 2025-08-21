@@ -1,3 +1,7 @@
 SACADO/
 tests/
 tests_echoues/
+corpus/echantillon_autres.txt
+corpus/echantillon_charcot.txt
+corpus/corpus_autres.txt
+corpus/corpus_charcot.txt
